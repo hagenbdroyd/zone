@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e0d0b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Zone">
+<meta name="description" content="Filme, Denker und eigene Notizen">
+<title>Zone</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="kopf">
+  <h1>Zone</h1>
+  <p id="zaehler" class="leise" hidden></p>
+</header>
+
+<main>
+  <section id="ansicht-filme" class="ansicht">
+    <div class="werkzeuge">
+      <input id="suche" type="search" placeholder="Film suchen" autocomplete="off" aria-label="Film suchen">
+      <div class="reihe">
+        <select id="sortierung" aria-label="Sortierung">
+          <option value="zuletzt">Zuletzt gesehen</option>
+          <option value="wertung">Beste Wertung</option>
+          <option value="jahr-neu">Erscheinungsjahr, neu zuerst</option>
+          <option value="jahr-alt">Erscheinungsjahr, alt zuerst</option>
+          <option value="titel">Titel A–Z</option>
+        </select>
+        <select id="jahrzehnt" aria-label="Jahrzehnt"><option value="">Alle Jahrzehnte</option></select>
+      </div>
+      <div class="chips" id="chips" role="group" aria-label="Filter">
+        <button data-filter="alle" class="chip an">Alle</button>
+        <button data-filter="denker" class="chip">Mit Denker</button>
+        <button data-filter="liebling" class="chip">Lieblingsfilme</button>
+        <button data-filter="hoch" class="chip">Ab 4,5 Sterne</button>
+        <button data-filter="herz" class="chip">Mit Herz</button>
+        <button data-filter="wieder" class="chip">Mehrfach gesehen</button>
+      </div>
+    </div>
+    <p id="feed-status" class="leise feed" role="status"></p>
+    <ul id="liste" class="liste"></ul>
+    <p id="leer" class="leise mitte" hidden>Kein Film passt zu dieser Auswahl.</p>
+    <div id="nachladen"></div>
+  </section>
+
+  <section id="ansicht-heute" class="ansicht aktiv"></section>
+  <section id="ansicht-denker" class="ansicht"></section>
+  <section id="ansicht-notizen" class="ansicht">
+    <div class="block">
+      <h2>Notizen</h2>
+      <p id="notizen-zahl" class="leise"></p>
+      <button class="knopf haupt" data-neu="frei" data-neu-id="">Freie Notiz schreiben</button>
+    </div>
+    <div class="block">
+      <input id="notiz-suche" type="search" placeholder="Notizen durchsuchen" autocomplete="off" aria-label="Notizen durchsuchen">
+      <div id="notizen-liste"></div>
+    </div>
+    <div class="block">
+      <h2>Sicherung</h2>
+      <p class="leise">Die Notizen liegen nur auf diesem Gerät. Speichere ab und zu eine Sicherung, zum Beispiel in iCloud Drive.</p>
+      <div class="knoepfe">
+        <button class="knopf" id="sicherung-speichern">Sicherung speichern</button>
+        <label class="knopf">Sicherung einlesen<input id="sicherung-datei" type="file" accept="application/json,.json" hidden></label>
+      </div>
+      <p id="sicherung-meldung" class="leise" role="status"></p>
+    </div>
+  </section>
+</main>
+
+<nav class="leiste" aria-label="Bereiche">
+  <button data-ziel="heute" class="an">Heute</button>
+  <button data-ziel="filme">Filme</button>
+  <button data-ziel="denker">Denker</button>
+  <button data-ziel="notizen">Notizen</button>
+</nav>
+
+<div id="blatt" class="blatt" hidden>
+  <div class="blatt-hintergrund" data-zu></div>
+  <article class="blatt-inhalt" role="dialog" aria-modal="true" aria-labelledby="blatt-titel">
+    <button class="zu" data-zu aria-label="Schließen">×</button>
+    <div id="blatt-koerper"></div>
+  </article>
+</div>
+
+<div id="bild" class="bild" hidden><img alt="Foto in voller Größe"></div>
+
+<script src="config.js"></script>
+<script src="speicher.js"></script>
+<script src="app.js"></script>
+<script>
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>
