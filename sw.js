@@ -1,6 +1,6 @@
 // Macht die App offline nutzbar: Erst das Netz fragen (damit Updates sofort ankommen),
 // bei fehlender Verbindung die zuletzt geladene Fassung zeigen.
-const LAGER = "zone-v2";
+const LAGER = "zone-v3";
 const DATEIEN = [
   "./", "index.html", "styles.css", "app.js", "speicher.js", "config.js", "manifest.webmanifest",
   "data/filme.json", "data/denker.json", "data/impulse.json", "data/vertiefung.json",

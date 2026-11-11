@@ -17,6 +17,7 @@ Keine KI zur Laufzeit: Alle Texte sind fest in `data/` hinterlegt.
 - `feed/Code.gs` – das Google-Apps-Skript, das den Letterboxd-Feed durchreicht
 - `data/filme.json` – Filme aus dem Export (`python3 werkzeug/export_einlesen.py <Export-Ordner>`)
 - `data/denker.json` – Denker und Film-Verknüpfungen
+- `data/vertiefung.json` – ausführliche Fassung je Verknüpfung (Grundidee, Szenen, Einwand, Fragen)
 - `data/impulse.json` – Tagesimpulse
 - `sw.js`, `manifest.webmanifest`, `icons/` – Homebildschirm und Offline-Betrieb
 
