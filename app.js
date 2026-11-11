@@ -103,8 +103,14 @@
         <span class="denker-name">${text(d.name)}</span>
         <span class="leise">${text(v.begriff)}</span>
       </button>
-      <div class="fliess">${absaetze(v.text)}</div>
-      ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}
+      ${v.idee ? `
+        <h4>Die Grundidee</h4><div class="fliess"><p>${text(v.idee)}</p></div>
+        ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}
+        <h4>Im Film</h4><ul class="punkte">${v.szenen.map((x) => `<li>${text(x)}</li>`).join("")}</ul>
+        <h4>Einwand</h4><div class="fliess"><p>${text(v.einwand)}</p></div>
+        <h4>Fragen zum Weiterdenken</h4><ol class="punkte fragen">${v.fragen.map((x) => `<li>${text(x)}</li>`).join("")}</ol>`
+      : `<div class="fliess">${absaetze(v.text)}</div>
+        ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}`}
       ${v.lesen ? `<p class="lesen"><span>Zum Weiterlesen</span>${text(v.lesen)}</p>` : ""}`;
   }
 
@@ -547,14 +553,15 @@
     verdrahten();
     wunschLaden();
     try {
-      const [daten, denker, impulse] = await Promise.all(
-        ["data/filme.json", "data/denker.json", "data/impulse.json"].map(async (u) => (await fetch(u)).json())
+      const [daten, denker, impulse, vertiefung] = await Promise.all(
+        ["data/filme.json", "data/denker.json", "data/impulse.json", "data/vertiefung.json"].map(async (u) => (await fetch(u)).json())
       );
       zustand.filme = daten.filme;
       zustand.filme.forEach(verzeichnen);
       try { feedEinarbeiten(JSON.parse(localStorage.getItem(FEED_SCHLUESSEL))?.filme ?? []); } catch { /* kein gemerkter Feed */ }
       zustand.denker = { ...denker.denker, ...impulse.denker };
       zustand.links = denker.verknuepfungen;
+      for (const [id, v] of Object.entries(vertiefung)) if (zustand.links[id]) Object.assign(zustand.links[id], v);
       zustand.vorrat = vorratBauen(impulse.impulse);
       try {
         zustand.notizen = await Speicher.alle();
