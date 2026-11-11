@@ -1,140 +1,856 @@
 {
-"denker": {
-"kierkegaard": {"name": "Søren Kierkegaard", "daten": "1813–1855", "kurz": "Dänischer Denker des Einzelnen. Für ihn ist Glaube kein Wissen, sondern ein Sprung, und Verzweiflung die Krankheit eines Selbst, das nicht es selbst sein will.", "werk": "Furcht und Zittern; Die Krankheit zum Tode"},
-"nietzsche": {"name": "Friedrich Nietzsche", "daten": "1844–1900", "kurz": "Diagnostiker des Nihilismus. Nach dem „Tod Gottes“ fragt er, wie der Mensch ohne Jenseits Ja zum Leben sagen kann.", "werk": "Die fröhliche Wissenschaft; Zur Genealogie der Moral"},
-"camus": {"name": "Albert Camus", "daten": "1913–1960", "kurz": "Denker des Absurden: Der Mensch verlangt Sinn, die Welt schweigt. Camus antwortet darauf nicht mit Flucht, sondern mit Revolte.", "werk": "Der Mythos des Sisyphos; Der Mensch in der Revolte"},
-"sartre": {"name": "Jean-Paul Sartre", "daten": "1905–1980", "kurz": "Existenzialist der radikalen Freiheit. Wer seine Freiheit leugnet und sich hinter Rollen versteckt, lebt in Unaufrichtigkeit (mauvaise foi).", "werk": "Das Sein und das Nichts; Geschlossene Gesellschaft"},
-"heidegger": {"name": "Martin Heidegger", "daten": "1889–1976", "kurz": "Fragt nach dem Sein des Menschen als Dasein. Eigentlich lebt nur, wer seine Endlichkeit annimmt, statt im anonymen „Man“ aufzugehen.", "werk": "Sein und Zeit"},
-"weil": {"name": "Simone Weil", "daten": "1909–1943", "kurz": "Mystikerin und politische Denkerin. Sie beschreibt die Gewalt, die Menschen zu Dingen macht, und die Aufmerksamkeit als Gegenkraft.", "werk": "Schwerkraft und Gnade; Die Ilias oder das Gedicht von der Gewalt"},
-"pascal": {"name": "Blaise Pascal", "daten": "1623–1662", "kurz": "Mathematiker und religiöser Denker. Der Mensch flieht vor sich selbst in die Zerstreuung, und Gott bleibt ein verborgener Gott.", "werk": "Pensées (Gedanken)"},
-"laotse": {"name": "Laotse", "daten": "6. Jh. v. Chr. (legendär)", "kurz": "Dem Überlieferten nach Verfasser des Daodejing. Das Weiche und Nachgiebige ist dort dem Harten überlegen, Nicht-Handeln eine Form von Weisheit.", "werk": "Daodejing (Tao Te King)"},
-"levinas": {"name": "Emmanuel Levinas", "daten": "1906–1995", "kurz": "Denker des Anderen. Im Antlitz des anderen Menschen begegnet mir ein Anspruch, den ich nie ganz begreifen und nie abweisen kann.", "werk": "Totalität und Unendlichkeit"},
-"buber": {"name": "Martin Buber", "daten": "1878–1965", "kurz": "Philosoph des Dialogs. Er unterscheidet die Beziehung Ich–Du, in der ich einem Gegenüber begegne, vom Ich–Es, in dem ich es nur benutze.", "werk": "Ich und Du"},
-"dostojewski": {"name": "Fjodor Dostojewski", "daten": "1821–1881", "kurz": "Romancier, der philosophische Fragen an Figuren durchspielt: Schuld, Freiheit, das Leiden Unschuldiger und die Frage, ob ohne Gott alles erlaubt ist.", "werk": "Aufzeichnungen aus dem Kellerloch; Die Brüder Karamasow"},
-"freud": {"name": "Sigmund Freud", "daten": "1856–1939", "kurz": "Begründer der Psychoanalyse. Das Verdrängte verschwindet nicht, es kehrt in Traum, Symptom und im Unheimlichen wieder.", "werk": "Die Traumdeutung; Das Unheimliche"},
-"jung": {"name": "C. G. Jung", "daten": "1875–1961", "kurz": "Tiefenpsychologe. Die Persona ist die Maske, die wir der Welt zeigen, der Schatten das, was wir an uns nicht sehen wollen.", "werk": "Die Beziehungen zwischen dem Ich und dem Unbewussten"},
-"kant": {"name": "Immanuel Kant", "daten": "1724–1804", "kurz": "Moralisch handelt nur, wer aus freier Einsicht handelt. Der Mensch hat Würde und darf nie bloß als Mittel gebraucht werden.", "werk": "Grundlegung zur Metaphysik der Sitten"},
-"platon": {"name": "Platon", "daten": "ca. 428–348 v. Chr.", "kurz": "Im Höhlengleichnis halten Gefangene Schatten für die Wirklichkeit. Mit dem Ring des Gyges fragt er, ob wir gerecht blieben, wenn uns niemand sähe.", "werk": "Politeia (Der Staat)"},
-"descartes": {"name": "René Descartes", "daten": "1596–1650", "kurz": "Zweifelt an allem, auch daran, ob ein böser Geist ihm die ganze Welt vortäuscht, und findet Gewissheit nur im eigenen Denken.", "werk": "Meditationen über die Erste Philosophie"},
-"locke": {"name": "John Locke", "daten": "1632–1704", "kurz": "Für Locke besteht die Identität einer Person nicht im Körper, sondern im Bewusstsein, das sich an die eigenen früheren Taten erinnert.", "werk": "Versuch über den menschlichen Verstand (Buch II, Kap. 27)"},
-"parfit": {"name": "Derek Parfit", "daten": "1942–2017", "kurz": "Zeigt mit Gedankenexperimenten wie dem Teletransporter, dass persönliche Identität weniger fest ist, als wir glauben, und vielleicht gar nicht das, worauf es ankommt.", "werk": "Reasons and Persons"},
-"hobbes": {"name": "Thomas Hobbes", "daten": "1588–1679", "kurz": "Ohne gemeinsame Macht herrscht der Krieg aller gegen alle. Aus Furcht voreinander schließen die Menschen den Gesellschaftsvertrag.", "werk": "Leviathan"},
-"machiavelli": {"name": "Niccolò Machiavelli", "daten": "1469–1527", "kurz": "Beschreibt Macht nüchtern, wie sie ist. Wer herrschen will, muss lernen, nicht gut zu sein, wenn es die Lage verlangt.", "werk": "Der Fürst"},
-"schopenhauer": {"name": "Arthur Schopenhauer", "daten": "1788–1860", "kurz": "Hinter allem wirkt ein blinder, unstillbarer Wille. Das Leben pendelt deshalb zwischen Schmerz und Langeweile.", "werk": "Die Welt als Wille und Vorstellung"},
-"foucault": {"name": "Michel Foucault", "daten": "1926–1984", "kurz": "Untersucht, wie Macht durch Überwachung, Normen und Institutionen wirkt, und wer festlegt, was als verrückt oder kriminell gilt.", "werk": "Überwachen und Strafen; Wahnsinn und Gesellschaft"},
-"arendt": {"name": "Hannah Arendt", "daten": "1906–1975", "kurz": "Politische Denkerin. Das Böse kann banal sein, getan von Menschen, die nicht denken, und Politik zerfällt, wenn Tatsachen der Lüge geopfert werden.", "werk": "Eichmann in Jerusalem; Wahrheit und Lüge in der Politik"},
-"baudrillard": {"name": "Jean Baudrillard", "daten": "1929–2007", "kurz": "Theoretiker der Simulation. In der Hyperrealität verweisen Zeichen nur noch auf andere Zeichen, die Kopie ersetzt das Original.", "werk": "Simulacres et Simulation; Amerika"},
-"debord": {"name": "Guy Debord", "daten": "1931–1994", "kurz": "In der Gesellschaft des Spektakels ist alles, was unmittelbar erlebt wurde, in eine Vorstellung entwichen. Bilder regeln die Beziehungen der Menschen.", "werk": "Die Gesellschaft des Spektakels"},
-"han": {"name": "Byung-Chul Han", "daten": "geb. 1959", "kurz": "Beschreibt die Leistungsgesellschaft: Das heutige Subjekt wird nicht mehr von außen gezwungen, es beutet sich freiwillig selbst aus.", "werk": "Müdigkeitsgesellschaft"},
-"girard": {"name": "René Girard", "daten": "1923–2015", "kurz": "Gemeinschaften lösen ihre inneren Spannungen, indem sie sich gegen einen Sündenbock vereinen, an dessen Schuld alle glauben.", "werk": "Der Sündenbock; Das Heilige und die Gewalt"},
-"fanon": {"name": "Frantz Fanon", "daten": "1925–1961", "kurz": "Psychiater und Denker der Entkolonialisierung. Er beschreibt, wie Ausgrenzung und Verachtung sich in Körper und Psyche einschreiben und als Gewalt zurückkehren.", "werk": "Die Verdammten dieser Erde"},
-"montaigne": {"name": "Michel de Montaigne", "daten": "1533–1592", "kurz": "Erfinder des Essays. Er denkt gelassen und skeptisch über sich selbst nach und darüber, wie man mit dem Tod leben lernt.", "werk": "Essais"},
-"epiktet": {"name": "Epiktet", "daten": "ca. 50–138", "kurz": "Stoiker und ehemaliger Sklave. Frei wird, wer unterscheidet zwischen dem, was in seiner Macht steht, und dem, was nicht.", "werk": "Handbüchlein der Moral"},
-"marcaurel": {"name": "Marc Aurel", "daten": "121–180", "kurz": "Römischer Kaiser und Stoiker. Seine Notizen an sich selbst kreisen um Vergänglichkeit: Ruhm, Rang und Besitz vergehen gleichermaßen.", "werk": "Selbstbetrachtungen"},
-"jonas": {"name": "Hans Jonas", "daten": "1903–1993", "kurz": "Fordert eine Ethik für das technische Zeitalter: Handle so, dass die Wirkungen deines Handelns mit dem Fortbestand echten menschlichen Lebens verträglich sind.", "werk": "Das Prinzip Verantwortung"},
-"marx": {"name": "Karl Marx", "daten": "1818–1883", "kurz": "Analysiert Klassenverhältnisse und Entfremdung: Im Kapitalismus wird der Mensch selbst zur Ware und sein Leben zum Mittel fremder Zwecke.", "werk": "Ökonomisch-philosophische Manuskripte"},
-"adorno": {"name": "Theodor W. Adorno", "daten": "1903–1969", "kurz": "Kritiker der Kulturindustrie, die selbst Protest in Unterhaltung verwandelt. Berühmt für den Satz, es gebe kein richtiges Leben im falschen.", "werk": "Dialektik der Aufklärung; Minima Moralia"},
-"marcuse": {"name": "Herbert Marcuse", "daten": "1898–1979", "kurz": "Die Konsumgesellschaft erzeugt falsche Bedürfnisse und macht den Menschen eindimensional: zufrieden, angepasst, unfähig zum Widerspruch.", "werk": "Der eindimensionale Mensch"},
-"nozick": {"name": "Robert Nozick", "daten": "1938–2002", "kurz": "Sein Gedankenexperiment der Erlebnismaschine fragt, ob wir ein perfektes simuliertes Glück dem wirklichen Leben vorziehen würden.", "werk": "Anarchie, Staat, Utopia"},
-"aristoteles": {"name": "Aristoteles", "daten": "384–322 v. Chr.", "kurz": "Glück (Eudaimonia) ist kein Besitz, sondern ein gelingendes Leben: Tätigkeit gemäß der Tugend, getragen von Freundschaft.", "werk": "Nikomachische Ethik"},
-"jaspers": {"name": "Karl Jaspers", "daten": "1883–1969", "kurz": "In Grenzsituationen wie Tod, Leiden, Kampf und Schuld scheitert alles Planen. Gerade dort kann der Mensch zu sich selbst kommen.", "werk": "Philosophie II: Existenzerhellung"},
-"rousseau": {"name": "Jean-Jacques Rousseau", "daten": "1712–1778", "kurz": "Der Mensch ist von Natur aus gut, verdorben wird er durch die Gesellschaft und eine Erziehung, die ihn abrichtet statt wachsen lässt.", "werk": "Emile oder Über die Erziehung"},
-"frankl": {"name": "Viktor Frankl", "daten": "1905–1997", "kurz": "Psychiater und Überlebender der Konzentrationslager. Dem Menschen kann alles genommen werden, nur nicht die Freiheit, sich zu seiner Lage einzustellen.", "werk": "… trotzdem Ja zum Leben sagen"},
-"thomas": {"name": "Thomas von Aquin", "daten": "1225–1274", "kurz": "Scholastiker, der Aristoteles mit dem Christentum verbindet. Seine Lehre von den Lastern prägte die Vorstellung der sieben Todsünden.", "werk": "Summa theologiae"},
-"merleau": {"name": "Maurice Merleau-Ponty", "daten": "1908–1961", "kurz": "Phänomenologe des Leibes. Ich habe meinen Körper nicht wie ein Ding, ich bin mein Leib und durch ihn in der Welt.", "werk": "Phänomenologie der Wahrnehmung"},
-"feuerbach": {"name": "Ludwig Feuerbach", "daten": "1804–1872", "kurz": "Religionskritiker. In Gott verehrt der Mensch sein eigenes Wesen, vor allem seine Fähigkeit zu lieben, als etwas Fremdes.", "werk": "Das Wesen des Christentums"},
-"anders": {"name": "Günther Anders", "daten": "1902–1992", "kurz": "Denker des Atomzeitalters. Wir können mehr herstellen, als wir uns vorstellen und verantworten können.", "werk": "Die Antiquiertheit des Menschen"},
-"benjamin": {"name": "Walter Benjamin", "daten": "1892–1940", "kurz": "Fragt, was technische Reproduzierbarkeit mit Kunst macht, und warnt vor einem Faschismus, der die Politik ästhetisiert.", "werk": "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit"},
-"wittgenstein": {"name": "Ludwig Wittgenstein", "daten": "1889–1951", "kurz": "Philosoph der Sprache und ihrer Grenzen. Was sich nicht sagen lässt, zeigt sich höchstens.", "werk": "Tractatus logico-philosophicus"}
-},
-"verknuepfungen": {
-"28PO": {"d": "laotse", "begriff": "Die Stärke des Schwachen", "text": "Der Stalker betet im Film selbst mit Worten aus dem Daodejing: Wenn der Mensch geboren wird, ist er weich und biegsam, wenn er stirbt, hart und starr. Tarkowski baut darauf den ganzen Film. Schriftsteller und Professor sind klug, stark und zynisch, und gerade deshalb können sie das Zimmer nicht betreten. Der Stalker ist schwach, lächerlich, ein Narr, und nur er kann noch glauben.\n\nDie Zone verlangt kein Wissen, sondern Nachgiebigkeit: Der gerade Weg ist dort nie der kürzeste. Das ist Wu wei, Handeln durch Nicht-Erzwingen.", "zitat": "Das Weiche und Schwache überwindet das Harte und Starke.", "quelle": "Daodejing, Kap. 36 (sinngemäß)", "lesen": "Daodejing, Kap. 76 und 78"},
-"1xg8": {"d": "kierkegaard", "begriff": "Der Glaube kraft des Absurden", "text": "Alexander gelobt, alles aufzugeben, sein Haus, seine Familie, seine Sprache, wenn der Krieg ungeschehen wird. Am Morgen ist die Welt heil, und er hält Wort. Von außen sieht das aus wie Wahnsinn. Genau so beschreibt Kierkegaard Abraham: Wer wirklich glaubt, kann sich niemandem verständlich machen, denn sein Handeln lässt sich ethisch nicht rechtfertigen.\n\nOb das Opfer etwas bewirkt hat, lässt Tarkowski offen. Kierkegaard würde sagen: Diese Ungewissheit ist kein Mangel des Glaubens, sie ist sein Wesen.", "lesen": "Furcht und Zittern"},
-"2a2Y": {"d": "levinas", "begriff": "Der Andere, den ich nicht begreife", "text": "Die Forscher wollen den Ozean erkennen, vermessen, bestrahlen. Er antwortet, indem er ihnen ihr eigenes Gewissen schickt. Hari ist für Kelvin zuerst ein Phänomen, dann ein Mensch, dem er etwas schuldet, obwohl er nicht weiß, was sie ist. Das ist Levinas' Punkt: Der Andere ist kein Gegenstand des Wissens, sondern ein Anspruch an mich.\n\nSnauts Diagnose trifft die Gegenhaltung: Der Mensch sucht im All nur sich selbst.", "zitat": "Wir brauchen keine anderen Welten. Wir brauchen einen Spiegel.", "quelle": "Snaut in „Solaris“ (kein Levinas-Zitat)", "lesen": "Totalität und Unendlichkeit"},
-"1nrU": {"d": "pascal", "begriff": "Der verborgene Gott", "text": "Pastor Tomas feiert die Messe für eine fast leere Kirche und kann dem verzweifelten Jonas nichts sagen außer seinem eigenen Zweifel. Pascal nennt Gott den Deus absconditus: Er zeigt sich gerade so weit, dass Glaube möglich, aber nie erzwungen ist.\n\nBergman treibt das an die Grenze. Am Ende hält Tomas den Gottesdienst trotzdem, vor einer einzigen Zuhörerin. Ob das Glaube ist oder nur Pflicht, bleibt offen, und bei Pascal ist genau dieses Weitermachen ohne Gewissheit die Wette.", "zitat": "Das ewige Schweigen dieser unendlichen Räume macht mich schaudern.", "quelle": "Pensées", "lesen": "Pensées, die Abschnitte über die Wette und den verborgenen Gott"},
-"29ZU": {"d": "kierkegaard", "begriff": "Das Leben rückwärts verstehen", "text": "Isak Borg fährt zu seiner Ehrung und reist dabei durch sein eigenes Leben. In Träumen und Erinnerungen sieht er, was er war: korrekt, geachtet, kalt. Kierkegaard nennt den Zustand, in dem ein Mensch sich selbst verfehlt, ohne es zu merken, die verborgenste Form der Verzweiflung.\n\nBergmans Film ist milder als Kierkegaard. Isak versteht spät, aber nicht zu spät, und die letzten Bilder zeigen einen Mann, der mit seiner Vergangenheit Frieden schließt.", "zitat": "Das Leben kann nur rückwärts verstanden, muss aber vorwärts gelebt werden.", "quelle": "Tagebücher, 1843 (sinngemäß)", "lesen": "Die Krankheit zum Tode"},
-"1tZo": {"d": "weil", "begriff": "Die Gewalt, die Menschen zu Dingen macht", "text": "Jan und Eva sind Musiker, unpolitisch, auf eine Insel geflohen. Der Krieg holt sie trotzdem ein und verwandelt den ängstlichen Jan in einen Mörder. Simone Weil beschreibt Gewalt als eine Kraft, die jeden, der ihr unterworfen ist, zur Sache macht, das Opfer wie den, der sie ausübt.\n\nBergman zeigt keinen Feind und keine Sache, für die gekämpft würde. Übrig bleibt, was Weil in der Ilias las: Niemand besitzt die Gewalt, sie besitzt die Menschen.", "lesen": "Die Ilias oder das Gedicht von der Gewalt"},
-"rx6u": {"d": "buber", "begriff": "Vom Du zum Es", "text": "Marianne und Johan gelten als Musterpaar und reden doch seit Jahren aneinander vorbei. Buber würde sagen: Sie haben einander zum Es gemacht, zu einer verlässlichen Einrichtung. Erst als die Ehe zerbricht und beide einander verletzen, sehen sie sich wieder als Gegenüber.\n\nDas Paradoxe an Bergmans Film ist, dass die beiden nach der Scheidung ehrlicher miteinander sprechen als je zuvor. Begegnung lässt sich nicht verwalten.", "zitat": "Alles wirkliche Leben ist Begegnung.", "quelle": "Ich und Du", "lesen": "Ich und Du"},
-"Wus": {"d": "sartre", "begriff": "Unaufrichtigkeit und der Blick der anderen", "text": "Anna spricht unablässig von Wahrheit und lebt in einer Lüge über ihre Ehe. Andreas hat sich auf die Insel zurückgezogen, um niemandem mehr ausgesetzt zu sein. Beide betreiben, was Sartre mauvaise foi nennt: Sie erzählen sich eine Geschichte über sich selbst, um ihre Freiheit nicht tragen zu müssen.\n\nZusammen werden sie einander zur Falle. Bergman lässt am Ende sogar das Bild zerfallen, bis von Andreas nur noch Körnung bleibt.", "zitat": "Die Hölle, das sind die anderen.", "quelle": "Geschlossene Gesellschaft", "lesen": "Geschlossene Gesellschaft; Das Sein und das Nichts (Kapitel über die Unaufrichtigkeit)"},
-"1TjI": {"d": "dostojewski", "begriff": "Das Leiden der Unschuldigen", "text": "Töre rächt seine ermordete Tochter und tötet dabei auch ein Kind. Dann fragt er Gott, wie er das zulassen konnte, die Tat an ihr und seine eigene. Es ist die Frage Iwan Karamasows: Keine künftige Harmonie wiegt das Leiden eines einzigen Kindes auf.\n\nBergman lässt eine Quelle entspringen, wo das Mädchen lag. Töre bekommt keine Antwort, nur ein Zeichen, und verspricht, mit eigenen Händen eine Kirche zu bauen. Iwan würde die Eintrittskarte zurückgeben, Töre nimmt sie an.", "lesen": "Die Brüder Karamasow, Buch V („Die Empörung“ und „Der Großinquisitor“)"},
-"1vLe": {"d": "heidegger", "begriff": "Das Man und das eigentliche Leben", "text": "André erzählt von Wäldern in Polen und einem Scheinbegräbnis und behauptet, die meisten Menschen lebten wie Schlafwandler, gesteuert von Gewohnheit. Das ist Heideggers „Man“: Man lebt, wie man eben lebt, und weicht so der eigenen Endlichkeit aus.\n\nDas Schöne am Film ist Wallys Widerspruch. Ihm genügen eine Heizdecke und kalter Kaffee am Morgen. Der Film entscheidet den Streit nicht, er zeigt nur, dass Wally auf der Heimfahrt seine Stadt mit anderen Augen sieht.", "lesen": "Sein und Zeit, §§ 27 und 46–53"},
-"3xwE": {"d": "pascal", "begriff": "Allein in einem Zimmer", "text": "Ein Student steht eines Morgens nicht mehr auf. Er geht nicht zur Prüfung, antwortet niemandem, übt sich in vollkommener Gleichgültigkeit. Er versucht genau das, was Pascal für unmöglich hält: ohne Zerstreuung mit sich allein zu sein.\n\nPerecs Text gibt Pascal recht. Die Gleichgültigkeit ist keine Freiheit, sondern eine andere Art Gefängnis, und am Ende steht der Satz, dass die Zeit, die alles regelt, auch ihn nicht ausgenommen hat.", "zitat": "Das ganze Unglück der Menschen rührt allein daher, dass sie nicht ruhig in einem Zimmer zu bleiben vermögen.", "quelle": "Pensées", "lesen": "Pensées, die Abschnitte über die Zerstreuung (divertissement)"},
-"xlUa": {"d": "montaigne", "begriff": "Sterben lernen", "text": "Clancy reist durch untergehende Welten und führt dabei Gespräche über Meditation, Verlust und den Tod. Fast jede Folge läuft auf dieselbe Übung hinaus: hinschauen, statt wegzulaufen. Montaigne hat das als Kern des Philosophierens beschrieben. Wer den Tod bedenkt, verliert die Angst vor ihm und wird frei für das Leben.\n\nDie letzte Folge, das Gespräch mit der sterbenden Mutter, ist diese Übung im Ernstfall. Die Serie schöpft dafür stärker aus dem Buddhismus als aus Europa, die Bewegung ist dieselbe.", "zitat": "Philosophieren heißt sterben lernen.", "quelle": "Essais I, 20", "lesen": "Essais I, 20"},
-"i7Q4": {"d": "epiktet", "begriff": "Was in unserer Macht steht", "text": "Ruben verliert sein Gehör und will es um jeden Preis zurück. Joe, der die Gemeinschaft der Gehörlosen leitet, verlangt etwas anderes von ihm: jeden Morgen still in einem Zimmer sitzen. Das ist stoische Lehre. Das Gehör liegt nicht in Rubens Macht, seine Haltung dazu schon.\n\nErst als die Implantate ihm nur Blech und Lärm liefern, nimmt Ruben sie ab. Die Stille am Schluss ist kein Verlust mehr.", "zitat": "Nicht die Dinge selbst beunruhigen die Menschen, sondern ihre Meinungen über die Dinge.", "quelle": "Handbüchlein der Moral, 5", "lesen": "Handbüchlein der Moral"},
-"leq4": {"d": "nietzsche", "begriff": "Amor fati", "text": "„Was geschehen ist, ist geschehen“ ist das Gesetz des Films. Die Zukunft steht fest, weil sie schon stattgefunden hat, und trotzdem muss der Protagonist handeln. Neil kennt sein Ende und geht lächelnd hinein. Nietzsche nennt diese Haltung Amor fati: das Notwendige nicht bloß ertragen, sondern lieben.\n\nNolan macht daraus eine Ethik. Dass alles feststeht, ist keine Ausrede, nichts zu tun.", "lesen": "Die fröhliche Wissenschaft, Nr. 276 und 341"},
-"780m": {"d": "han", "begriff": "Das Leistungssubjekt", "text": "Lou Bloom spricht in Sätzen aus Karriere-Ratgebern und meint jeden davon ernst. Er ist Unternehmer seiner selbst, immer motiviert, immer lernbereit, vollkommen ohne Hemmung. Han beschreibt dieses Subjekt als Ergebnis einer Gesellschaft, die nicht mehr verbietet, sondern antreibt.\n\nBei Han endet die Selbstausbeutung im Burnout. Gilroys Film ist böser: Lou brennt nicht aus, er hat Erfolg, und die Sender kaufen jedes Bild.", "lesen": "Müdigkeitsgesellschaft"},
-"3wEC": {"d": "girard", "begriff": "Der Sündenbock", "text": "Ein Kind sagt einen Satz, und ein Dorf findet seinen Schuldigen. Niemand prüft, alle sind sich einig, und die Einigkeit fühlt sich an wie Gerechtigkeit. Girard beschreibt genau diesen Mechanismus: Eine Gemeinschaft entlädt ihre Angst an einem Einzelnen und glaubt aufrichtig an seine Schuld.\n\nVinterberg zeigt auch, was Girard betont: Der Mechanismus endet nicht mit dem Freispruch. Der Schuss im Wald am Schluss sagt, dass Lucas für immer gezeichnet bleibt.", "lesen": "Der Sündenbock"},
-"293w": {"d": "parfit", "begriff": "Der Teletransporter", "text": "Angiers Maschine ist Parfits berühmtes Gedankenexperiment als Bühnentrick: Ein exaktes Duplikat entsteht, das Original stirbt. Ist der Mann, der den Applaus bekommt, derselbe wie der im Wassertank? Angier weiß es jede Nacht nicht.\n\nParfit hält die Frage für leer: Es gibt keine tiefere Tatsache darüber, wer „wirklich“ überlebt. Borden und sein Bruder haben diese Einsicht längst gelebt, sie teilen sich ein einziges Leben.", "lesen": "Reasons and Persons, Teil III"},
-"29R2": {"d": "nietzsche", "begriff": "Rache und Ressentiment", "text": "Fünfzehn Jahre Gefangenschaft machen aus Oh Dae-su ein Werkzeug der Rache, und er merkt nicht, dass er dabei selbst das Werkzeug eines anderen ist. Nietzsche beschreibt Ressentiment als ein Gift, das den Rächenden an seinen Feind kettet, bis er ohne ihn nicht mehr leben kann.\n\nLee Woo-jin erschießt sich, sobald seine Rache vollendet ist. Sie war das Einzige, was ihn noch hielt.", "zitat": "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.", "quelle": "Jenseits von Gut und Böse, 146", "lesen": "Zur Genealogie der Moral, Erste Abhandlung"},
-"2bcK": {"d": "locke", "begriff": "Identität durch Erinnerung", "text": "Für Locke bin ich dieselbe Person wie gestern, weil mein Bewusstsein an gestern anknüpft. Leonard kann das nicht mehr. Er ersetzt Erinnerung durch Tätowierungen und Polaroids, also durch Zeugnisse, denen er glauben muss.\n\nDer Film zeigt die Schwachstelle der Theorie: Wer seine Identität aus Notizen baut, kann sie auch fälschen. Leonard belügt sich bewusst, um ein Ziel zu behalten, und ist damit weniger Opfer seines Gedächtnisses als dessen Autor.", "lesen": "Versuch über den menschlichen Verstand, Buch II, Kap. 27"},
-"27Xs": {"d": "baudrillard", "begriff": "Hyperrealität", "text": "Las Vegas ist für Baudrillard die Stadt, in der die Kopie das Original ersetzt hat, reine Oberfläche in der Wüste. Duke und Gonzo suchen dort den amerikanischen Traum und finden ein Zirkus-Casino, das nüchtern genauso halluzinatorisch ist wie auf Äther.\n\nDie Wellen-Rede in der Mitte des Films ist der Moment der Trauer: Die Sechziger glaubten an etwas Wirkliches. Übrig ist die Simulation davon.", "lesen": "Amerika; Simulacres et Simulation"},
-"29Wc": {"d": "freud", "begriff": "Verdrängung und Wiederkehr", "text": "Fred sagt, er erinnere sich lieber auf seine eigene Weise an die Dinge, nicht so, wie sie waren. Der Film nimmt das wörtlich. In der Todeszelle wird aus ihm ein anderer, jüngerer Mann mit einem anderen Leben, einer Wunschfantasie, in der er begehrt wird.\n\nFreud zufolge kehrt das Verdrängte immer wieder. Auch in Freds Fantasie taucht die Frau wieder auf, entzieht sich wieder, und der Mystery Man hält ihm die Kamera vors Gesicht.", "lesen": "Das Unheimliche; Die Verdrängung"},
-"2as8": {"d": "fanon", "begriff": "Gewalt als Antwort auf Verachtung", "text": "Vinz, Saïd und Hubert leben am Rand von Paris und werden bei jedem Schritt in die Stadt daran erinnert, dass sie dort nicht vorgesehen sind. Fanon beschreibt, wie dauernde Demütigung sich im Körper staut und zuerst gegen die eigenen Leute, dann gegen die Ordnung entlädt.\n\nKassovitz erzählt das als Fall aus dem fünfzigsten Stock. „Bis hierher lief's noch ganz gut“ gilt für die ganze Gesellschaft: Wichtig ist nicht der Fall, sondern die Landung.", "lesen": "Die Verdammten dieser Erde, Kap. 1"},
-"2aJS": {"d": "debord", "begriff": "Die Gesellschaft des Spektakels", "text": "Rupert Pupkin will nicht komisch sein, er will im Fernsehen sein. In seinem Keller spricht er mit Pappfiguren von Stars, und für ihn sind diese Gespräche wirklicher als sein Leben. Debord nennt das Spektakel ein gesellschaftliches Verhältnis, das durch Bilder vermittelt ist.\n\nScorseses Pointe ist, dass Pupkin recht behält. Die Entführung macht ihn berühmt, und das Spektakel nimmt ihn auf.", "lesen": "Die Gesellschaft des Spektakels"},
-"2aNq": {"d": "machiavelli", "begriff": "Die Logik der Macht", "text": "Michael Corleone handelt, wie Machiavelli es dem Fürsten rät: Er ist lieber gefürchtet als geliebt, schlägt zu, bevor andere es tun, und lässt keine Schuld offen. Am Ende hat er jeden Feind besiegt.\n\nDer Film zeigt, was im „Fürsten“ nicht steht. Michael lässt den eigenen Bruder töten und sitzt allein am See. Die Rückblenden zu Vito machen den Verlust sichtbar: Der Vater baute die Macht für die Familie, der Sohn opfert die Familie für die Macht.", "lesen": "Der Fürst, Kap. 15–18"},
-"2aVE": {"d": "kant", "begriff": "Freiheit als Bedingung der Moral", "text": "Die Ludovico-Behandlung macht Alex ungefährlich: Ihm wird übel, sobald er an Gewalt denkt. Gut ist er dadurch nicht geworden. Für Kant hat eine Handlung nur moralischen Wert, wenn sie aus freiem Willen geschieht. Ein dressierter Mensch handelt nicht, er funktioniert.\n\nDer Gefängnispfarrer sagt es im Film fast wörtlich: Wer nicht wählen kann, hört auf, ein Mensch zu sein. Kubrick lässt offen, ob uns ein freier Alex lieber sein sollte.", "lesen": "Grundlegung zur Metaphysik der Sitten"},
-"2b2A": {"d": "kierkegaard", "begriff": "Angst und Entscheidung", "text": "Donnie sieht, wohin die Dinge laufen, und weiß nicht, ob er überhaupt wählen kann. Seine Angst ist keine Furcht vor etwas Bestimmtem, sondern das, was Kierkegaard beschreibt: der Blick in die eigene Möglichkeit.\n\nAm Ende wählt er. Er bleibt im Bett liegen und lacht. Der Satz der alten Frau, jedes Lebewesen sterbe allein, wird durch sein Opfer zugleich bestätigt und widerlegt.", "zitat": "Angst ist der Schwindel der Freiheit.", "quelle": "Der Begriff Angst", "lesen": "Der Begriff Angst"},
-"4VZ8": {"d": "jonas", "begriff": "Verantwortung für die Künftigen", "text": "Die Erde stirbt, und die Frage ist, was die Lebenden denen schulden, die noch nicht geboren sind. Jonas hat daraus einen neuen Imperativ gemacht: Handle so, dass es auch künftig echtes menschliches Leben geben kann.\n\nDer Film spitzt das auf einen Konflikt zu. Professor Brand rettet die Menschheit als Gattung und belügt dafür die Lebenden, Cooper will seine eigene Tochter wiedersehen. Bei Jonas ist die Sorge der Eltern um das Kind das Urbild aller Verantwortung.", "lesen": "Das Prinzip Verantwortung"},
-"28MA": {"d": "sartre", "begriff": "Die Rolle, die man spielt", "text": "Billy spielt den Gangster, Colin den Polizisten, und beide spielen so lange, bis kaum noch jemand weiß, wer sie sind. Sartre beschreibt am Beispiel eines Kellners, wie ein Mensch in seiner Rolle verschwinden will, um nicht frei sein zu müssen.\n\nBilly geht an der Rolle zugrunde, weil er weiß, dass sie eine Lüge ist. Colin ist der tragischere Fall: Er hat nichts außer ihr.", "lesen": "Das Sein und das Nichts (Kapitel über die Unaufrichtigkeit)"},
-"B3qu": {"d": "foucault", "begriff": "Die Strafe an der Seele", "text": "Foucault beschreibt, wie die moderne Strafe vom Körper auf die Seele übergeht: Sie foltert nicht mehr, sie überwacht, isoliert und formt. Die Folge führt beides zu Ende. Ein kopiertes Bewusstsein wird durch Monate der Leere gefügig gemacht, ein Geständnis durch eine Simulation erpresst.\n\nDas „Blockieren“ ist die soziale Variante davon. Der Verurteilte ist nicht eingesperrt, er ist für alle nur noch ein grauer Umriss.", "lesen": "Überwachen und Strafen"},
-"hQYA": {"d": "camus", "begriff": "Die Revolte", "text": "Das System weiß, wie lange jede Beziehung dauert, und alle fügen sich. Frank und Amy sagen irgendwann Nein und klettern über die Mauer. Für Camus beginnt der Mensch in diesem Nein: Wer sich auflehnt, behauptet, dass es etwas gibt, das mehr wert ist als die Ordnung.\n\nDie Auflösung dreht das um. Die Revolte war der Test, und nur wer rebelliert, passt zusammen.", "zitat": "Ich empöre mich, also sind wir.", "quelle": "Der Mensch in der Revolte", "lesen": "Der Mensch in der Revolte"},
-
-"2bf0": {"d": "nietzsche", "begriff": "Der Übermensch", "text": "Kubrick unterlegt die Sprünge der Menschheit mit Strauss' „Also sprach Zarathustra“. Vom Affen über den Menschen zum Sternenkind: Der Mensch ist bei Nietzsche ein Seil, etwas, das überwunden werden soll.", "lesen": "Also sprach Zarathustra, Vorrede"},
-"2awY": {"d": "schopenhauer", "begriff": "Der blinde Wille zum Leben", "text": "Das Wesen hat kein Ziel außer sich fortzupflanzen. Es ist Schopenhauers Wille in Reinform: ohne Bewusstsein, ohne Moral, nicht aufzuhalten.", "lesen": "Die Welt als Wille und Vorstellung, Buch II"},
-"H08": {"d": "weil", "begriff": "Gewalt macht Menschen zu Dingen", "text": "Paul zieht begeistert in den Krieg und wird Material. Simone Weil beschreibt die Gewalt als das, was einen Menschen zur Sache macht, lange bevor sie ihn tötet.", "lesen": "Die Ilias oder das Gedicht von der Gewalt"},
-"2bdo": {"d": "girard", "begriff": "Nachgeahmte Gewalt", "text": "Hass wird hier weitergegeben wie eine Erbschaft, vom Vater auf Derek, von Derek auf Danny. Girard zufolge ist Gewalt ansteckend, weil Menschen einander nachahmen, und sie endet nicht dort, wo einer aussteigt.", "lesen": "Das Heilige und die Gewalt"},
-"28Vs": {"d": "baudrillard", "begriff": "Oberfläche ohne Inhalt", "text": "Visitenkarten, Reservierungen, Hautpflege: Bateman besteht nur aus Zeichen. Als er gesteht, hört niemand zu, weil in dieser Welt nichts mehr auf etwas Wirkliches verweist.", "lesen": "Simulacres et Simulation"},
-"6ZS": {"d": "nietzsche", "begriff": "Jenseits von Gut und Böse", "text": "Kurtz hat die Moral seiner Auftraggeber als Heuchelei durchschaut und dahinter nichts gefunden als das Grauen. Der Film ist die dunkle Probe auf Nietzsches Frage, was bleibt, wenn alle Werte fallen.", "zitat": "Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.", "quelle": "Jenseits von Gut und Böse, 146", "lesen": "Jenseits von Gut und Böse"},
-"1Rio": {"d": "levinas", "begriff": "Der Anspruch, dem man ausweicht", "text": "Charlotte hat ihr Leben lang die Musik gewählt, um ihre Töchter nicht ansehen zu müssen. In einer Nacht zwingt Eva sie hinzusehen. Für Levinas beginnt Ethik genau in diesem Blick, den man nicht erwidern will.", "lesen": "Ethik und Unendliches"},
-"25A2": {"d": "marcaurel", "begriff": "Vergänglichkeit", "text": "Aufstieg und Fall eines Emporkömmlings, erzählt mit kühler Distanz. Der Epilog sagt, was Marc Aurel sich immer wieder notierte: Gute und Schlechte, Reiche und Arme sind jetzt alle gleich.", "lesen": "Selbstbetrachtungen"},
-"2b0k": {"d": "hobbes", "begriff": "Der Naturzustand als Experiment", "text": "Der Joker will beweisen, dass Zivilisation nur eine dünne Schicht ist und die Menschen einander fressen, sobald die Ordnung fällt. Die beiden Fähren sind sein Versuch. Hobbes hätte auf den Joker gewettet, der Film wettet dagegen.", "lesen": "Leviathan, Kap. 13"},
-"U1Vy": {"d": "marx", "begriff": "Der Mensch als Ware", "text": "Ein Leben im Abo-Modell, das immer teurer wird, bis der Körper selbst Werbefläche ist. Deutlicher lässt sich kaum zeigen, was Marx Entfremdung nennt.", "lesen": "Ökonomisch-philosophische Manuskripte"},
-"hQYU": {"d": "adorno", "begriff": "Kulturindustrie", "text": "Bing hält der Jury eine Scherbe an den Hals und schreit seine Wut heraus. Die Jury gibt ihm eine eigene Sendung. Adornos These in einer Szene: Das System schluckt den Protest und verkauft ihn.", "zitat": "Es gibt kein richtiges Leben im falschen.", "quelle": "Minima Moralia", "lesen": "Dialektik der Aufklärung, Kapitel „Kulturindustrie“"},
-"k4aS": {"d": "nozick", "begriff": "Die Erlebnismaschine", "text": "Nozick fragt, ob wir uns für immer an eine Maschine anschließen würden, die uns jedes Glück vorspielt, und meint, wir würden ablehnen. Yorkie und Kelly sagen Ja. Die Folge ist eines der wenigen ernsthaften Gegenargumente.", "lesen": "Anarchie, Staat, Utopia, Kap. 3"},
-"hRRq": {"d": "foucault", "begriff": "Das Panoptikum", "text": "Kenny gehorcht, weil er gesehen wurde und nicht weiß, von wem. Foucault beschreibt Macht genau so: Sie braucht keine Gewalt, es reicht die Gewissheit, beobachtet zu sein.", "lesen": "Überwachen und Strafen, Kapitel „Der Panoptismus“"},
-"hQXi": {"d": "platon", "begriff": "Der Ring des Gyges", "text": "Im eigenen Spiel ist Daly unsichtbar und allmächtig. Platon fragt mit dem Ring des Gyges, was ein Mensch tut, wenn er keine Folgen fürchten muss. Daly gibt die pessimistische Antwort.", "lesen": "Politeia, Buch II"},
-"mkbG": {"d": "arendt", "begriff": "Wahrheit und Lüge in der Politik", "text": "Die Serie fragt, was Lügen kosten. Arendt hat beschrieben, wie ein System, das Tatsachen dauerhaft durch Lügen ersetzt, am Ende den Sinn zerstört, mit dem Menschen sich in der Wirklichkeit orientieren.", "lesen": "Wahrheit und Lüge in der Politik"},
-"71O": {"d": "aristoteles", "begriff": "Glück ist kein Besitz", "text": "Kane besitzt alles, was sich kaufen lässt, und stirbt mit dem Namen eines Kinderschlittens auf den Lippen. Für Aristoteles liegt Glück in gelingendem Tun und in Freundschaft, beides hat Kane durch Sammeln ersetzt.", "lesen": "Nikomachische Ethik, Buch I und VIII"},
-"2av2": {"d": "jaspers", "begriff": "Grenzsituation", "text": "Fünfzig Männer in einer Röhre, über ihnen Wasserbomben. Jaspers nennt Tod, Kampf und Zufall Grenzsituationen, in denen alle Sicherheiten wegfallen. Das Ende im Hafen ist der Zufall in seiner bittersten Form.", "lesen": "Philosophie II: Existenzerhellung"},
-"6YK": {"d": "nietzsche", "begriff": "Die ewige Wiederkunft", "text": "Nietzsches Probe: Würdest du dein Leben noch einmal genau so wollen, mit allem Schmerz? Joel und Clementine hören auf Band, wie ihre Liebe enden wird, und sagen trotzdem „Okay“.", "lesen": "Die fröhliche Wissenschaft, Nr. 341"},
-"2axs": {"d": "freud", "begriff": "Traum und Begehren", "text": "Die Vorlage stammt von Arthur Schnitzler, den Freud seinen Doppelgänger nannte. Ein erzählter Tagtraum genügt, um eine Ehe zu erschüttern, weil der Wunsch darin wirklicher ist als jede Tat.", "lesen": "Die Traumdeutung"},
-"1ns4": {"d": "kierkegaard", "begriff": "Die Krankheit zum Tode", "text": "Jenny ist Psychiaterin, funktioniert tadellos und bricht ohne äußeren Anlass zusammen. Kierkegaard nennt Verzweiflung den Zustand eines Selbst, das nicht es selbst sein kann, und sie ist am tiefsten, wo man sie nicht bemerkt.", "lesen": "Die Krankheit zum Tode"},
-"22go": {"d": "nietzsche", "begriff": "Kunst gegen Askese", "text": "Auf der einen Seite das Theater der Ekdahls, auf der anderen das kahle Bischofshaus, das Wahrheit sagt und Unterwerfung meint. Bergman stellt sich wie Nietzsche auf die Seite des Spiels und der Fantasie.", "zitat": "Wir haben die Kunst, damit wir nicht an der Wahrheit zugrunde gehn.", "quelle": "Nachlass 1888", "lesen": "Die Geburt der Tragödie"},
-"2a9q": {"d": "marcuse", "begriff": "Der eindimensionale Mensch", "text": "Der Erzähler richtet sein Leben nach dem Möbelkatalog ein. Marcuse beschreibt, wie Konsum falsche Bedürfnisse erzeugt und zufriedene Unfreiheit herstellt. Tyler ist die Rebellion dagegen und wird sofort selbst zur Sekte.", "lesen": "Der eindimensionale Mensch"},
-"2ahY": {"d": "buber", "begriff": "Heilung durch Begegnung", "text": "Will kann jeden mit Wissen schlagen und lässt deshalb niemanden an sich heran. Sean hilft ihm nicht durch Analyse, sondern indem er als Mensch vor ihm steht. Buber nennt das die Begegnung von Ich und Du.", "lesen": "Ich und Du"},
-"4O24": {"d": "levinas", "begriff": "Der Andere entzieht sich", "text": "Theodore liebt Samantha, solange er sie für sein Gegenüber hält. Dann zeigt sich, dass sie mit Tausenden spricht und über ihn hinauswächst. Der Andere ist bei Levinas das, was sich meinem Zugriff grundsätzlich entzieht.", "lesen": "Die Zeit und der Andere"},
-"hNVe": {"d": "schopenhauer", "begriff": "Die Unfreiheit des Willens", "text": "Die Familie glaubt zu handeln und erfüllt nur einen Plan, der vor ihrer Geburt feststand. Asters Horror ist Schopenhauers Determinismus als Albtraum.", "zitat": "Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will.", "quelle": "Über die Freiheit des menschlichen Willens (sinngemäß)", "lesen": "Über die Freiheit des menschlichen Willens"},
-"1H9G": {"d": "jung", "begriff": "Der Schatten", "text": "Der Maler Johan wird nachts von Gestalten heimgesucht, die niemand außer ihm sieht, bis seine Frau sie auch sieht. Jung nennt Schatten, was ein Mensch an sich nicht annehmen kann und deshalb draußen wiederfindet.", "lesen": "Aion, Kap. 2"},
-"1Qi8": {"d": "rousseau", "begriff": "Natur gegen Abrichtung", "text": "In der Schule ist Billy ein Versager, beim Falken ist er geduldig, klug und frei. Rousseau hielt den Menschen für von Natur aus gut und die Erziehung seiner Zeit für das, was ihn bricht. Loach zeigt das ohne Trost.", "lesen": "Emile oder Über die Erziehung"},
-"297o": {"d": "freud", "begriff": "Der Traum als Wunscherfüllung", "text": "Die ersten zwei Stunden sind der Traum einer gescheiterten Schauspielerin: Die Geliebte ist hilflos, das Talent wird erkannt, die Schuld gehört anderen. Dann erwacht Diane, und alles wird lesbar, wie Freud Träume liest.", "lesen": "Die Traumdeutung"},
-"2aNg": {"d": "debord", "begriff": "Gewalt als Spektakel", "text": "Mickey und Mallory werden zu Stars, weil das Fernsehen sie dazu macht. Stones Film ist selbst so laut und überdreht wie das, was er angreift, und zeigt damit Debords These von innen.", "lesen": "Die Gesellschaft des Spektakels"},
-"2aeA": {"d": "foucault", "begriff": "Wahnsinn und Gesellschaft", "text": "Schwester Ratched braucht keine Gewalt, ihr genügen Ordnung, Routine und die Gruppentherapie. Foucault hat gezeigt, wie die Anstalt festlegt, was normal ist, und Abweichung behandelt, bis sie verstummt.", "lesen": "Wahnsinn und Gesellschaft"},
-"hTha": {"d": "marx", "begriff": "Klassenverhältnisse", "text": "Oben das Haus mit Garten, unten der Keller, darunter noch ein Keller. Bong macht Klasse zu Architektur. Bitter ist, dass die Armen einander bekämpfen, statt nach oben zu schauen.", "lesen": "Manifest der Kommunistischen Partei, Teil I"},
-"29B4": {"d": "jung", "begriff": "Die Persona", "text": "Der Titel ist Jungs Begriff für die Maske, die wir der Welt zeigen. Elisabet hört auf zu sprechen, um nicht länger eine Rolle zu spielen, und Alma verliert im Reden vor ihr die eigene. Am Ende verschmelzen zwei Gesichter zu einem.", "lesen": "Die Beziehungen zwischen dem Ich und dem Unbewussten"},
-"29VI": {"d": "schopenhauer", "begriff": "Das unstillbare Wollen", "text": "Vier Menschen, vier Süchte, dieselbe Bewegung: Jede Erfüllung erzeugt nur neues Verlangen. Schopenhauer beschreibt das Leben als Pendel zwischen Schmerz und Langeweile. Aronofsky zeigt nur noch den Schmerz.", "lesen": "Die Welt als Wille und Vorstellung, Buch IV"},
-"2aq2": {"d": "arendt", "begriff": "Die Banalität des Bösen", "text": "Amon Göth schießt vom Balkon, wie andere eine Zigarette rauchen, und um ihn herum arbeitet eine Verwaltung aus Listen und Stempeln. Arendts Begriff meint diese Gedankenlosigkeit. Schindlers Liste ist die Antwort mit denselben Mitteln.", "lesen": "Eichmann in Jerusalem"},
-"29zs": {"d": "thomas", "begriff": "Die sieben Hauptsünden", "text": "John Doe versteht sich als Prediger und nimmt die mittelalterliche Lasterlehre wörtlich. Bei Thomas sind die Hauptsünden Wurzeln, aus denen andere Verfehlungen wachsen. Fincher zeigt eine Stadt, in der niemand mehr hinsieht.", "lesen": "Summa theologiae I-II, Frage 84"},
-"8i7u": {"d": "machiavelli", "begriff": "Der Zweck und die Mittel", "text": "Kate glaubt an Regeln und wird benutzt, um deren Bruch zu decken. Alejandro und Matt handeln, wie Machiavelli es beschreibt: Wer unter Wölfen Ordnung schaffen will, kann nicht gut bleiben.", "lesen": "Der Fürst, Kap. 18"},
-"JZC": {"d": "kierkegaard", "begriff": "Das ästhetische Stadium", "text": "Ein Sommer in den Schären, nur Gegenwart und Genuss. Kierkegaard nennt das die ästhetische Existenz und sagt ihr Verzweiflung voraus, sobald der Alltag kommt. Monika blickt in die Kamera und bleibt bei ihrer Wahl.", "lesen": "Entweder – Oder"},
-"2b8y": {"d": "dostojewski", "begriff": "Der Mensch aus dem Kellerloch", "text": "Paul Schrader hat Travis nach Dostojewskis Kellerlochmenschen entworfen: einsam, gekränkt, überzeugt von der eigenen Reinheit und voller Verachtung für den Schmutz der anderen. Aus diesem Selbstgespräch wird Gewalt.", "lesen": "Aufzeichnungen aus dem Kellerloch"},
-"27LQ": {"d": "kant", "begriff": "Die Würde des Menschen", "text": "John Merrick wird ausgestellt, erst auf dem Jahrmarkt, dann in besserer Gesellschaft. Sein Schrei, er sei kein Tier, sondern ein Mensch, ist Kants Gedanke: Würde hat keinen Preis und hängt an nichts, was man sehen kann.", "lesen": "Grundlegung zur Metaphysik der Sitten"},
-"2aNK": {"d": "machiavelli", "begriff": "Wie man Macht erwirbt", "text": "Michael will mit dem Geschäft der Familie nichts zu tun haben und wird ihr fähigster Fürst. Die Taufszene zeigt Machiavellis Rat, alle nötigen Grausamkeiten auf einen Schlag zu begehen.", "lesen": "Der Fürst, Kap. 8"},
-"2b5O": {"d": "platon", "begriff": "Der Ring des Gyges", "text": "Ein Ring, der unsichtbar macht und seinen Träger verdirbt: Die Geschichte steht schon bei Platon. Dort dient sie der Frage, ob jemand gerecht bliebe, wenn er ungesehen handeln könnte. Tolkiens Antwort ist, dass man den Ring vernichten muss.", "lesen": "Politeia, Buch II"},
-"248c": {"d": "dostojewski", "begriff": "Schuld, die sich nicht verdrängen lässt", "text": "Trevor schläft seit einem Jahr nicht und magert ab, ohne zu wissen, warum. Im Film liest er Dostojewski, und wie bei Raskolnikow arbeitet die Schuld im Körper weiter, bis er gesteht. Erst dann kann er schlafen.", "lesen": "Schuld und Sühne"},
-"2a1m": {"d": "baudrillard", "begriff": "Simulation", "text": "Neo versteckt seine Disketten in einem ausgehöhlten Exemplar von Baudrillards „Simulacres et Simulation“. Baudrillard selbst fand, der Film habe ihn missverstanden: Bei ihm gibt es hinter der Simulation keine wahre Welt mehr, in die man aufwachen könnte.", "lesen": "Simulacres et Simulation"},
-"2aqc": {"d": "frankl", "begriff": "Sinn im Überleben", "text": "Szpilman verliert alles und hält sich an dem fest, was ihn ausmacht: Er spielt in Gedanken Klavier, die Finger über den Tasten. Frankl beschreibt, dass Menschen im Äußersten überleben, solange sie ein Wozu haben.", "lesen": "… trotzdem Ja zum Leben sagen"},
-"2ahO": {"d": "camus", "begriff": "Handeln im Schweigen", "text": "Der Ritter will Wissen statt Glauben, und Gott schweigt. Statt zu verzweifeln, nutzt er den Aufschub durch das Schachspiel für eine einzige sinnvolle Tat und rettet die Gauklerfamilie. Das ist Camus' Antwort auf das Absurde.", "zitat": "Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.", "quelle": "Der Mythos des Sisyphos", "lesen": "Der Mythos des Sisyphos"},
-"29Nu": {"d": "freud", "begriff": "Das Unheimliche", "text": "Unheimlich ist für Freud das Vertraute, das fremd wiederkehrt: Doppelgänger, Wiederholungen, das eigene Heim. Kubrick baut daraus ein Hotel mit Zwillingen, endlosen Fluren und einem Vater, der schon immer dort war.", "lesen": "Das Unheimliche"},
-"1TH6": {"d": "wittgenstein", "begriff": "Die Grenzen der Sprache", "text": "Zwei Schwestern in einem Land, dessen Sprache sie nicht verstehen, und miteinander können sie ebenso wenig sprechen. Bergman zeigt eine Welt, in der Worte nichts mehr tragen und Gott nicht einmal mehr vermisst wird.", "zitat": "Wovon man nicht sprechen kann, darüber muss man schweigen.", "quelle": "Tractatus logico-philosophicus, 7", "lesen": "Tractatus logico-philosophicus"},
-"99A": {"d": "merleau", "begriff": "Ich bin mein Leib", "text": "Ein Chirurg gibt einem Menschen gegen dessen Willen einen neuen Körper. Für Merleau-Ponty ist der Leib kein Kleid, das man wechselt, sondern die Art, in der Welt zu sein. Der letzte Satz des Films hält dagegen: „Ich bin Vicente.“", "lesen": "Phänomenologie der Wahrnehmung"},
-"294O": {"d": "hobbes", "begriff": "Misstrauen aller gegen alle", "text": "Jeder könnte das Ding sein, also ist jeder ein Feind. Carpenter stellt Hobbes' Naturzustand in einer Polarstation nach: Ohne Vertrauen bleibt nur, den anderen zuvorzukommen.", "lesen": "Leviathan, Kap. 13"},
-"18U8": {"d": "platon", "begriff": "Das Höhlengleichnis", "text": "Truman hält eine Kulisse für die Welt, wie Platons Gefangene die Schatten. Der Aufstieg ist mühsam, und der Regisseur bietet ihm an, in der sicheren Höhle zu bleiben. Truman verbeugt sich und geht durch die Tür.", "lesen": "Politeia, Buch VII"},
-"1ZTW": {"d": "dostojewski", "begriff": "Die Tat als Selbstversuch", "text": "Raymond will wissen, ob er zum absolut Bösen fähig ist, so wie er einst vom Balkon sprang, nur um zu sehen, ob er es kann. Es ist Raskolnikows Experiment, hier ohne Reue und ohne Strafe.", "lesen": "Schuld und Sühne"},
-"20Z2": {"d": "nietzsche", "begriff": "Der Wille zur Macht", "text": "Plainview will nicht reich sein, er will, dass kein anderer Erfolg hat. Sein Gegenspieler Eli predigt Demut und will dasselbe. Der Film liest sich wie Nietzsches Verdacht, dass hinter Geschäft und Religion derselbe Trieb steckt.", "lesen": "Zur Genealogie der Moral"},
-"1I0g": {"d": "anders", "begriff": "Was wir uns nicht vorstellen können", "text": "Anders nennt es das prometheische Gefälle: Wir können mehr zerstören, als wir uns vorstellen können. Der Film versucht, diese Lücke zu schließen, indem er einen Atomkrieg bis in die nächste Generation hinein nüchtern durchbuchstabiert.", "lesen": "Die Antiquiertheit des Menschen, Band I"},
-"1TrW": {"d": "feuerbach", "begriff": "Gott als menschliche Liebe", "text": "Karin sieht Gott als Spinne. Am Ende sagt ihr Vater dem Sohn, Gott sei die Liebe, jede Art von Liebe. Das ist Feuerbachs Umkehrung: Was der Mensch Gott nennt, ist sein eigenes Vermögen zu lieben.", "lesen": "Das Wesen des Christentums"},
-"145A": {"d": "benjamin", "begriff": "Ästhetisierung der Politik", "text": "Riefenstahls Film erschien 1935, Benjamins Aufsatz kurz darauf. Er beschreibt genau diese Bilder: Der Faschismus gibt den Massen einen Ausdruck statt ihrer Rechte und macht aus Politik ein Schauspiel, das im Krieg gipfelt.", "lesen": "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit, Nachwort"},
-"2b26": {"d": "heidegger", "begriff": "Endlichkeit gibt Bedeutung", "text": "Die Engel wissen alles und spüren nichts. Damiel gibt die Ewigkeit auf für Kaffee, kalte Hände und eine Liebe, die enden wird. Heidegger zufolge bekommt das Dasein erst durch seine Endlichkeit Gewicht.", "lesen": "Sein und Zeit, §§ 46–53"},
-"B9me": {"d": "descartes", "begriff": "Der täuschende Dämon", "text": "Stiller entdeckt, dass seine Welt ein Programm ist, und kann von innen nichts beweisen. Descartes hat diesen Zweifel 1641 formuliert. Fassbinder fügt 1973 hinzu, dass auch die Ebene darüber nur eine Simulation sein könnte.", "lesen": "Meditationen, Erste und Zweite Meditation"}
-}
+ "denker": {
+  "kierkegaard": {
+   "name": "Søren Kierkegaard",
+   "daten": "1813–1855",
+   "kurz": "Dänischer Denker des Einzelnen. Für ihn ist Glaube kein Wissen, sondern ein Sprung, und Verzweiflung die Krankheit eines Selbst, das nicht es selbst sein will.",
+   "werk": "Furcht und Zittern; Die Krankheit zum Tode"
+  },
+  "nietzsche": {
+   "name": "Friedrich Nietzsche",
+   "daten": "1844–1900",
+   "kurz": "Diagnostiker des Nihilismus. Nach dem „Tod Gottes“ fragt er, wie der Mensch ohne Jenseits Ja zum Leben sagen kann.",
+   "werk": "Die fröhliche Wissenschaft; Zur Genealogie der Moral"
+  },
+  "camus": {
+   "name": "Albert Camus",
+   "daten": "1913–1960",
+   "kurz": "Denker des Absurden: Der Mensch verlangt Sinn, die Welt schweigt. Camus antwortet darauf nicht mit Flucht, sondern mit Revolte.",
+   "werk": "Der Mythos des Sisyphos; Der Mensch in der Revolte"
+  },
+  "sartre": {
+   "name": "Jean-Paul Sartre",
+   "daten": "1905–1980",
+   "kurz": "Existenzialist der radikalen Freiheit. Wer seine Freiheit leugnet und sich hinter Rollen versteckt, lebt in Unaufrichtigkeit (mauvaise foi).",
+   "werk": "Das Sein und das Nichts; Geschlossene Gesellschaft"
+  },
+  "heidegger": {
+   "name": "Martin Heidegger",
+   "daten": "1889–1976",
+   "kurz": "Fragt nach dem Sein des Menschen als Dasein. Eigentlich lebt nur, wer seine Endlichkeit annimmt, statt im anonymen „Man“ aufzugehen.",
+   "werk": "Sein und Zeit"
+  },
+  "weil": {
+   "name": "Simone Weil",
+   "daten": "1909–1943",
+   "kurz": "Mystikerin und politische Denkerin. Sie beschreibt die Gewalt, die Menschen zu Dingen macht, und die Aufmerksamkeit als Gegenkraft.",
+   "werk": "Schwerkraft und Gnade; Die Ilias oder das Gedicht von der Gewalt"
+  },
+  "pascal": {
+   "name": "Blaise Pascal",
+   "daten": "1623–1662",
+   "kurz": "Mathematiker und religiöser Denker. Der Mensch flieht vor sich selbst in die Zerstreuung, und Gott bleibt ein verborgener Gott.",
+   "werk": "Pensées (Gedanken)"
+  },
+  "laotse": {
+   "name": "Laotse",
+   "daten": "6. Jh. v. Chr. (legendär)",
+   "kurz": "Dem Überlieferten nach Verfasser des Daodejing. Das Weiche und Nachgiebige ist dort dem Harten überlegen, Nicht-Handeln eine Form von Weisheit.",
+   "werk": "Daodejing (Tao Te King)"
+  },
+  "levinas": {
+   "name": "Emmanuel Levinas",
+   "daten": "1906–1995",
+   "kurz": "Denker des Anderen. Im Antlitz des anderen Menschen begegnet mir ein Anspruch, den ich nie ganz begreifen und nie abweisen kann.",
+   "werk": "Totalität und Unendlichkeit"
+  },
+  "buber": {
+   "name": "Martin Buber",
+   "daten": "1878–1965",
+   "kurz": "Philosoph des Dialogs. Er unterscheidet die Beziehung Ich–Du, in der ich einem Gegenüber begegne, vom Ich–Es, in dem ich es nur benutze.",
+   "werk": "Ich und Du"
+  },
+  "dostojewski": {
+   "name": "Fjodor Dostojewski",
+   "daten": "1821–1881",
+   "kurz": "Romancier, der philosophische Fragen an Figuren durchspielt: Schuld, Freiheit, das Leiden Unschuldiger und die Frage, ob ohne Gott alles erlaubt ist.",
+   "werk": "Aufzeichnungen aus dem Kellerloch; Die Brüder Karamasow"
+  },
+  "freud": {
+   "name": "Sigmund Freud",
+   "daten": "1856–1939",
+   "kurz": "Begründer der Psychoanalyse. Das Verdrängte verschwindet nicht, es kehrt in Traum, Symptom und im Unheimlichen wieder.",
+   "werk": "Die Traumdeutung; Das Unheimliche"
+  },
+  "jung": {
+   "name": "C. G. Jung",
+   "daten": "1875–1961",
+   "kurz": "Tiefenpsychologe. Die Persona ist die Maske, die wir der Welt zeigen, der Schatten das, was wir an uns nicht sehen wollen.",
+   "werk": "Die Beziehungen zwischen dem Ich und dem Unbewussten"
+  },
+  "kant": {
+   "name": "Immanuel Kant",
+   "daten": "1724–1804",
+   "kurz": "Moralisch handelt nur, wer aus freier Einsicht handelt. Der Mensch hat Würde und darf nie bloß als Mittel gebraucht werden.",
+   "werk": "Grundlegung zur Metaphysik der Sitten"
+  },
+  "platon": {
+   "name": "Platon",
+   "daten": "ca. 428–348 v. Chr.",
+   "kurz": "Im Höhlengleichnis halten Gefangene Schatten für die Wirklichkeit. Mit dem Ring des Gyges fragt er, ob wir gerecht blieben, wenn uns niemand sähe.",
+   "werk": "Politeia (Der Staat)"
+  },
+  "descartes": {
+   "name": "René Descartes",
+   "daten": "1596–1650",
+   "kurz": "Zweifelt an allem, auch daran, ob ein böser Geist ihm die ganze Welt vortäuscht, und findet Gewissheit nur im eigenen Denken.",
+   "werk": "Meditationen über die Erste Philosophie"
+  },
+  "locke": {
+   "name": "John Locke",
+   "daten": "1632–1704",
+   "kurz": "Für Locke besteht die Identität einer Person nicht im Körper, sondern im Bewusstsein, das sich an die eigenen früheren Taten erinnert.",
+   "werk": "Versuch über den menschlichen Verstand (Buch II, Kap. 27)"
+  },
+  "parfit": {
+   "name": "Derek Parfit",
+   "daten": "1942–2017",
+   "kurz": "Zeigt mit Gedankenexperimenten wie dem Teletransporter, dass persönliche Identität weniger fest ist, als wir glauben, und vielleicht gar nicht das, worauf es ankommt.",
+   "werk": "Reasons and Persons"
+  },
+  "hobbes": {
+   "name": "Thomas Hobbes",
+   "daten": "1588–1679",
+   "kurz": "Ohne gemeinsame Macht herrscht der Krieg aller gegen alle. Aus Furcht voreinander schließen die Menschen den Gesellschaftsvertrag.",
+   "werk": "Leviathan"
+  },
+  "machiavelli": {
+   "name": "Niccolò Machiavelli",
+   "daten": "1469–1527",
+   "kurz": "Beschreibt Macht nüchtern, wie sie ist. Wer herrschen will, muss lernen, nicht gut zu sein, wenn es die Lage verlangt.",
+   "werk": "Der Fürst"
+  },
+  "schopenhauer": {
+   "name": "Arthur Schopenhauer",
+   "daten": "1788–1860",
+   "kurz": "Hinter allem wirkt ein blinder, unstillbarer Wille. Das Leben pendelt deshalb zwischen Schmerz und Langeweile.",
+   "werk": "Die Welt als Wille und Vorstellung"
+  },
+  "foucault": {
+   "name": "Michel Foucault",
+   "daten": "1926–1984",
+   "kurz": "Untersucht, wie Macht durch Überwachung, Normen und Institutionen wirkt, und wer festlegt, was als verrückt oder kriminell gilt.",
+   "werk": "Überwachen und Strafen; Wahnsinn und Gesellschaft"
+  },
+  "arendt": {
+   "name": "Hannah Arendt",
+   "daten": "1906–1975",
+   "kurz": "Politische Denkerin. Das Böse kann banal sein, getan von Menschen, die nicht denken, und Politik zerfällt, wenn Tatsachen der Lüge geopfert werden.",
+   "werk": "Eichmann in Jerusalem; Wahrheit und Lüge in der Politik"
+  },
+  "baudrillard": {
+   "name": "Jean Baudrillard",
+   "daten": "1929–2007",
+   "kurz": "Theoretiker der Simulation. In der Hyperrealität verweisen Zeichen nur noch auf andere Zeichen, die Kopie ersetzt das Original.",
+   "werk": "Simulacres et Simulation; Amerika"
+  },
+  "debord": {
+   "name": "Guy Debord",
+   "daten": "1931–1994",
+   "kurz": "In der Gesellschaft des Spektakels ist alles, was unmittelbar erlebt wurde, in eine Vorstellung entwichen. Bilder regeln die Beziehungen der Menschen.",
+   "werk": "Die Gesellschaft des Spektakels"
+  },
+  "han": {
+   "name": "Byung-Chul Han",
+   "daten": "geb. 1959",
+   "kurz": "Beschreibt die Leistungsgesellschaft: Das heutige Subjekt wird nicht mehr von außen gezwungen, es beutet sich freiwillig selbst aus.",
+   "werk": "Müdigkeitsgesellschaft"
+  },
+  "girard": {
+   "name": "René Girard",
+   "daten": "1923–2015",
+   "kurz": "Gemeinschaften lösen ihre inneren Spannungen, indem sie sich gegen einen Sündenbock vereinen, an dessen Schuld alle glauben.",
+   "werk": "Der Sündenbock; Das Heilige und die Gewalt"
+  },
+  "fanon": {
+   "name": "Frantz Fanon",
+   "daten": "1925–1961",
+   "kurz": "Psychiater und Denker der Entkolonialisierung. Er beschreibt, wie Ausgrenzung und Verachtung sich in Körper und Psyche einschreiben und als Gewalt zurückkehren.",
+   "werk": "Die Verdammten dieser Erde"
+  },
+  "montaigne": {
+   "name": "Michel de Montaigne",
+   "daten": "1533–1592",
+   "kurz": "Erfinder des Essays. Er denkt gelassen und skeptisch über sich selbst nach und darüber, wie man mit dem Tod leben lernt.",
+   "werk": "Essais"
+  },
+  "epiktet": {
+   "name": "Epiktet",
+   "daten": "ca. 50–138",
+   "kurz": "Stoiker und ehemaliger Sklave. Frei wird, wer unterscheidet zwischen dem, was in seiner Macht steht, und dem, was nicht.",
+   "werk": "Handbüchlein der Moral"
+  },
+  "marcaurel": {
+   "name": "Marc Aurel",
+   "daten": "121–180",
+   "kurz": "Römischer Kaiser und Stoiker. Seine Notizen an sich selbst kreisen um Vergänglichkeit: Ruhm, Rang und Besitz vergehen gleichermaßen.",
+   "werk": "Selbstbetrachtungen"
+  },
+  "jonas": {
+   "name": "Hans Jonas",
+   "daten": "1903–1993",
+   "kurz": "Fordert eine Ethik für das technische Zeitalter: Handle so, dass die Wirkungen deines Handelns mit dem Fortbestand echten menschlichen Lebens verträglich sind.",
+   "werk": "Das Prinzip Verantwortung"
+  },
+  "marx": {
+   "name": "Karl Marx",
+   "daten": "1818–1883",
+   "kurz": "Analysiert Klassenverhältnisse und Entfremdung: Im Kapitalismus wird der Mensch selbst zur Ware und sein Leben zum Mittel fremder Zwecke.",
+   "werk": "Ökonomisch-philosophische Manuskripte"
+  },
+  "adorno": {
+   "name": "Theodor W. Adorno",
+   "daten": "1903–1969",
+   "kurz": "Kritiker der Kulturindustrie, die selbst Protest in Unterhaltung verwandelt. Berühmt für den Satz, es gebe kein richtiges Leben im falschen.",
+   "werk": "Dialektik der Aufklärung; Minima Moralia"
+  },
+  "marcuse": {
+   "name": "Herbert Marcuse",
+   "daten": "1898–1979",
+   "kurz": "Die Konsumgesellschaft erzeugt falsche Bedürfnisse und macht den Menschen eindimensional: zufrieden, angepasst, unfähig zum Widerspruch.",
+   "werk": "Der eindimensionale Mensch"
+  },
+  "nozick": {
+   "name": "Robert Nozick",
+   "daten": "1938–2002",
+   "kurz": "Sein Gedankenexperiment der Erlebnismaschine fragt, ob wir ein perfektes simuliertes Glück dem wirklichen Leben vorziehen würden.",
+   "werk": "Anarchie, Staat, Utopia"
+  },
+  "aristoteles": {
+   "name": "Aristoteles",
+   "daten": "384–322 v. Chr.",
+   "kurz": "Glück (Eudaimonia) ist kein Besitz, sondern ein gelingendes Leben: Tätigkeit gemäß der Tugend, getragen von Freundschaft.",
+   "werk": "Nikomachische Ethik"
+  },
+  "jaspers": {
+   "name": "Karl Jaspers",
+   "daten": "1883–1969",
+   "kurz": "In Grenzsituationen wie Tod, Leiden, Kampf und Schuld scheitert alles Planen. Gerade dort kann der Mensch zu sich selbst kommen.",
+   "werk": "Philosophie II: Existenzerhellung"
+  },
+  "rousseau": {
+   "name": "Jean-Jacques Rousseau",
+   "daten": "1712–1778",
+   "kurz": "Der Mensch ist von Natur aus gut, verdorben wird er durch die Gesellschaft und eine Erziehung, die ihn abrichtet statt wachsen lässt.",
+   "werk": "Emile oder Über die Erziehung"
+  },
+  "frankl": {
+   "name": "Viktor Frankl",
+   "daten": "1905–1997",
+   "kurz": "Psychiater und Überlebender der Konzentrationslager. Dem Menschen kann alles genommen werden, nur nicht die Freiheit, sich zu seiner Lage einzustellen.",
+   "werk": "… trotzdem Ja zum Leben sagen"
+  },
+  "thomas": {
+   "name": "Thomas von Aquin",
+   "daten": "1225–1274",
+   "kurz": "Scholastiker, der Aristoteles mit dem Christentum verbindet. Seine Lehre von den Lastern prägte die Vorstellung der sieben Todsünden.",
+   "werk": "Summa theologiae"
+  },
+  "merleau": {
+   "name": "Maurice Merleau-Ponty",
+   "daten": "1908–1961",
+   "kurz": "Phänomenologe des Leibes. Ich habe meinen Körper nicht wie ein Ding, ich bin mein Leib und durch ihn in der Welt.",
+   "werk": "Phänomenologie der Wahrnehmung"
+  },
+  "feuerbach": {
+   "name": "Ludwig Feuerbach",
+   "daten": "1804–1872",
+   "kurz": "Religionskritiker. In Gott verehrt der Mensch sein eigenes Wesen, vor allem seine Fähigkeit zu lieben, als etwas Fremdes.",
+   "werk": "Das Wesen des Christentums"
+  },
+  "anders": {
+   "name": "Günther Anders",
+   "daten": "1902–1992",
+   "kurz": "Denker des Atomzeitalters. Wir können mehr herstellen, als wir uns vorstellen und verantworten können.",
+   "werk": "Die Antiquiertheit des Menschen"
+  },
+  "benjamin": {
+   "name": "Walter Benjamin",
+   "daten": "1892–1940",
+   "kurz": "Fragt, was technische Reproduzierbarkeit mit Kunst macht, und warnt vor einem Faschismus, der die Politik ästhetisiert.",
+   "werk": "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit"
+  },
+  "wittgenstein": {
+   "name": "Ludwig Wittgenstein",
+   "daten": "1889–1951",
+   "kurz": "Philosoph der Sprache und ihrer Grenzen. Was sich nicht sagen lässt, zeigt sich höchstens.",
+   "werk": "Tractatus logico-philosophicus"
+  }
+ },
+ "verknuepfungen": {
+  "28PO": {
+   "d": "laotse",
+   "begriff": "Die Stärke des Schwachen",
+   "text": "Der Stalker betet im Film selbst mit Worten aus dem Daodejing: Wenn der Mensch geboren wird, ist er weich und biegsam, wenn er stirbt, hart und starr. Tarkowski baut darauf den ganzen Film. Schriftsteller und Professor sind klug, stark und zynisch, und gerade deshalb können sie das Zimmer nicht betreten. Der Stalker ist schwach, lächerlich, ein Narr, und nur er kann noch glauben.\n\nDie Zone verlangt kein Wissen, sondern Nachgiebigkeit: Der gerade Weg ist dort nie der kürzeste. Das ist Wu wei, Handeln durch Nicht-Erzwingen.",
+   "zitat": "Das Weiche und Schwache überwindet das Harte und Starke.",
+   "quelle": "Daodejing, Kap. 36 (sinngemäß)",
+   "lesen": "Daodejing, Kap. 76 und 78"
+  },
+  "1xg8": {
+   "d": "kierkegaard",
+   "begriff": "Der Glaube kraft des Absurden",
+   "text": "Alexander gelobt, alles aufzugeben, sein Haus, seine Familie, seine Sprache, wenn der Krieg ungeschehen wird. Am Morgen ist die Welt heil, und er hält Wort. Von außen sieht das aus wie Wahnsinn. Genau so beschreibt Kierkegaard Abraham: Wer wirklich glaubt, kann sich niemandem verständlich machen, denn sein Handeln lässt sich ethisch nicht rechtfertigen.\n\nOb das Opfer etwas bewirkt hat, lässt Tarkowski offen. Kierkegaard würde sagen: Diese Ungewissheit ist kein Mangel des Glaubens, sie ist sein Wesen.",
+   "lesen": "Furcht und Zittern"
+  },
+  "2a2Y": {
+   "d": "levinas",
+   "begriff": "Der Andere, den ich nicht begreife",
+   "text": "Die Forscher wollen den Ozean erkennen, vermessen, bestrahlen. Er antwortet, indem er ihnen ihr eigenes Gewissen schickt. Hari ist für Kelvin zuerst ein Phänomen, dann ein Mensch, dem er etwas schuldet, obwohl er nicht weiß, was sie ist. Das ist Levinas' Punkt: Der Andere ist kein Gegenstand des Wissens, sondern ein Anspruch an mich.\n\nSnauts Diagnose trifft die Gegenhaltung: Der Mensch sucht im All nur sich selbst.",
+   "zitat": "Wir brauchen keine anderen Welten. Wir brauchen einen Spiegel.",
+   "quelle": "Snaut in „Solaris“ (kein Levinas-Zitat)",
+   "lesen": "Totalität und Unendlichkeit"
+  },
+  "1nrU": {
+   "d": "pascal",
+   "begriff": "Der verborgene Gott",
+   "text": "Pastor Tomas feiert die Messe für eine fast leere Kirche und kann dem verzweifelten Jonas nichts sagen außer seinem eigenen Zweifel. Pascal nennt Gott den Deus absconditus: Er zeigt sich gerade so weit, dass Glaube möglich, aber nie erzwungen ist.\n\nBergman treibt das an die Grenze. Am Ende hält Tomas den Gottesdienst trotzdem, vor einer einzigen Zuhörerin. Ob das Glaube ist oder nur Pflicht, bleibt offen, und bei Pascal ist genau dieses Weitermachen ohne Gewissheit die Wette.",
+   "zitat": "Das ewige Schweigen dieser unendlichen Räume macht mich schaudern.",
+   "quelle": "Pensées",
+   "lesen": "Pensées, die Abschnitte über die Wette und den verborgenen Gott"
+  },
+  "29ZU": {
+   "d": "kierkegaard",
+   "begriff": "Das Leben rückwärts verstehen",
+   "text": "Isak Borg fährt zu seiner Ehrung und reist dabei durch sein eigenes Leben. In Träumen und Erinnerungen sieht er, was er war: korrekt, geachtet, kalt. Kierkegaard nennt den Zustand, in dem ein Mensch sich selbst verfehlt, ohne es zu merken, die verborgenste Form der Verzweiflung.\n\nBergmans Film ist milder als Kierkegaard. Isak versteht spät, aber nicht zu spät, und die letzten Bilder zeigen einen Mann, der mit seiner Vergangenheit Frieden schließt.",
+   "zitat": "Das Leben kann nur rückwärts verstanden, muss aber vorwärts gelebt werden.",
+   "quelle": "Tagebücher, 1843 (sinngemäß)",
+   "lesen": "Die Krankheit zum Tode"
+  },
+  "1tZo": {
+   "d": "weil",
+   "begriff": "Die Gewalt, die Menschen zu Dingen macht",
+   "text": "Jan und Eva sind Musiker, unpolitisch, auf eine Insel geflohen. Der Krieg holt sie trotzdem ein und verwandelt den ängstlichen Jan in einen Mörder. Simone Weil beschreibt Gewalt als eine Kraft, die jeden, der ihr unterworfen ist, zur Sache macht, das Opfer wie den, der sie ausübt.\n\nBergman zeigt keinen Feind und keine Sache, für die gekämpft würde. Übrig bleibt, was Weil in der Ilias las: Niemand besitzt die Gewalt, sie besitzt die Menschen.",
+   "lesen": "Die Ilias oder das Gedicht von der Gewalt"
+  },
+  "rx6u": {
+   "d": "buber",
+   "begriff": "Vom Du zum Es",
+   "text": "Marianne und Johan gelten als Musterpaar und reden doch seit Jahren aneinander vorbei. Buber würde sagen: Sie haben einander zum Es gemacht, zu einer verlässlichen Einrichtung. Erst als die Ehe zerbricht und beide einander verletzen, sehen sie sich wieder als Gegenüber.\n\nDas Paradoxe an Bergmans Film ist, dass die beiden nach der Scheidung ehrlicher miteinander sprechen als je zuvor. Begegnung lässt sich nicht verwalten.",
+   "zitat": "Alles wirkliche Leben ist Begegnung.",
+   "quelle": "Ich und Du",
+   "lesen": "Ich und Du"
+  },
+  "Wus": {
+   "d": "sartre",
+   "begriff": "Unaufrichtigkeit und der Blick der anderen",
+   "text": "Anna spricht unablässig von Wahrheit und lebt in einer Lüge über ihre Ehe. Andreas hat sich auf die Insel zurückgezogen, um niemandem mehr ausgesetzt zu sein. Beide betreiben, was Sartre mauvaise foi nennt: Sie erzählen sich eine Geschichte über sich selbst, um ihre Freiheit nicht tragen zu müssen.\n\nZusammen werden sie einander zur Falle. Bergman lässt am Ende sogar das Bild zerfallen, bis von Andreas nur noch Körnung bleibt.",
+   "zitat": "Die Hölle, das sind die anderen.",
+   "quelle": "Geschlossene Gesellschaft",
+   "lesen": "Geschlossene Gesellschaft; Das Sein und das Nichts (Kapitel über die Unaufrichtigkeit)"
+  },
+  "1TjI": {
+   "d": "dostojewski",
+   "begriff": "Das Leiden der Unschuldigen",
+   "text": "Töre rächt seine ermordete Tochter und tötet dabei auch ein Kind. Dann fragt er Gott, wie er das zulassen konnte, die Tat an ihr und seine eigene. Es ist die Frage Iwan Karamasows: Keine künftige Harmonie wiegt das Leiden eines einzigen Kindes auf.\n\nBergman lässt eine Quelle entspringen, wo das Mädchen lag. Töre bekommt keine Antwort, nur ein Zeichen, und verspricht, mit eigenen Händen eine Kirche zu bauen. Iwan würde die Eintrittskarte zurückgeben, Töre nimmt sie an.",
+   "lesen": "Die Brüder Karamasow, Buch V („Die Empörung“ und „Der Großinquisitor“)"
+  },
+  "1vLe": {
+   "d": "heidegger",
+   "begriff": "Das Man und das eigentliche Leben",
+   "text": "André erzählt von Wäldern in Polen und einem Scheinbegräbnis und behauptet, die meisten Menschen lebten wie Schlafwandler, gesteuert von Gewohnheit. Das ist Heideggers „Man“: Man lebt, wie man eben lebt, und weicht so der eigenen Endlichkeit aus.\n\nDas Schöne am Film ist Wallys Widerspruch. Ihm genügen eine Heizdecke und kalter Kaffee am Morgen. Der Film entscheidet den Streit nicht, er zeigt nur, dass Wally auf der Heimfahrt seine Stadt mit anderen Augen sieht.",
+   "lesen": "Sein und Zeit, §§ 27 und 46–53"
+  },
+  "3xwE": {
+   "d": "pascal",
+   "begriff": "Allein in einem Zimmer",
+   "text": "Ein Student steht eines Morgens nicht mehr auf. Er geht nicht zur Prüfung, antwortet niemandem, übt sich in vollkommener Gleichgültigkeit. Er versucht genau das, was Pascal für unmöglich hält: ohne Zerstreuung mit sich allein zu sein.\n\nPerecs Text gibt Pascal recht. Die Gleichgültigkeit ist keine Freiheit, sondern eine andere Art Gefängnis, und am Ende steht der Satz, dass die Zeit, die alles regelt, auch ihn nicht ausgenommen hat.",
+   "zitat": "Das ganze Unglück der Menschen rührt allein daher, dass sie nicht ruhig in einem Zimmer zu bleiben vermögen.",
+   "quelle": "Pensées",
+   "lesen": "Pensées, die Abschnitte über die Zerstreuung (divertissement)"
+  },
+  "xlUa": {
+   "d": "montaigne",
+   "begriff": "Sterben lernen",
+   "text": "Clancy reist durch untergehende Welten und führt dabei Gespräche über Meditation, Verlust und den Tod. Fast jede Folge läuft auf dieselbe Übung hinaus: hinschauen, statt wegzulaufen. Montaigne hat das als Kern des Philosophierens beschrieben. Wer den Tod bedenkt, verliert die Angst vor ihm und wird frei für das Leben.\n\nDie letzte Folge, das Gespräch mit der sterbenden Mutter, ist diese Übung im Ernstfall. Die Serie schöpft dafür stärker aus dem Buddhismus als aus Europa, die Bewegung ist dieselbe.",
+   "zitat": "Philosophieren heißt sterben lernen.",
+   "quelle": "Essais I, 20",
+   "lesen": "Essais I, 20"
+  },
+  "i7Q4": {
+   "d": "epiktet",
+   "begriff": "Was in unserer Macht steht",
+   "text": "Ruben verliert sein Gehör und will es um jeden Preis zurück. Joe, der die Gemeinschaft der Gehörlosen leitet, verlangt etwas anderes von ihm: jeden Morgen still in einem Zimmer sitzen. Das ist stoische Lehre. Das Gehör liegt nicht in Rubens Macht, seine Haltung dazu schon.\n\nErst als die Implantate ihm nur Blech und Lärm liefern, nimmt Ruben sie ab. Die Stille am Schluss ist kein Verlust mehr.",
+   "zitat": "Nicht die Dinge selbst beunruhigen die Menschen, sondern ihre Meinungen über die Dinge.",
+   "quelle": "Handbüchlein der Moral, 5",
+   "lesen": "Handbüchlein der Moral"
+  },
+  "leq4": {
+   "d": "nietzsche",
+   "begriff": "Amor fati",
+   "text": "„Was geschehen ist, ist geschehen“ ist das Gesetz des Films. Die Zukunft steht fest, weil sie schon stattgefunden hat, und trotzdem muss der Protagonist handeln. Neil kennt sein Ende und geht lächelnd hinein. Nietzsche nennt diese Haltung Amor fati: das Notwendige nicht bloß ertragen, sondern lieben.\n\nNolan macht daraus eine Ethik. Dass alles feststeht, ist keine Ausrede, nichts zu tun.",
+   "lesen": "Die fröhliche Wissenschaft, Nr. 276 und 341"
+  },
+  "780m": {
+   "d": "han",
+   "begriff": "Das Leistungssubjekt",
+   "text": "Lou Bloom spricht in Sätzen aus Karriere-Ratgebern und meint jeden davon ernst. Er ist Unternehmer seiner selbst, immer motiviert, immer lernbereit, vollkommen ohne Hemmung. Han beschreibt dieses Subjekt als Ergebnis einer Gesellschaft, die nicht mehr verbietet, sondern antreibt.\n\nBei Han endet die Selbstausbeutung im Burnout. Gilroys Film ist böser: Lou brennt nicht aus, er hat Erfolg, und die Sender kaufen jedes Bild.",
+   "lesen": "Müdigkeitsgesellschaft"
+  },
+  "3wEC": {
+   "d": "girard",
+   "begriff": "Der Sündenbock",
+   "text": "Ein Kind sagt einen Satz, und ein Dorf findet seinen Schuldigen. Niemand prüft, alle sind sich einig, und die Einigkeit fühlt sich an wie Gerechtigkeit. Girard beschreibt genau diesen Mechanismus: Eine Gemeinschaft entlädt ihre Angst an einem Einzelnen und glaubt aufrichtig an seine Schuld.\n\nVinterberg zeigt auch, was Girard betont: Der Mechanismus endet nicht mit dem Freispruch. Der Schuss im Wald am Schluss sagt, dass Lucas für immer gezeichnet bleibt.",
+   "lesen": "Der Sündenbock"
+  },
+  "293w": {
+   "d": "parfit",
+   "begriff": "Der Teletransporter",
+   "text": "Angiers Maschine ist Parfits berühmtes Gedankenexperiment als Bühnentrick: Ein exaktes Duplikat entsteht, das Original stirbt. Ist der Mann, der den Applaus bekommt, derselbe wie der im Wassertank? Angier weiß es jede Nacht nicht.\n\nParfit hält die Frage für leer: Es gibt keine tiefere Tatsache darüber, wer „wirklich“ überlebt. Borden und sein Bruder haben diese Einsicht längst gelebt, sie teilen sich ein einziges Leben.",
+   "lesen": "Reasons and Persons, Teil III"
+  },
+  "29R2": {
+   "d": "nietzsche",
+   "begriff": "Rache und Ressentiment",
+   "text": "Fünfzehn Jahre Gefangenschaft machen aus Oh Dae-su ein Werkzeug der Rache, und er merkt nicht, dass er dabei selbst das Werkzeug eines anderen ist. Nietzsche beschreibt Ressentiment als ein Gift, das den Rächenden an seinen Feind kettet, bis er ohne ihn nicht mehr leben kann.\n\nLee Woo-jin erschießt sich, sobald seine Rache vollendet ist. Sie war das Einzige, was ihn noch hielt.",
+   "zitat": "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird.",
+   "quelle": "Jenseits von Gut und Böse, 146",
+   "lesen": "Zur Genealogie der Moral, Erste Abhandlung"
+  },
+  "2bcK": {
+   "d": "locke",
+   "begriff": "Identität durch Erinnerung",
+   "text": "Für Locke bin ich dieselbe Person wie gestern, weil mein Bewusstsein an gestern anknüpft. Leonard kann das nicht mehr. Er ersetzt Erinnerung durch Tätowierungen und Polaroids, also durch Zeugnisse, denen er glauben muss.\n\nDer Film zeigt die Schwachstelle der Theorie: Wer seine Identität aus Notizen baut, kann sie auch fälschen. Leonard belügt sich bewusst, um ein Ziel zu behalten, und ist damit weniger Opfer seines Gedächtnisses als dessen Autor.",
+   "lesen": "Versuch über den menschlichen Verstand, Buch II, Kap. 27"
+  },
+  "27Xs": {
+   "d": "baudrillard",
+   "begriff": "Hyperrealität",
+   "text": "Las Vegas ist für Baudrillard die Stadt, in der die Kopie das Original ersetzt hat, reine Oberfläche in der Wüste. Duke und Gonzo suchen dort den amerikanischen Traum und finden ein Zirkus-Casino, das nüchtern genauso halluzinatorisch ist wie auf Äther.\n\nDie Wellen-Rede in der Mitte des Films ist der Moment der Trauer: Die Sechziger glaubten an etwas Wirkliches. Übrig ist die Simulation davon.",
+   "lesen": "Amerika; Simulacres et Simulation"
+  },
+  "29Wc": {
+   "d": "freud",
+   "begriff": "Verdrängung und Wiederkehr",
+   "text": "Fred sagt, er erinnere sich lieber auf seine eigene Weise an die Dinge, nicht so, wie sie waren. Der Film nimmt das wörtlich. In der Todeszelle wird aus ihm ein anderer, jüngerer Mann mit einem anderen Leben, einer Wunschfantasie, in der er begehrt wird.\n\nFreud zufolge kehrt das Verdrängte immer wieder. Auch in Freds Fantasie taucht die Frau wieder auf, entzieht sich wieder, und der Mystery Man hält ihm die Kamera vors Gesicht.",
+   "lesen": "Das Unheimliche; Die Verdrängung"
+  },
+  "2as8": {
+   "d": "fanon",
+   "begriff": "Gewalt als Antwort auf Verachtung",
+   "text": "Vinz, Saïd und Hubert leben am Rand von Paris und werden bei jedem Schritt in die Stadt daran erinnert, dass sie dort nicht vorgesehen sind. Fanon beschreibt, wie dauernde Demütigung sich im Körper staut und zuerst gegen die eigenen Leute, dann gegen die Ordnung entlädt.\n\nKassovitz erzählt das als Fall aus dem fünfzigsten Stock. „Bis hierher lief's noch ganz gut“ gilt für die ganze Gesellschaft: Wichtig ist nicht der Fall, sondern die Landung.",
+   "lesen": "Die Verdammten dieser Erde, Kap. 1"
+  },
+  "2aJS": {
+   "d": "debord",
+   "begriff": "Die Gesellschaft des Spektakels",
+   "text": "Rupert Pupkin will nicht komisch sein, er will im Fernsehen sein. In seinem Keller spricht er mit Pappfiguren von Stars, und für ihn sind diese Gespräche wirklicher als sein Leben. Debord nennt das Spektakel ein gesellschaftliches Verhältnis, das durch Bilder vermittelt ist.\n\nScorseses Pointe ist, dass Pupkin recht behält. Die Entführung macht ihn berühmt, und das Spektakel nimmt ihn auf.",
+   "lesen": "Die Gesellschaft des Spektakels"
+  },
+  "2aNq": {
+   "d": "machiavelli",
+   "begriff": "Die Logik der Macht",
+   "text": "Michael Corleone handelt, wie Machiavelli es dem Fürsten rät: Er ist lieber gefürchtet als geliebt, schlägt zu, bevor andere es tun, und lässt keine Schuld offen. Am Ende hat er jeden Feind besiegt.\n\nDer Film zeigt, was im „Fürsten“ nicht steht. Michael lässt den eigenen Bruder töten und sitzt allein am See. Die Rückblenden zu Vito machen den Verlust sichtbar: Der Vater baute die Macht für die Familie, der Sohn opfert die Familie für die Macht.",
+   "lesen": "Der Fürst, Kap. 15–18"
+  },
+  "2aVE": {
+   "d": "kant",
+   "begriff": "Freiheit als Bedingung der Moral",
+   "text": "Die Ludovico-Behandlung macht Alex ungefährlich: Ihm wird übel, sobald er an Gewalt denkt. Gut ist er dadurch nicht geworden. Für Kant hat eine Handlung nur moralischen Wert, wenn sie aus freiem Willen geschieht. Ein dressierter Mensch handelt nicht, er funktioniert.\n\nDer Gefängnispfarrer sagt es im Film fast wörtlich: Wer nicht wählen kann, hört auf, ein Mensch zu sein. Kubrick lässt offen, ob uns ein freier Alex lieber sein sollte.",
+   "lesen": "Grundlegung zur Metaphysik der Sitten"
+  },
+  "2b2A": {
+   "d": "kierkegaard",
+   "begriff": "Angst und Entscheidung",
+   "text": "Donnie sieht, wohin die Dinge laufen, und weiß nicht, ob er überhaupt wählen kann. Seine Angst ist keine Furcht vor etwas Bestimmtem, sondern das, was Kierkegaard beschreibt: der Blick in die eigene Möglichkeit.\n\nAm Ende wählt er. Er bleibt im Bett liegen und lacht. Der Satz der alten Frau, jedes Lebewesen sterbe allein, wird durch sein Opfer zugleich bestätigt und widerlegt.",
+   "zitat": "Angst ist der Schwindel der Freiheit.",
+   "quelle": "Der Begriff Angst",
+   "lesen": "Der Begriff Angst"
+  },
+  "4VZ8": {
+   "d": "jonas",
+   "begriff": "Verantwortung für die Künftigen",
+   "text": "Die Erde stirbt, und die Frage ist, was die Lebenden denen schulden, die noch nicht geboren sind. Jonas hat daraus einen neuen Imperativ gemacht: Handle so, dass es auch künftig echtes menschliches Leben geben kann.\n\nDer Film spitzt das auf einen Konflikt zu. Professor Brand rettet die Menschheit als Gattung und belügt dafür die Lebenden, Cooper will seine eigene Tochter wiedersehen. Bei Jonas ist die Sorge der Eltern um das Kind das Urbild aller Verantwortung.",
+   "lesen": "Das Prinzip Verantwortung"
+  },
+  "28MA": {
+   "d": "sartre",
+   "begriff": "Die Rolle, die man spielt",
+   "text": "Billy spielt den Gangster, Colin den Polizisten, und beide spielen so lange, bis kaum noch jemand weiß, wer sie sind. Sartre beschreibt am Beispiel eines Kellners, wie ein Mensch in seiner Rolle verschwinden will, um nicht frei sein zu müssen.\n\nBilly geht an der Rolle zugrunde, weil er weiß, dass sie eine Lüge ist. Colin ist der tragischere Fall: Er hat nichts außer ihr.",
+   "lesen": "Das Sein und das Nichts (Kapitel über die Unaufrichtigkeit)"
+  },
+  "B3qu": {
+   "d": "foucault",
+   "begriff": "Die Strafe an der Seele",
+   "text": "Foucault beschreibt, wie die moderne Strafe vom Körper auf die Seele übergeht: Sie foltert nicht mehr, sie überwacht, isoliert und formt. Die Folge führt beides zu Ende. Ein kopiertes Bewusstsein wird durch Monate der Leere gefügig gemacht, ein Geständnis durch eine Simulation erpresst.\n\nDas „Blockieren“ ist die soziale Variante davon. Der Verurteilte ist nicht eingesperrt, er ist für alle nur noch ein grauer Umriss.",
+   "lesen": "Überwachen und Strafen"
+  },
+  "hQYA": {
+   "d": "camus",
+   "begriff": "Die Revolte",
+   "text": "Das System weiß, wie lange jede Beziehung dauert, und alle fügen sich. Frank und Amy sagen irgendwann Nein und klettern über die Mauer. Für Camus beginnt der Mensch in diesem Nein: Wer sich auflehnt, behauptet, dass es etwas gibt, das mehr wert ist als die Ordnung.\n\nDie Auflösung dreht das um. Die Revolte war der Test, und nur wer rebelliert, passt zusammen.",
+   "zitat": "Ich empöre mich, also sind wir.",
+   "quelle": "Der Mensch in der Revolte",
+   "lesen": "Der Mensch in der Revolte"
+  },
+  "2bf0": {
+   "d": "nietzsche",
+   "begriff": "Der Übermensch",
+   "text": "Kubrick unterlegt die Sprünge der Menschheit mit Strauss' „Also sprach Zarathustra“. Vom Affen über den Menschen zum Sternenkind: Der Mensch ist bei Nietzsche ein Seil, etwas, das überwunden werden soll.",
+   "lesen": "Also sprach Zarathustra, Vorrede"
+  },
+  "2awY": {
+   "d": "schopenhauer",
+   "begriff": "Der blinde Wille zum Leben",
+   "text": "Das Wesen hat kein Ziel außer sich fortzupflanzen. Es ist Schopenhauers Wille in Reinform: ohne Bewusstsein, ohne Moral, nicht aufzuhalten.",
+   "lesen": "Die Welt als Wille und Vorstellung, Buch II"
+  },
+  "H08": {
+   "d": "weil",
+   "begriff": "Gewalt macht Menschen zu Dingen",
+   "text": "Paul zieht begeistert in den Krieg und wird Material. Simone Weil beschreibt die Gewalt als das, was einen Menschen zur Sache macht, lange bevor sie ihn tötet.",
+   "lesen": "Die Ilias oder das Gedicht von der Gewalt"
+  },
+  "2bdo": {
+   "d": "girard",
+   "begriff": "Nachgeahmte Gewalt",
+   "text": "Hass wird hier weitergegeben wie eine Erbschaft, vom Vater auf Derek, von Derek auf Danny. Girard zufolge ist Gewalt ansteckend, weil Menschen einander nachahmen, und sie endet nicht dort, wo einer aussteigt.",
+   "lesen": "Das Heilige und die Gewalt"
+  },
+  "28Vs": {
+   "d": "baudrillard",
+   "begriff": "Oberfläche ohne Inhalt",
+   "text": "Visitenkarten, Reservierungen, Hautpflege: Bateman besteht nur aus Zeichen. Als er gesteht, hört niemand zu, weil in dieser Welt nichts mehr auf etwas Wirkliches verweist.",
+   "lesen": "Simulacres et Simulation"
+  },
+  "6ZS": {
+   "d": "nietzsche",
+   "begriff": "Jenseits von Gut und Böse",
+   "text": "Kurtz hat die Moral seiner Auftraggeber als Heuchelei durchschaut und dahinter nichts gefunden als das Grauen. Der Film ist die dunkle Probe auf Nietzsches Frage, was bleibt, wenn alle Werte fallen.",
+   "zitat": "Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.",
+   "quelle": "Jenseits von Gut und Böse, 146",
+   "lesen": "Jenseits von Gut und Böse"
+  },
+  "1Rio": {
+   "d": "levinas",
+   "begriff": "Der Anspruch, dem man ausweicht",
+   "text": "Charlotte hat ihr Leben lang die Musik gewählt, um ihre Töchter nicht ansehen zu müssen. In einer Nacht zwingt Eva sie hinzusehen. Für Levinas beginnt Ethik genau in diesem Blick, den man nicht erwidern will.",
+   "lesen": "Ethik und Unendliches"
+  },
+  "25A2": {
+   "d": "marcaurel",
+   "begriff": "Vergänglichkeit",
+   "text": "Aufstieg und Fall eines Emporkömmlings, erzählt mit kühler Distanz. Der Epilog sagt, was Marc Aurel sich immer wieder notierte: Gute und Schlechte, Reiche und Arme sind jetzt alle gleich.",
+   "lesen": "Selbstbetrachtungen"
+  },
+  "2b0k": {
+   "d": "hobbes",
+   "begriff": "Der Naturzustand als Experiment",
+   "text": "Der Joker will beweisen, dass Zivilisation nur eine dünne Schicht ist und die Menschen einander fressen, sobald die Ordnung fällt. Die beiden Fähren sind sein Versuch. Hobbes hätte auf den Joker gewettet, der Film wettet dagegen.",
+   "lesen": "Leviathan, Kap. 13"
+  },
+  "U1Vy": {
+   "d": "marx",
+   "begriff": "Der Mensch als Ware",
+   "text": "Ein Leben im Abo-Modell, das immer teurer wird, bis der Körper selbst Werbefläche ist. Deutlicher lässt sich kaum zeigen, was Marx Entfremdung nennt.",
+   "lesen": "Ökonomisch-philosophische Manuskripte"
+  },
+  "hQYU": {
+   "d": "adorno",
+   "begriff": "Kulturindustrie",
+   "text": "Bing hält der Jury eine Scherbe an den Hals und schreit seine Wut heraus. Die Jury gibt ihm eine eigene Sendung. Adornos These in einer Szene: Das System schluckt den Protest und verkauft ihn.",
+   "zitat": "Es gibt kein richtiges Leben im falschen.",
+   "quelle": "Minima Moralia",
+   "lesen": "Dialektik der Aufklärung, Kapitel „Kulturindustrie“"
+  },
+  "k4aS": {
+   "d": "nozick",
+   "begriff": "Die Erlebnismaschine",
+   "text": "Nozick fragt, ob wir uns für immer an eine Maschine anschließen würden, die uns jedes Glück vorspielt, und meint, wir würden ablehnen. Yorkie und Kelly sagen Ja. Die Folge ist eines der wenigen ernsthaften Gegenargumente.",
+   "lesen": "Anarchie, Staat, Utopia, Kap. 3"
+  },
+  "hRRq": {
+   "d": "foucault",
+   "begriff": "Das Panoptikum",
+   "text": "Kenny gehorcht, weil er gesehen wurde und nicht weiß, von wem. Foucault beschreibt Macht genau so: Sie braucht keine Gewalt, es reicht die Gewissheit, beobachtet zu sein.",
+   "lesen": "Überwachen und Strafen, Kapitel „Der Panoptismus“"
+  },
+  "hQXi": {
+   "d": "platon",
+   "begriff": "Der Ring des Gyges",
+   "text": "Im eigenen Spiel ist Daly unsichtbar und allmächtig. Platon fragt mit dem Ring des Gyges, was ein Mensch tut, wenn er keine Folgen fürchten muss. Daly gibt die pessimistische Antwort.",
+   "lesen": "Politeia, Buch II"
+  },
+  "mkbG": {
+   "d": "arendt",
+   "begriff": "Wahrheit und Lüge in der Politik",
+   "text": "Die Serie fragt, was Lügen kosten. Arendt hat beschrieben, wie ein System, das Tatsachen dauerhaft durch Lügen ersetzt, am Ende den Sinn zerstört, mit dem Menschen sich in der Wirklichkeit orientieren.",
+   "lesen": "Wahrheit und Lüge in der Politik"
+  },
+  "71O": {
+   "d": "aristoteles",
+   "begriff": "Glück ist kein Besitz",
+   "text": "Kane besitzt alles, was sich kaufen lässt, und stirbt mit dem Namen eines Kinderschlittens auf den Lippen. Für Aristoteles liegt Glück in gelingendem Tun und in Freundschaft, beides hat Kane durch Sammeln ersetzt.",
+   "lesen": "Nikomachische Ethik, Buch I und VIII"
+  },
+  "2av2": {
+   "d": "jaspers",
+   "begriff": "Grenzsituation",
+   "text": "Fünfzig Männer in einer Röhre, über ihnen Wasserbomben. Jaspers nennt Tod, Kampf und Zufall Grenzsituationen, in denen alle Sicherheiten wegfallen. Das Ende im Hafen ist der Zufall in seiner bittersten Form.",
+   "lesen": "Philosophie II: Existenzerhellung"
+  },
+  "6YK": {
+   "d": "nietzsche",
+   "begriff": "Die ewige Wiederkunft",
+   "text": "Nietzsches Probe: Würdest du dein Leben noch einmal genau so wollen, mit allem Schmerz? Joel und Clementine hören auf Band, wie ihre Liebe enden wird, und sagen trotzdem „Okay“.",
+   "lesen": "Die fröhliche Wissenschaft, Nr. 341"
+  },
+  "2axs": {
+   "d": "freud",
+   "begriff": "Traum und Begehren",
+   "text": "Die Vorlage stammt von Arthur Schnitzler, den Freud seinen Doppelgänger nannte. Ein erzählter Tagtraum genügt, um eine Ehe zu erschüttern, weil der Wunsch darin wirklicher ist als jede Tat.",
+   "lesen": "Die Traumdeutung"
+  },
+  "1ns4": {
+   "d": "kierkegaard",
+   "begriff": "Die Krankheit zum Tode",
+   "text": "Jenny ist Psychiaterin, funktioniert tadellos und bricht ohne äußeren Anlass zusammen. Kierkegaard nennt Verzweiflung den Zustand eines Selbst, das nicht es selbst sein kann, und sie ist am tiefsten, wo man sie nicht bemerkt.",
+   "lesen": "Die Krankheit zum Tode"
+  },
+  "22go": {
+   "d": "nietzsche",
+   "begriff": "Kunst gegen Askese",
+   "text": "Auf der einen Seite das Theater der Ekdahls, auf der anderen das kahle Bischofshaus, das Wahrheit sagt und Unterwerfung meint. Bergman stellt sich wie Nietzsche auf die Seite des Spiels und der Fantasie.",
+   "zitat": "Wir haben die Kunst, damit wir nicht an der Wahrheit zugrunde gehn.",
+   "quelle": "Nachlass 1888",
+   "lesen": "Die Geburt der Tragödie"
+  },
+  "2a9q": {
+   "d": "marcuse",
+   "begriff": "Der eindimensionale Mensch",
+   "text": "Der Erzähler richtet sein Leben nach dem Möbelkatalog ein. Marcuse beschreibt, wie Konsum falsche Bedürfnisse erzeugt und zufriedene Unfreiheit herstellt. Tyler ist die Rebellion dagegen und wird sofort selbst zur Sekte.",
+   "lesen": "Der eindimensionale Mensch"
+  },
+  "2ahY": {
+   "d": "buber",
+   "begriff": "Heilung durch Begegnung",
+   "text": "Will kann jeden mit Wissen schlagen und lässt deshalb niemanden an sich heran. Sean hilft ihm nicht durch Analyse, sondern indem er als Mensch vor ihm steht. Buber nennt das die Begegnung von Ich und Du.",
+   "lesen": "Ich und Du"
+  },
+  "4O24": {
+   "d": "levinas",
+   "begriff": "Der Andere entzieht sich",
+   "text": "Theodore liebt Samantha, solange er sie für sein Gegenüber hält. Dann zeigt sich, dass sie mit Tausenden spricht und über ihn hinauswächst. Der Andere ist bei Levinas das, was sich meinem Zugriff grundsätzlich entzieht.",
+   "lesen": "Die Zeit und der Andere"
+  },
+  "hNVe": {
+   "d": "schopenhauer",
+   "begriff": "Die Unfreiheit des Willens",
+   "text": "Die Familie glaubt zu handeln und erfüllt nur einen Plan, der vor ihrer Geburt feststand. Asters Horror ist Schopenhauers Determinismus als Albtraum.",
+   "zitat": "Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will.",
+   "quelle": "Über die Freiheit des menschlichen Willens (sinngemäß)",
+   "lesen": "Über die Freiheit des menschlichen Willens"
+  },
+  "1H9G": {
+   "d": "jung",
+   "begriff": "Der Schatten",
+   "text": "Der Maler Johan wird nachts von Gestalten heimgesucht, die niemand außer ihm sieht, bis seine Frau sie auch sieht. Jung nennt Schatten, was ein Mensch an sich nicht annehmen kann und deshalb draußen wiederfindet.",
+   "lesen": "Aion, Kap. 2"
+  },
+  "1Qi8": {
+   "d": "rousseau",
+   "begriff": "Natur gegen Abrichtung",
+   "text": "In der Schule ist Billy ein Versager, beim Falken ist er geduldig, klug und frei. Rousseau hielt den Menschen für von Natur aus gut und die Erziehung seiner Zeit für das, was ihn bricht. Loach zeigt das ohne Trost.",
+   "lesen": "Emile oder Über die Erziehung"
+  },
+  "297o": {
+   "d": "freud",
+   "begriff": "Der Traum als Wunscherfüllung",
+   "text": "Die ersten zwei Stunden sind der Traum einer gescheiterten Schauspielerin: Die Geliebte ist hilflos, das Talent wird erkannt, die Schuld gehört anderen. Dann erwacht Diane, und alles wird lesbar, wie Freud Träume liest.",
+   "lesen": "Die Traumdeutung"
+  },
+  "2aNg": {
+   "d": "debord",
+   "begriff": "Gewalt als Spektakel",
+   "text": "Mickey und Mallory werden zu Stars, weil das Fernsehen sie dazu macht. Stones Film ist selbst so laut und überdreht wie das, was er angreift, und zeigt damit Debords These von innen.",
+   "lesen": "Die Gesellschaft des Spektakels"
+  },
+  "2aeA": {
+   "d": "foucault",
+   "begriff": "Wahnsinn und Gesellschaft",
+   "text": "Schwester Ratched braucht keine Gewalt, ihr genügen Ordnung, Routine und die Gruppentherapie. Foucault hat gezeigt, wie die Anstalt festlegt, was normal ist, und Abweichung behandelt, bis sie verstummt.",
+   "lesen": "Wahnsinn und Gesellschaft"
+  },
+  "hTha": {
+   "d": "marx",
+   "begriff": "Klassenverhältnisse",
+   "text": "Oben das Haus mit Garten, unten der Keller, darunter noch ein Keller. Bong macht Klasse zu Architektur. Bitter ist, dass die Armen einander bekämpfen, statt nach oben zu schauen.",
+   "lesen": "Manifest der Kommunistischen Partei, Teil I"
+  },
+  "29B4": {
+   "d": "jung",
+   "begriff": "Die Persona",
+   "text": "Der Titel ist Jungs Begriff für die Maske, die wir der Welt zeigen. Elisabet hört auf zu sprechen, um nicht länger eine Rolle zu spielen, und Alma verliert im Reden vor ihr die eigene. Am Ende verschmelzen zwei Gesichter zu einem.",
+   "lesen": "Die Beziehungen zwischen dem Ich und dem Unbewussten"
+  },
+  "29VI": {
+   "d": "schopenhauer",
+   "begriff": "Das unstillbare Wollen",
+   "text": "Vier Menschen, vier Süchte, dieselbe Bewegung: Jede Erfüllung erzeugt nur neues Verlangen. Schopenhauer beschreibt das Leben als Pendel zwischen Schmerz und Langeweile. Aronofsky zeigt nur noch den Schmerz.",
+   "lesen": "Die Welt als Wille und Vorstellung, Buch IV"
+  },
+  "2aq2": {
+   "d": "arendt",
+   "begriff": "Die Banalität des Bösen",
+   "text": "Amon Göth schießt vom Balkon, wie andere eine Zigarette rauchen, und um ihn herum arbeitet eine Verwaltung aus Listen und Stempeln. Arendts Begriff meint diese Gedankenlosigkeit. Schindlers Liste ist die Antwort mit denselben Mitteln.",
+   "lesen": "Eichmann in Jerusalem"
+  },
+  "29zs": {
+   "d": "thomas",
+   "begriff": "Die sieben Hauptsünden",
+   "text": "John Doe versteht sich als Prediger und nimmt die mittelalterliche Lasterlehre wörtlich. Bei Thomas sind die Hauptsünden Wurzeln, aus denen andere Verfehlungen wachsen. Fincher zeigt eine Stadt, in der niemand mehr hinsieht.",
+   "lesen": "Summa theologiae I-II, Frage 84"
+  },
+  "8i7u": {
+   "d": "machiavelli",
+   "begriff": "Der Zweck und die Mittel",
+   "text": "Kate glaubt an Regeln und wird benutzt, um deren Bruch zu decken. Alejandro und Matt handeln, wie Machiavelli es beschreibt: Wer unter Wölfen Ordnung schaffen will, kann nicht gut bleiben.",
+   "lesen": "Der Fürst, Kap. 18"
+  },
+  "JZC": {
+   "d": "kierkegaard",
+   "begriff": "Das ästhetische Stadium",
+   "text": "Ein Sommer in den Schären, nur Gegenwart und Genuss. Kierkegaard nennt das die ästhetische Existenz und sagt ihr Verzweiflung voraus, sobald der Alltag kommt. Monika blickt in die Kamera und bleibt bei ihrer Wahl.",
+   "lesen": "Entweder – Oder"
+  },
+  "2b8y": {
+   "d": "dostojewski",
+   "begriff": "Der Mensch aus dem Kellerloch",
+   "text": "Paul Schrader hat Travis nach Dostojewskis Kellerlochmenschen entworfen: einsam, gekränkt, überzeugt von der eigenen Reinheit und voller Verachtung für den Schmutz der anderen. Aus diesem Selbstgespräch wird Gewalt.",
+   "lesen": "Aufzeichnungen aus dem Kellerloch"
+  },
+  "27LQ": {
+   "d": "kant",
+   "begriff": "Die Würde des Menschen",
+   "text": "John Merrick wird ausgestellt, erst auf dem Jahrmarkt, dann in besserer Gesellschaft. Sein Schrei, er sei kein Tier, sondern ein Mensch, ist Kants Gedanke: Würde hat keinen Preis und hängt an nichts, was man sehen kann.",
+   "lesen": "Grundlegung zur Metaphysik der Sitten"
+  },
+  "2aNK": {
+   "d": "machiavelli",
+   "begriff": "Wie man Macht erwirbt",
+   "text": "Michael will mit dem Geschäft der Familie nichts zu tun haben und wird ihr fähigster Fürst. Die Taufszene zeigt Machiavellis Rat, alle nötigen Grausamkeiten auf einen Schlag zu begehen.",
+   "lesen": "Der Fürst, Kap. 8"
+  },
+  "2b5O": {
+   "d": "platon",
+   "begriff": "Der Ring des Gyges",
+   "text": "Ein Ring, der unsichtbar macht und seinen Träger verdirbt: Die Geschichte steht schon bei Platon. Dort dient sie der Frage, ob jemand gerecht bliebe, wenn er ungesehen handeln könnte. Tolkiens Antwort ist, dass man den Ring vernichten muss.",
+   "lesen": "Politeia, Buch II"
+  },
+  "248c": {
+   "d": "dostojewski",
+   "begriff": "Schuld, die sich nicht verdrängen lässt",
+   "text": "Trevor schläft seit einem Jahr nicht und magert ab, ohne zu wissen, warum. Im Film liest er Dostojewski, und wie bei Raskolnikow arbeitet die Schuld im Körper weiter, bis er gesteht. Erst dann kann er schlafen.",
+   "lesen": "Schuld und Sühne"
+  },
+  "2a1m": {
+   "d": "baudrillard",
+   "begriff": "Simulation",
+   "text": "Neo versteckt seine Disketten in einem ausgehöhlten Exemplar von Baudrillards „Simulacres et Simulation“. Baudrillard selbst fand, der Film habe ihn missverstanden: Bei ihm gibt es hinter der Simulation keine wahre Welt mehr, in die man aufwachen könnte.",
+   "lesen": "Simulacres et Simulation"
+  },
+  "2aqc": {
+   "d": "frankl",
+   "begriff": "Sinn im Überleben",
+   "text": "Szpilman verliert alles und hält sich an dem fest, was ihn ausmacht: Er spielt in Gedanken Klavier, die Finger über den Tasten. Frankl beschreibt, dass Menschen im Äußersten überleben, solange sie ein Wozu haben.",
+   "lesen": "… trotzdem Ja zum Leben sagen"
+  },
+  "2ahO": {
+   "d": "camus",
+   "begriff": "Handeln im Schweigen",
+   "text": "Der Ritter will Wissen statt Glauben, und Gott schweigt. Statt zu verzweifeln, nutzt er den Aufschub durch das Schachspiel für eine einzige sinnvolle Tat und rettet die Gauklerfamilie. Das ist Camus' Antwort auf das Absurde.",
+   "zitat": "Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.",
+   "quelle": "Der Mythos des Sisyphos",
+   "lesen": "Der Mythos des Sisyphos"
+  },
+  "29Nu": {
+   "d": "freud",
+   "begriff": "Das Unheimliche",
+   "text": "Unheimlich ist für Freud das Vertraute, das fremd wiederkehrt: Doppelgänger, Wiederholungen, das eigene Heim. Kubrick baut daraus ein Hotel mit Zwillingen, endlosen Fluren und einem Vater, der schon immer dort war.",
+   "lesen": "Das Unheimliche"
+  },
+  "1TH6": {
+   "d": "wittgenstein",
+   "begriff": "Die Grenzen der Sprache",
+   "text": "Zwei Schwestern in einem Land, dessen Sprache sie nicht verstehen, und miteinander können sie ebenso wenig sprechen. Bergman zeigt eine Welt, in der Worte nichts mehr tragen und Gott nicht einmal mehr vermisst wird.",
+   "zitat": "Wovon man nicht sprechen kann, darüber muss man schweigen.",
+   "quelle": "Tractatus logico-philosophicus, 7",
+   "lesen": "Tractatus logico-philosophicus"
+  },
+  "99A": {
+   "d": "merleau",
+   "begriff": "Ich bin mein Leib",
+   "text": "Ein Chirurg gibt einem Menschen gegen dessen Willen einen neuen Körper. Für Merleau-Ponty ist der Leib kein Kleid, das man wechselt, sondern die Art, in der Welt zu sein. Der letzte Satz des Films hält dagegen: „Ich bin Vicente.“",
+   "lesen": "Phänomenologie der Wahrnehmung"
+  },
+  "294O": {
+   "d": "hobbes",
+   "begriff": "Misstrauen aller gegen alle",
+   "text": "Jeder könnte das Ding sein, also ist jeder ein Feind. Carpenter stellt Hobbes' Naturzustand in einer Polarstation nach: Ohne Vertrauen bleibt nur, den anderen zuvorzukommen.",
+   "lesen": "Leviathan, Kap. 13"
+  },
+  "18U8": {
+   "d": "platon",
+   "begriff": "Das Höhlengleichnis",
+   "text": "Truman hält eine Kulisse für die Welt, wie Platons Gefangene die Schatten. Der Aufstieg ist mühsam, und der Regisseur bietet ihm an, in der sicheren Höhle zu bleiben. Truman verbeugt sich und geht durch die Tür.",
+   "lesen": "Politeia, Buch VII"
+  },
+  "1ZTW": {
+   "d": "dostojewski",
+   "begriff": "Die Tat als Selbstversuch",
+   "text": "Raymond will wissen, ob er zum absolut Bösen fähig ist, so wie er einst vom Balkon sprang, nur um zu sehen, ob er es kann. Es ist Raskolnikows Experiment, hier ohne Reue und ohne Strafe.",
+   "lesen": "Schuld und Sühne"
+  },
+  "20Z2": {
+   "d": "nietzsche",
+   "begriff": "Der Wille zur Macht",
+   "text": "Plainview will nicht reich sein, er will, dass kein anderer Erfolg hat. Sein Gegenspieler Eli predigt Demut und will dasselbe. Der Film liest sich wie Nietzsches Verdacht, dass hinter Geschäft und Religion derselbe Trieb steckt.",
+   "lesen": "Zur Genealogie der Moral"
+  },
+  "1I0g": {
+   "d": "anders",
+   "begriff": "Was wir uns nicht vorstellen können",
+   "text": "Anders nennt es das prometheische Gefälle: Wir können mehr zerstören, als wir uns vorstellen können. Der Film versucht, diese Lücke zu schließen, indem er einen Atomkrieg bis in die nächste Generation hinein nüchtern durchbuchstabiert.",
+   "lesen": "Die Antiquiertheit des Menschen, Band I"
+  },
+  "1TrW": {
+   "d": "feuerbach",
+   "begriff": "Gott als menschliche Liebe",
+   "text": "Karin sieht Gott als Spinne. Am Ende sagt ihr Vater dem Sohn, Gott sei die Liebe, jede Art von Liebe. Das ist Feuerbachs Umkehrung: Was der Mensch Gott nennt, ist sein eigenes Vermögen zu lieben.",
+   "lesen": "Das Wesen des Christentums"
+  },
+  "145A": {
+   "d": "benjamin",
+   "begriff": "Ästhetisierung der Politik",
+   "text": "Riefenstahls Film erschien 1935, Benjamins Aufsatz kurz darauf. Er beschreibt genau diese Bilder: Der Faschismus gibt den Massen einen Ausdruck statt ihrer Rechte und macht aus Politik ein Schauspiel, das im Krieg gipfelt.",
+   "lesen": "Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit, Nachwort"
+  },
+  "2b26": {
+   "d": "heidegger",
+   "begriff": "Endlichkeit gibt Bedeutung",
+   "text": "Die Engel wissen alles und spüren nichts. Damiel gibt die Ewigkeit auf für Kaffee, kalte Hände und eine Liebe, die enden wird. Heidegger zufolge bekommt das Dasein erst durch seine Endlichkeit Gewicht.",
+   "lesen": "Sein und Zeit, §§ 46–53"
+  },
+  "B9me": {
+   "d": "descartes",
+   "begriff": "Der täuschende Dämon",
+   "text": "Stiller entdeckt, dass seine Welt ein Programm ist, und kann von innen nichts beweisen. Descartes hat diesen Zweifel 1641 formuliert. Fassbinder fügt 1973 hinzu, dass auch die Ebene darüber nur eine Simulation sein könnte.",
+   "lesen": "Meditationen, Erste und Zweite Meditation"
+  },
+  "s:taste-of-cherry-1997": {
+   "d": "camus",
+   "begriff": "Die Frage, ob das Leben sich lohnt",
+   "text": "Herr Badii fährt durch die Hügel am Rand von Teheran und sucht jemanden, der ihn am Morgen begräbt. Warum er sterben will, sagt er nie. Camus hält genau diese Frage für die einzige wirklich ernste der Philosophie. Die Antwort im Film kommt von einem alten Mann und besteht aus Maulbeeren.",
+   "zitat": "Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord.",
+   "quelle": "Der Mythos des Sisyphos",
+   "lesen": "Der Mythos des Sisyphos"
+  },
+  "s:yi-yi-2000": {
+   "d": "kierkegaard",
+   "begriff": "Wiederholung: vorwärts leben, rückwärts verstehen",
+   "text": "NJ trifft nach dreißig Jahren seine erste Liebe wieder und bekommt die Gelegenheit, es noch einmal zu versuchen. Kierkegaard hat ein ganzes Buch der Frage gewidmet, ob sich etwas wiederholen lässt. Edward Yang verteilt die Antwort auf drei Generationen einer Familie in Taipeh.",
+   "zitat": "Das Leben kann nur rückwärts verstanden werden, muss aber vorwärts gelebt werden.",
+   "quelle": "Tagebücher, 1843 (sinngemäß)",
+   "lesen": "Die Wiederholung"
+  }
+ }
 }
