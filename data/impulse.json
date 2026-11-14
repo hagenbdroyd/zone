@@ -1006,7 +1006,17 @@
    "d": "kant",
    "titel": "Der kategorische Imperativ",
    "text": "Handle nur nach derjenigen Maxime, von der du wollen kannst, dass sie ein allgemeines Gesetz werde. Kant fragt nicht nach den Folgen, sondern ob meine Regel für alle gelten könnte, ohne sich selbst aufzuheben.",
-   "frage": "Welche deiner Ausnahmen würdest du nicht jedem zugestehen?"
+   "frage": "Welche deiner Ausnahmen würdest du nicht jedem zugestehen?",
+   "idee": "Immanuel Kant sucht einen Maßstab für das Handeln, der nicht davon abhängt, was jemand gerade will oder was dabei herauskommt. Er findet ihn in einer Probe, die jeder selbst durchführen kann. Jede Handlung folgt einer Regel, Kant sagt Maxime. Etwa: Wenn ich Geld brauche, verspreche ich die Rückzahlung, auch wenn ich weiß, dass ich nicht zahlen werde. Nun frage ich, ob ich wollen kann, dass alle so handeln. Würden alle falsch versprechen, glaubte niemand mehr einem Versprechen, und das Lügen hätte keinen Zweck. Die Regel hebt sich selbst auf. Sie funktioniert nur, solange ich eine Ausnahme für mich mache. Genau das ist für Kant das Kennzeichen des Unrechts. Der Imperativ heißt kategorisch, weil er ohne Wenn und Aber gilt.",
+   "beispiel": "In „The Dark Knight“ lügt die Polizei am Ende über einen Toten, damit die Stadt Hoffnung behält. Kant würde das ablehnen, gleich wie gut der Zweck ist. In „Sicario“ brechen Beamte jedes Gesetz, um ein Kartell zu treffen. Ihre Regel lautet: Für uns gelten die Regeln nicht, weil wir die Guten sind.",
+   "these": "Unrecht tut, wer für sich eine Ausnahme macht, die er anderen nicht zugestehen würde.",
+   "einwand": "Kant folgerte daraus, man dürfe nicht einmal einen Mörder belügen, der fragt, wo sich sein Opfer versteckt. Spätestens da stimmt etwas nicht. Folgen zählen. Wer im Krieg Verfolgte versteckt und die Häscher belügt, handelt richtig. Regeln, die für alle und immer gelten sollen, sind blind für die Lage. Und fast jede Maxime lässt sich so formulieren, dass sie die Probe besteht.",
+   "dafuer": "Im Alltag trifft die Probe erstaunlich genau. Schwarzfahren, bei der Steuer schummeln, sich vordrängeln: Es klappt nur, weil die meisten es nicht tun. Wer es tut, lebt von der Ehrlichkeit der anderen und weiß das. Kant gibt diesem Gefühl einen Namen. Der Härtefall mit dem Mörder ändert daran wenig. Wo lebst du davon, dass andere sich an die Regel halten?",
+   "fragen": [
+    "Welche deiner Ausnahmen würdest du nicht jedem zugestehen?",
+    "Wie begründest du sie vor dir selbst?",
+    "Was würde geschehen, wenn alle sich diese Ausnahme nähmen?"
+   ]
   },
   {
    "d": "kant",
@@ -1014,7 +1024,17 @@
    "zitat": "Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!",
    "quelle": "Beantwortung der Frage: Was ist Aufklärung?",
    "text": "Unmündig ist nach Kant, wer nicht aus Mangel an Verstand, sondern aus Bequemlichkeit andere für sich denken lässt: das Buch, den Seelsorger, den Arzt.",
-   "frage": "In welcher Frage lässt du noch denken?"
+   "frage": "In welcher Frage lässt du noch denken?",
+   "idee": "1784 beantwortet Kant in einer Zeitschrift die Frage, was Aufklärung sei. Seine Antwort: der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit. Unmündig ist, wer sich seines Verstandes nicht ohne Leitung eines anderen bedienen kann. Selbstverschuldet ist das, wenn es nicht am Verstand fehlt, sondern am Mut. Kant nennt die Gründe beim Namen: Faulheit und Feigheit. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt, der für mich die Diät beurteilt, so brauche ich mich nicht zu bemühen. Andere übernehmen das gern und sorgen dafür, dass der Schritt zur Mündigkeit für gefährlich gehalten wird. Daher der Wahlspruch: Wage zu wissen.",
+   "beispiel": "In „One Flew Over the Cuckoo's Nest“ sind die meisten Patienten freiwillig in der Anstalt. Sie könnten gehen und bleiben, weil die Schwester für sie entscheidet. In „The Truman Show“ hat man einem Mann von klein auf Angst vor dem Wasser gemacht, damit er die Insel nie verlässt.",
+   "these": "Die meisten Menschen bleiben aus Bequemlichkeit unmündig, nicht aus Mangel an Verstand.",
+   "einwand": "Niemand kann alles selbst beurteilen. Wer seinem Arzt nicht glaubt und lieber „selbst denkt“, landet bei Wunderheilern. Vertrauen in Leute, die sich auskennen, ist vernünftig. Und Mündigkeit braucht Voraussetzungen: Bildung, Zeit, Sicherheit. Wer die nicht hat, ist nicht faul. Kant schrieb als Professor für andere Gebildete.",
+   "dafuer": "Kant verlangt nicht, den Arzt zu ersetzen. Er verlangt, das eigene Urteil nicht abzugeben: nachfragen, Gründe hören, selbst entscheiden. Heute nimmt uns ein Gerät die Route ab, eine Liste die Auswahl der Filme, ein Strom von Meinungen das Urteil. Das ist bequem, genau wie er sagt. Welche Entscheidung hast du zuletzt wirklich selbst durchdacht?",
+   "fragen": [
+    "In welcher Frage lässt du noch denken?",
+    "Wem hast du das überlassen: einem Menschen, einer Gruppe, einem Gerät?",
+    "Was fürchtest du, wenn du dort selbst urteilen müsstest?"
+   ]
   },
   {
    "d": "kant",
@@ -1022,13 +1042,33 @@
    "zitat": "Der bestirnte Himmel über mir und das moralische Gesetz in mir.",
    "quelle": "Kritik der praktischen Vernunft, Beschluss",
    "text": "Zwei Dinge erfüllen Kant mit immer neuer Bewunderung. Der Himmel zeigt ihm, wie klein er als Naturwesen ist, das Gesetz in ihm, dass er als freies Wesen über die Natur hinausreicht.",
-   "frage": "Was erfüllt dich mit Ehrfurcht?"
+   "frage": "Was erfüllt dich mit Ehrfurcht?",
+   "idee": "Am Ende seiner „Kritik der praktischen Vernunft“ steht ein Satz, der auch auf Kants Grabtafel in Königsberg geschrieben wurde. Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht: der bestirnte Himmel über mir und das moralische Gesetz in mir. Kant erklärt, was jedes von beiden mit ihm macht. Der Blick in den Himmel vernichtet seine Wichtigkeit. Er ist ein Tier auf einem Staubkorn, das seine Materie bald zurückgeben muss. Der Blick nach innen hebt ihn unendlich. Dort findet er ein Gesetz, das er sich selbst gibt und dem er auch gegen jede Neigung folgen kann. Als Körper gehört er zur Natur und ist winzig. Als freies Wesen ist er von ihr unabhängig.",
+   "beispiel": "„2001: A Space Odyssey“ zeigt die erste Hälfte des Satzes, eine Weite, in der der Mensch verschwindet. „The Elephant Man“ zeigt die zweite: Ein entstellter Mann, der wie ein Tier gehalten wurde, baut aus Pappe eine Kathedrale und ruft einer Menge zu, er sei ein Mensch. Zum Schluss blickt der Film in die Sterne.",
+   "these": "Im Menschen gibt es etwas, das so viel Ehrfurcht verdient wie das ganze Weltall.",
+   "einwand": "Das „moralische Gesetz in mir“ ist das Ergebnis von Erziehung und Evolution. Anderswo und zu anderen Zeiten sagte das Gewissen ganz anderes: Es erlaubte Sklaven, Ehrenmorde, Hexenprozesse. Davor Ehrfurcht zu haben, heißt die eigene Prägung anzubeten. Die Sterne sind wenigstens wirklich da.",
+   "dafuer": "Lass den Inhalt des Gewissens beiseite und sieh auf die Fähigkeit. Ein Wesen aus Atomen kann gegen seinen Vorteil, gegen Angst und Hunger tun, was es für richtig hält. Menschen haben Fremde versteckt und dafür ihr Leben riskiert. Nichts sonst im bekannten All tut so etwas. Wann hast du bei jemandem dieses Staunen empfunden?",
+   "fragen": [
+    "Was erfüllt dich mit Ehrfurcht?",
+    "Ist es eher etwas außer dir oder etwas im Menschen?",
+    "Wann hast du zuletzt gegen deine Neigung getan, was du für richtig hieltest?"
+   ]
   },
   {
    "d": "hegel",
    "titel": "Herr und Knecht",
    "text": "Zwei Bewusstseine kämpfen um Anerkennung, eines unterwirft sich. Doch der Herr hängt nun von der Anerkennung eines Unfreien ab, während der Knecht in der Arbeit die Welt formt und sich darin erkennt. Am Ende ist er der Selbstständigere.",
-   "frage": "Von wessen Anerkennung hängst du ab?"
+   "frage": "Von wessen Anerkennung hängst du ab?",
+   "idee": "In Hegels „Phänomenologie des Geistes“ steht eine berühmte Szene. Zwei Bewusstseine begegnen sich. Jedes will vom anderen als selbstständig anerkannt werden, und es kommt zum Kampf auf Leben und Tod. Einer fürchtet um sein Leben und gibt nach. Er wird Knecht, der andere Herr. Der Herr scheint gewonnen zu haben. Er genießt, was der Knecht herstellt. Dann dreht sich das Verhältnis. Die Anerkennung, die der Herr bekommt, stammt von jemandem, den er selbst nicht achtet, und ist deshalb wenig wert. Zudem hängt er nun von der Arbeit des Knechts ab. Der Knecht dagegen bearbeitet die Dinge, formt sie und sieht in ihnen, was er kann. Durch Arbeit kommt er zu sich. Am Ende ist er der Selbstständigere.",
+   "beispiel": "In „Parasite“ können die Reichen weder kochen noch fahren noch ihre Kinder unterrichten. Die Familie aus dem Keller kann alles und führt bald das Haus. In „Persona“ pflegt eine Krankenschwester eine berühmte Schauspielerin, die schweigt. Wer von beiden wen braucht, kehrt sich im Lauf des Sommers um.",
+   "these": "Wer über andere herrscht, macht sich von ihnen abhängig.",
+   "einwand": "In der Wirklichkeit bleiben Herren meist Herren. Sklavenhalter lebten jahrhundertelang bequem und starben reich. Dass der Knecht „in Wahrheit“ der Freiere sei, ist ein Trost aus dem Lehnstuhl. Arbeit am Fließband bildet niemanden. Marx hat Hegel hier korrigiert: Die Umkehr geschieht nicht im Bewusstsein, man muss sie erkämpfen.",
+   "dafuer": "Sieh dir an, wie abhängig Mächtige sind. Der Chef, der nichts mehr selbst kann. Der Star ohne Publikum. Der Tyrann, der jeden Vorkoster fürchtet. Auch im Kleinen: Wer in einer Beziehung immer bestimmt, bekommt nur noch Zustimmung und weiß nie, ob sie echt ist. Anerkennung zählt bloß von jemandem, der auch Nein sagen könnte. Von wem bekommst du solche?",
+   "fragen": [
+    "Von wessen Anerkennung hängst du ab?",
+    "Achtest du diesen Menschen, oder brauchst du nur sein Urteil?",
+    "Wo bist du selbst Herr und merkst, wie wenig die Zustimmung wert ist?"
+   ]
   },
   {
    "d": "hegel",
@@ -1036,25 +1076,65 @@
    "zitat": "Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.",
    "quelle": "Grundlinien der Philosophie des Rechts, Vorrede",
    "text": "Philosophie kommt für Hegel immer zu spät, um die Welt zu belehren. Sie begreift eine Gestalt des Lebens erst, wenn diese alt geworden ist.",
-   "frage": "Welchen Abschnitt deines Lebens verstehst du erst jetzt?"
+   "frage": "Welchen Abschnitt deines Lebens verstehst du erst jetzt?",
+   "idee": "Minerva ist die römische Göttin der Weisheit, die Eule ihr Tier. Hegel setzt das Bild an den Schluss der Vorrede seiner Rechtsphilosophie von 1820. Davor steht eine Absage. Um zu belehren, wie die Welt sein soll, komme die Philosophie ohnehin immer zu spät. Sie erscheint erst, wenn die Wirklichkeit ihren Bildungsprozess vollendet hat. Wenn sie ihr Grau in Grau malt, ist eine Gestalt des Lebens alt geworden, und mit Grau in Grau lässt sie sich nicht verjüngen, nur erkennen. Dann folgt der Satz von der Eule, die erst in der Dämmerung fliegt. Verstehen ist für Hegel ein Rückblick. Solange eine Zeit lebendig ist, steckt man mittendrin. Begriffen wird sie am Abend, wenn sie zu Ende geht.",
+   "beispiel": "In „Wild Strawberries“ versteht ein Mann sein Leben mit achtundsiebzig, auf einer Autofahrt, in Träumen. In „Citizen Kane“ versuchen Reporter nach dem Tod eines Mannes zusammenzusetzen, wer er war. In „Fear and Loathing in Las Vegas“ blickt der Erzähler auf die Sechzigerjahre zurück und sieht erst jetzt die Stelle, an der die Welle brach.",
+   "these": "Man versteht einen Lebensabschnitt erst, wenn er vorbei ist.",
+   "einwand": "Dann wäre Denken nutzlos für das Leben. Menschen haben aber sehr wohl im Voraus gewarnt, geplant und Dinge verhindert. Marx hielt Hegel entgegen, es komme darauf an, die Welt zu verändern. Und für den Einzelnen wäre der Satz trostlos: Er hieße, dass Einsicht immer zu spät kommt, um noch etwas zu nützen.",
+   "dafuer": "Denk an deine Schulzeit, deine erste Beziehung, eine frühere Stelle. Was dort wirklich los war, hast du erst mit Abstand gesehen. Mittendrin fehlte der Überblick, und du warst Partei. Das macht Nachdenken nicht nutzlos. Es heißt nur, dass du den jetzigen Abschnitt später anders lesen wirst. Was wirst du in zehn Jahren über dieses Jahr sagen?",
+   "fragen": [
+    "Welchen Abschnitt deines Lebens verstehst du erst jetzt?",
+    "Was hast du damals für die Hauptsache gehalten, und was war es wirklich?",
+    "Was an deiner Gegenwart wirst du vermutlich erst im Rückblick begreifen?"
+   ]
   },
   {
    "d": "schopenhauer",
    "titel": "Die Stachelschweine",
    "text": "An einem kalten Tag rücken Stachelschweine zusammen, um sich zu wärmen, und stechen sich. Sie rücken ab und frieren. Schließlich finden sie eine mittlere Entfernung. Schopenhauer nennt sie Höflichkeit.",
-   "frage": "Wie viel Nähe hältst du aus, und wie viel Distanz?"
+   "frage": "Wie viel Nähe hältst du aus, und wie viel Distanz?",
+   "idee": "Schopenhauer erzählt in seinen späten Schriften eine kleine Fabel. Eine Gesellschaft von Stachelschweinen drängt sich an einem kalten Wintertag eng zusammen, um sich durch die gegenseitige Wärme vor dem Erfrieren zu schützen. Bald spüren sie die Stacheln der anderen und rücken auseinander. Die Kälte treibt sie wieder zusammen, die Stacheln wieder fort. So werden sie zwischen zwei Leiden hin und her geworfen, bis sie eine mäßige Entfernung herausgefunden haben, in der sie es am besten aushalten. So, sagt Schopenhauer, treibt das Bedürfnis nach Gesellschaft die Menschen zueinander, und ihre unangenehmen Eigenschaften stoßen sie wieder ab. Die mittlere Entfernung heißt Höflichkeit und feine Sitte. Wer viel eigene Wärme hat, fügt er hinzu, bleibt lieber weg.",
+   "beispiel": "„Scenes from a Marriage“ zeigt zehn Jahre lang zwei Menschen, die zusammenrücken, sich verletzen, auseinandergehen und wiederkommen. Am besten verstehen sie sich, als sie geschieden sind und sich heimlich treffen. In „The Passion of Anna“ zieht ein Mann auf eine Insel, um niemandem nah zu sein, und friert.",
+   "these": "Zu viel Nähe verletzt, zu viel Abstand lässt frieren.",
+   "einwand": "Das ist das Menschenbild eines Mannes, der allein mit seinem Pudel lebte. Nähe verletzt nicht zwangsläufig. Es gibt Paare, Freunde und Familien, die sich nah sind und einander guttun. Wer immer auf mittlerem Abstand bleibt, erlebt nie, was Vertrauen ist. Höflichkeit als höchste Form des Zusammenlebens ist ein kaltes Ideal.",
+   "dafuer": "Auch in guten Beziehungen stößt man aneinander, und zwar gerade dort, wo man sich am nächsten ist. Niemand kann dich so treffen wie der Mensch, der dich am besten kennt. Die Fabel sagt nicht, dass Nähe schlecht ist. Sie sagt, dass sie etwas kostet und dass jeder seinen Abstand finden muss. Wo liegt deiner, und passt er zu dem deines Gegenübers?",
+   "fragen": [
+    "Wie viel Nähe hältst du aus, und wie viel Distanz?",
+    "Welche deiner Stacheln bekommen die Menschen ab, die dir am nächsten sind?",
+    "Rückst du eher zu früh ab oder zu spät?"
+   ]
   },
   {
    "d": "schopenhauer",
    "titel": "Mitleid",
    "text": "Für Schopenhauer ist Mitleid die einzige echte Grundlage der Moral. Im Mitleid fällt für einen Moment die Grenze zwischen mir und dem anderen, weil in allen derselbe Wille leidet.",
-   "frage": "Wessen Leid hast du zuletzt als dein eigenes empfunden?"
+   "frage": "Wessen Leid hast du zuletzt als dein eigenes empfunden?",
+   "idee": "Schopenhauer fragt, woran man eine moralisch wertvolle Handlung erkennt. Seine Antwort: daran, dass sie nicht aus Eigennutz geschieht. Wer hilft, um Lohn, Ansehen oder den Himmel zu bekommen, rechnet nur klug. Kants Pflicht überzeugt ihn nicht. Niemand tue etwas aus bloßer Achtung vor einem Gesetz. Es bleibt eine einzige Triebfeder, die nicht egoistisch ist, das Mitleid. Im Mitleid wird das Leiden eines anderen unmittelbar mein Beweggrund, als wäre es meins. Schopenhauer nennt das das große Geheimnis der Ethik. Er erklärt es aus seiner Lehre: Die Trennung zwischen den Lebewesen ist nur Oberfläche, darunter ist es derselbe Wille, der in allen leidet. Im Mitleid schaut man durch die Oberfläche. Tiere schließt er ausdrücklich ein.",
+   "beispiel": "In „The Elephant Man“ weint ein Arzt, als er den entstellten Merrick zum ersten Mal sieht, und kann danach nicht mehr wegsehen. In „Alien“ kehrt Ripley in der höchsten Gefahr um und holt die Katze. In „All Quiet on the Western Front“ versucht ein Soldat den Mann zu retten, auf den er eben eingestochen hat.",
+   "these": "Mitleid ist die einzige echte Grundlage der Moral.",
+   "einwand": "Mitleid ist launisch und parteiisch. Es gilt dem niedlichen Kind im Fernsehen und versagt bei tausend Namenlosen, bei Fremden, bei Unsympathischen. Gerechtigkeit verlangt gerade, auch dem zu geben, was ihm zusteht, der mir nicht leidtut. Nietzsche sah im Mitleid sogar Verachtung: Es mache den anderen klein. Eine Moral braucht Grundsätze.",
+   "dafuer": "Grundsätze ohne Mitgefühl sind leer. Wer das Leid eines anderen nicht spürt, den überzeugt kein Argument, es zu lindern. Jede Regel, die wir für gerecht halten, schützt am Ende jemanden vor Schmerz. Das Mitleid ist der Grund dafür, dass uns das überhaupt kümmert. Es zu weiten, auf Fremde und Tiere, ist die Aufgabe. Wessen Leid lässt dich kalt, und warum?",
+   "fragen": [
+    "Wessen Leid hast du zuletzt als dein eigenes empfunden?",
+    "Bei wem gelingt dir das nicht?",
+    "Was müsstest du über diesen Menschen wissen, damit es gelänge?"
+   ]
   },
   {
    "d": "schopenhauer",
    "titel": "Die Atempause",
    "text": "Vor einem Kunstwerk hört das Wollen kurz auf. Wir betrachten, ohne etwas zu begehren, und sind für diesen Moment vom Rad des Willens befreit. Die Musik steht für Schopenhauer dabei über allen Künsten.",
-   "frage": "Bei welchem Film hast du dich zuletzt selbst vergessen?"
+   "frage": "Bei welchem Film hast du dich zuletzt selbst vergessen?",
+   "idee": "Bei Schopenhauer ist das Leben ein endloses Wollen, und Wollen heißt Mangel. Er kennt wenige Auswege. Der erste und zugänglichste ist die Kunst. Vor einem Bild, einer Landschaft oder in einem Musikstück kann etwas Seltsames geschehen. Man hört auf, die Dinge danach zu befragen, was sie einem nützen. Man verliert sich im Anschauen. Für diese Dauer ist man kein Einzelner mit Sorgen mehr. Schopenhauer nennt es ein reines, willenloses Subjekt des Erkennens. Das Rad, auf das wir geflochten sind, steht still. Er spricht vom Sabbat der Zuchthausarbeit des Wollens. Die Musik stellt er über alle Künste. Die anderen bilden Dinge ab, sie drückt nach ihm unmittelbar das innerste Wesen der Welt aus.",
+   "beispiel": "In „Stalker“ gibt es lange Einstellungen von Wasser, in dem Münzen, Spritzen und Kacheln liegen. Nichts geschieht, und man kann nicht wegsehen. In „The Pianist“ spielt ein halb verhungerter Mann in einer Ruine Chopin. Für die Dauer des Stücks gibt es keinen Krieg, auch nicht für den deutschen Offizier, der zuhört.",
+   "these": "Kunst befreit für einen Moment vom eigenen Wollen und Sorgen.",
+   "einwand": "Das macht aus Kunst ein Beruhigungsmittel. Große Werke wühlen auf, empören und wollen etwas von ihrem Publikum. Ein Film über Unrecht, nach dem man sich angenehm leer fühlt, hat versagt. Schopenhauers Kunst ist eine Flucht für wohlhabende Leute mit Abonnement. Und die Pause ändert nichts: Danach ist alles wie zuvor.",
+   "dafuer": "Erinnere dich an einen Kinosaal, aus dem du herauskamst und für ein paar Minuten nicht wusstest, wie spät es ist. Du hattest zwei Stunden nicht an dich gedacht. Das ist selten und kostbar, auch wenn es endet. Und aufgewühlt wirst du gerade, weil du dich vergessen und in andere versetzt hast. Wann ist dir das zuletzt geschehen?",
+   "fragen": [
+    "Bei welchem Film hast du dich zuletzt selbst vergessen?",
+    "Was genau war weg: Zeitgefühl, Sorgen, das Urteilen?",
+    "Suchst du im Kino diese Pause, oder suchst du etwas anderes?"
+   ]
   },
   {
    "d": "marx",
@@ -1062,7 +1142,17 @@
    "zitat": "Die Philosophen haben die Welt nur verschieden interpretiert; es kommt darauf an, sie zu verändern.",
    "quelle": "Thesen über Feuerbach, 11",
    "text": "Der Satz steht auch auf Marx' Grabstein. Er richtet sich gegen ein Denken, das sich mit Verstehen begnügt und die Verhältnisse lässt, wie sie sind.",
-   "frage": "Was hast du verstanden und trotzdem nicht geändert?"
+   "frage": "Was hast du verstanden und trotzdem nicht geändert?",
+   "idee": "1845 notiert der junge Marx elf kurze Thesen über den Philosophen Feuerbach. Die letzte wurde sein berühmtester Satz: Die Philosophen haben die Welt nur verschieden interpretiert, es kommt darauf an, sie zu verändern. Marx hatte selbst Philosophie studiert. Sein Vorwurf: Die Denker behandeln Elend, Religion und Unfreiheit als Irrtümer im Kopf, die man durch bessere Gedanken beseitigt. Marx hält dagegen, dass die Gedanken aus den Verhältnissen kommen. Wer in einer Fabrik zwölf Stunden arbeitet, wird durch eine Erklärung seiner Lage nicht frei. Man muss die Lage ändern. Auch ob ein Gedanke wahr ist, zeigt sich für ihn in der Praxis. Eine Theorie, die nichts bewegt, bleibt Scholastik.",
+   "beispiel": "In „La Haine“ erzählt einer immer wieder den Witz vom Mann, der aus dem fünfzigsten Stock fällt und sich bei jedem Stockwerk sagt: Bis hierher ging es gut. Alle verstehen die Lage, und keiner ändert sie. In „Parasite“ entwirft der Vater die Lehre, der beste Plan sei kein Plan.",
+   "these": "Die Welt zu verstehen ist wertlos, wenn man sie nicht verändert.",
+   "einwand": "Wer verändert, ohne verstanden zu haben, richtet Unheil an. Das 20. Jahrhundert ist voll von Leuten, die Marx' Satz ernst nahmen und Millionen dafür opferten. Verstehen hat einen eigenen Wert. Ein Mensch, der den Sternenhimmel oder ein Gedicht begreift, hat etwas gewonnen, auch wenn sich draußen nichts rührt.",
+   "dafuer": "Marx verachtet das Verstehen nicht, er hat sein Leben lang im Lesesaal gesessen. Er wendet sich gegen ein Verstehen, das sich einrichtet. Das kennst du auch im Kleinen: Du weißt genau, was an deiner Arbeit, deiner Gewohnheit oder einer Beziehung falsch läuft, kannst es glänzend erklären, und es bleibt so. Was hast du durchschaut und lässt es doch?",
+   "fragen": [
+    "Was hast du verstanden und trotzdem nicht geändert?",
+    "Was hält dich ab: Angst, Bequemlichkeit oder der Zweifel, ob es geht?",
+    "Was wäre der kleinste Schritt, der mehr ist als eine weitere Erklärung?"
+   ]
   },
   {
    "d": "freud",
@@ -1070,19 +1160,49 @@
    "zitat": "Wo Es war, soll Ich werden.",
    "quelle": "Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse",
    "text": "Freud vergleicht die Arbeit der Analyse mit der Trockenlegung der Zuidersee: Dem Unbewussten wird Stück für Stück Land abgewonnen. Ganz gelingt es nie.",
-   "frage": "Was treibt dich, ohne dass du es gewählt hättest?"
+   "frage": "Was treibt dich, ohne dass du es gewählt hättest?",
+   "idee": "Sigmund Freud teilt das Seelenleben in drei Instanzen. Das Es ist der älteste Teil: Triebe, Wünsche, alles Verdrängte, ohne Logik und ohne Zeit. Das Ich vermittelt zwischen dem Es, der Außenwelt und dem Über-Ich, der inneren Stimme von Eltern und Gesellschaft. Freud vergleicht das Ich mit einem Reiter auf einem viel stärkeren Pferd. Oft bleibt ihm nur, das Pferd dorthin zu lenken, wohin es ohnehin will. Er nennt das eine Kränkung der Menschheit: Das Ich ist nicht Herr im eigenen Haus. Ziel der Psychoanalyse ist es, dem Es Gebiet abzugewinnen. „Wo Es war, soll Ich werden.“ Was mich unerkannt treibt, soll bewusst werden, damit ich dazu Stellung nehmen kann. Freud nennt es eine Kulturarbeit wie die Trockenlegung eines Meeres.",
+   "beispiel": "In „Lost Highway“ kann ein Mann nicht ertragen, was er getan hat, und wird in der Zelle ein anderer. Das Verdrängte kommt in neuer Gestalt zurück. In „Eyes Wide Shut“ genügt die erzählte Fantasie einer Frau, um ihren Mann eine Nacht lang durch die Stadt zu treiben, ohne dass er weiß, was er sucht.",
+   "these": "Wir wissen von den meisten unserer Beweggründe nichts.",
+   "einwand": "Das lässt sich nicht widerlegen, und das spricht dagegen. Sagt der Patient, es stimme nicht, heißt das Widerstand und bestätigt die Deutung. Vieles an Freuds Lehre hat der Überprüfung nicht standgehalten. Menschen können ihre Gründe in der Regel recht gut angeben. Wer überall verborgene Motive wittert, traut am Ende niemandem mehr, auch sich selbst nicht.",
+   "dafuer": "Man braucht Freuds ganze Lehre nicht. Versuche zeigen, dass Menschen ihre Entscheidungen oft nachträglich begründen und dabei Gründe erfinden. Und du kennst es selbst: Du wirst grundlos gereizt, greifst zum selben Typ Partner, schiebst etwas Bestimmtes immer auf. Ein Grund ist da, nur kennst du ihn nicht. Welches Muster in deinem Leben kannst du nicht erklären?",
+   "fragen": [
+    "Was treibt dich, ohne dass du es gewählt hättest?",
+    "In welchen Lagen reagierst du stärker, als der Anlass hergibt?",
+    "Was könnte dahinterstehen, das du lieber nicht wissen willst?"
+   ]
   },
   {
    "d": "freud",
    "titel": "Das Unbehagen in der Kultur",
    "text": "Kultur verlangt Triebverzicht. Sie schützt uns voreinander und macht uns dafür unglücklich, weil die Aggression, die nicht nach außen darf, sich als Schuldgefühl gegen das eigene Ich richtet.",
-   "frage": "Welchen Verzicht nimmst du der Gesellschaft übel?"
+   "frage": "Welchen Verzicht nimmst du der Gesellschaft übel?",
+   "idee": "1930 fragt Freud, warum Menschen in der Kultur so schwer glücklich werden. Seine Antwort: weil Kultur auf Verzicht gebaut ist. Zusammenleben verlangt, dass der Einzelne seine Triebe einschränkt, die sexuellen und vor allem die aggressiven. Freud hält den Menschen für kein sanftes Wesen. Der Nächste sei ihm auch eine Versuchung, ihn auszunutzen, zu demütigen, ihm Schmerzen zu bereiten. Die Kultur hält das nieder, durch Gesetze und durch einen feineren Mechanismus. Die Aggression, die nicht hinausdarf, wird nach innen gewendet. Sie wird zum Über-Ich, das das Ich überwacht und bestraft. Wir erleben das als Schuldgefühl. Der Preis für den Kulturfortschritt ist also eine Einbuße an Glück. Abschaffen will Freud die Kultur nicht. Ohne sie wäre es schlimmer.",
+   "beispiel": "In „Fight Club“ kann ein angepasster Angestellter nicht schlafen, bis er anfängt, sich in Kellern zu prügeln. In „A Clockwork Orange“ treibt der Staat einem Schläger die Gewalt aus und macht ihn damit wehrlos und krank. „The Shining“ zeigt einen freundlichen Familienvater, bei dem nach einigen Wochen Schnee die Decke reißt.",
+   "these": "Zivilisation macht uns sicherer und zugleich unglücklicher.",
+   "einwand": "Menschen in sicheren, wohlhabenden Gesellschaften geben in Umfragen an, zufriedener zu sein als Menschen in Gewalt und Chaos. Vieles am Menschen ist von Natur aus gesellig: Wir helfen, teilen und trösten gern. Freud verallgemeinert die Neurosen seiner Wiener Patienten. Ohne Zivilisation gäbe es kein Glück, das den Namen verdient, nur Angst.",
+   "dafuer": "Freud bestreitet den Gewinn nicht. Er rechnet die Kosten dazu. Sieh dir an, was Menschen nach Feierabend tun, um Druck loszuwerden: Kampfsport, Ballerspiele, Horrorfilme, Schimpfen im Netz. Und sieh dir an, wie viele unter Schuldgefühlen leiden, ohne etwas getan zu haben. Etwas wird gestaut. Wohin geht bei dir die Wut, die du nicht zeigen darfst?",
+   "fragen": [
+    "Welchen Verzicht nimmst du der Gesellschaft übel?",
+    "Wohin geht die Aggression, die du nicht zeigen darfst?",
+    "Wofür fühlst du dich schuldig, ohne etwas getan zu haben?"
+   ]
   },
   {
    "d": "jung",
    "titel": "Der Schatten",
    "text": "Was ich an mir nicht sehen will, verschwindet nicht. Es begegnet mir in anderen, an denen es mich maßlos ärgert. Jung nennt die Auseinandersetzung mit dem Schatten den ersten Schritt, ein ganzer Mensch zu werden.",
-   "frage": "Was regt dich an anderen auf, das auch in dir steckt?"
+   "frage": "Was regt dich an anderen auf, das auch in dir steckt?",
+   "idee": "Carl Gustav Jung, anfangs Freuds Schüler, nennt Schatten die Seite der Persönlichkeit, die nicht zum eigenen Bild passt. Jeder hält sich für einigermaßen großzügig, friedlich, aufrichtig. Was dem widerspricht, Neid, Gier, Feigheit, Lust an der Macht, wird aus dem Bewusstsein gedrängt. Es lebt im Dunkeln weiter und zeigt sich auf Umwegen. Der wichtigste ist die Projektion: Was ich an mir nicht sehen will, entdecke ich mit großer Schärfe an anderen und rege mich darüber auf. Die Heftigkeit ist das Erkennungszeichen. Jung verlangt, den Schatten anzunehmen, als Teil von sich. Das nennt er den ersten Schritt zur Ganzheit. Wer seinen Schatten leugnet, ist ihm ausgeliefert. Im Schatten liegt nach Jung auch Kraft, die man braucht.",
+   "beispiel": "In „Fight Club“ erfindet sich ein braver Angestellter einen Doppelgänger, der alles tut, was er sich verbietet. In „Hour of the Wolf“ wird ein Maler nachts von Gestalten besucht, die genau wissen, wofür er sich schämt. In „Taxi Driver“ sieht ein Mann überall Schmutz und hält sich selbst für rein.",
+   "these": "Was uns an anderen am meisten aufregt, steckt oft in uns selbst.",
+   "einwand": "Manchmal ist ein Mensch einfach rücksichtslos, und mein Ärger darüber hat nichts mit mir zu tun. Wer sich über Grausamkeit empört, ist deshalb nicht heimlich grausam. Die Lehre lässt sich gegen jede berechtigte Kritik wenden: „Das sagt mehr über dich.“ Damit kann man jeden Vorwurf abwehren. Sie beweist alles und darum nichts.",
+   "dafuer": "Jung sagt „oft“, nicht „immer“. Das Zeichen ist das Übermaß. Über Tausende schlechter Eigenschaften gehst du achselzuckend hinweg. Eine bestimmte bringt dich zuverlässig auf. Der Angeber stört am meisten den, der selbst gern gesehen würde und es sich versagt. Mach die Liste der Dinge, die dich an anderen rasend machen. Erkennst du darin niemanden?",
+   "fragen": [
+    "Was regt dich an anderen auf, das auch in dir steckt?",
+    "Was erlaubst du dir nicht, das diese Menschen sich einfach nehmen?",
+    "Was könntest du mit dieser Seite anfangen, wenn du sie zuließest?"
+   ]
   },
   {
    "d": "wittgenstein",
@@ -1090,7 +1210,17 @@
    "zitat": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.",
    "quelle": "Tractatus logico-philosophicus, 5.6",
    "text": "Was sich sagen lässt, lässt sich klar sagen. Ethik, Ästhetik und der Sinn des Lebens gehören für den frühen Wittgenstein nicht dazu. Sie zeigen sich, und gerade sie sind das Wichtige.",
-   "frage": "Was ist dir wichtig, wofür dir die Worte fehlen?"
+   "frage": "Was ist dir wichtig, wofür dir die Worte fehlen?",
+   "idee": "Ludwig Wittgenstein schrieb sein erstes Buch, den „Tractatus“, zum Teil als Soldat im Ersten Weltkrieg. Es besteht aus nummerierten Sätzen und will klären, was sich überhaupt sagen lässt. Seine Antwort: Sprache bildet Tatsachen ab, also das, was der Fall ist. Ein sinnvoller Satz sagt, dass etwas so und so ist, und kann wahr oder falsch sein. Daraus folgt eine Grenze. Die Welt, über die ich reden kann, reicht so weit wie meine Sprache. Über Gut und Böse, Schönheit, den Sinn des Lebens, Gott lassen sich keine solchen Sätze bilden. Wittgenstein folgert daraus nicht, das alles sei Unsinn oder unwichtig. Er nennt es das Mystische. Es zeigt sich. Das Buch endet mit dem Satz: Wovon man nicht sprechen kann, darüber muss man schweigen.",
+   "beispiel": "In „The Silence“ versteht niemand die Sprache des Landes, und die beiden Schwestern erreichen einander mit Worten nicht. Was sie verbindet, kommt aus dem Radio: Bach. In „Persona“ hört eine Schauspielerin ganz auf zu sprechen, weil ihr jedes Wort wie eine Lüge vorkommt.",
+   "these": "Wofür ich keine Worte habe, das kommt in meiner Welt nicht vor.",
+   "einwand": "Kleine Kinder und Tiere haben eine Welt ohne Sprache, mit Hunger, Angst und Zuneigung. Jeder kennt Gefühle, für die ihm das Wort fehlt, und sie sind sehr wohl da. Wittgenstein selbst gab die Lehre später auf. Und gerade seine eigene Unterscheidung spricht dagegen: Wenn sich das Wichtigste nur zeigt, reicht die Welt weiter als die Sprache.",
+   "dafuer": "Wer ein Wort lernt, sieht plötzlich die Sache. Seit du „passiv-aggressiv“ kennst, erkennst du es überall. Weinkenner schmecken mehr, weil sie mehr Wörter haben. Umgekehrt bleibt vage und unverfügbar, was du nicht benennen kannst. Du kannst nicht darüber nachdenken, es niemandem mitteilen, es kaum festhalten. Für welches deiner Gefühle hast du erst spät ein Wort gefunden?",
+   "fragen": [
+    "Was ist dir wichtig, wofür dir die Worte fehlen?",
+    "Wie zeigt es sich, wenn du es nicht sagen kannst?",
+    "Welches Wort hat dir einmal etwas sichtbar gemacht, das vorher nur ein Druck war?"
+   ]
   },
   {
    "d": "wittgenstein",
@@ -1098,7 +1228,17 @@
    "zitat": "Die Bedeutung eines Wortes ist sein Gebrauch in der Sprache.",
    "quelle": "Philosophische Untersuchungen, § 43",
    "text": "Der späte Wittgenstein gibt die Idee auf, Wörter seien Etiketten für Dinge. Sprechen ist Teil einer Tätigkeit, eines Sprachspiels, und viele philosophische Rätsel entstehen, wenn die Sprache feiert.",
-   "frage": "Welches Wort benutzt du anders als die Menschen um dich?"
+   "frage": "Welches Wort benutzt du anders als die Menschen um dich?",
+   "idee": "Nach dem „Tractatus“ hielt Wittgenstein die Philosophie für erledigt und wurde Dorfschullehrer. Jahre später kehrte er zurück und nahm seine frühe Lehre auseinander. Im ersten Buch dachte er, Wörter stünden für Dinge wie Namensschilder. Jetzt sieht er, dass Sprache viel mehr tut: befehlen, bitten, danken, fluchen, grüßen, scherzen, beten. Er nennt diese Tätigkeiten Sprachspiele. Ein Wort versteht man, wenn man weiß, wie es in einem solchen Spiel verwendet wird, so wie man eine Schachfigur kennt, wenn man ihre Züge kennt. Hinter dem Gebrauch liegt keine verborgene Bedeutung. Viele philosophische Probleme entstehen nach ihm, wenn man ein Wort aus seinem Spiel nimmt und fragt, was es „eigentlich“ bezeichnet. Dann läuft die Sprache leer. Er sagt: Sie feiert.",
+   "beispiel": "In „My Dinner with Andre“ klagt André, dass die Leute auf die Frage „Wie geht's?“ nur noch Formeln austauschen und niemand hört, was der andere sagt. In „American Psycho“ gesteht ein Mann mehrere Morde, und sein Anwalt lacht. Im Spiel dieser Leute ist ein solcher Satz ein Witz.",
+   "these": "Ein Wort bedeutet das, wofür Menschen es benutzen, und sonst nichts.",
+   "einwand": "Dann könnte eine Mehrheit jedes Wort umdrehen. Wenn alle „Freiheit“ für Gehorsam verwenden, hieße es das. Genau davor warnt Orwell. Manche Wörter meinen etwas, an dem der Gebrauch sich messen lassen muss: „Wasser“ bezeichnete auch H2O, als es noch niemand wusste. Und wer sagt „Das ist ungerecht“, will mehr, als ein Spiel mitspielen.",
+   "dafuer": "Schlag „Spiel“ nach und versuch, ein Merkmal zu finden, das alle Spiele teilen. Es gibt keins, und doch verstehst du das Wort mühelos, weil du es benutzen kannst. So ist es mit „Liebe“, „Zeit“ oder „gut“. Wer zuerst eine Definition verlangt, kommt nie zum Reden. Bei welchem Streit hast du zuletzt gemerkt, dass ihr dasselbe Wort verschieden gebraucht?",
+   "fragen": [
+    "Welches Wort benutzt du anders als die Menschen um dich?",
+    "Zu welchem Missverständnis hat das schon geführt?",
+    "Bei welchem großen Wort weißt du eigentlich nur, wie man es verwendet?"
+   ]
   },
   {
    "d": "buber",
@@ -1106,19 +1246,49 @@
    "zitat": "Der Mensch wird am Du zum Ich.",
    "quelle": "Ich und Du",
    "text": "Zum Es verhalte ich mich, wenn ich etwas betrachte, einordne, benutze. Dem Du begegne ich mit meinem ganzen Wesen. Jedes Du wird wieder zum Es, schreibt Buber, das sei die erhabene Schwermut unseres Loses.",
-   "frage": "Wen behandelst du als Es, der ein Du sein könnte?"
+   "frage": "Wen behandelst du als Es, der ein Du sein könnte?",
+   "idee": "Martin Bubers Buch „Ich und Du“ von 1923 beginnt mit der Behauptung, die Welt sei dem Menschen zwiefältig, je nachdem, wie er ihr gegenübertritt. Es gibt zwei Grundworte, Ich-Du und Ich-Es. Im Ich-Es erfahre und gebrauche ich: Ich beobachte, vergleiche, ordne ein, verfolge Zwecke. Ohne das kann niemand leben. Im Ich-Du stehe ich in einer Beziehung. Ich begegne jemandem mit meinem ganzen Wesen, und er ist in diesem Augenblick keine Summe von Eigenschaften. Das lässt sich nicht herbeiführen, es geschieht. Und es hält nicht an. Jedes Du muss wieder zum Es werden, zu jemandem, über den ich etwas weiß. Buber nennt das die erhabene Schwermut unseres Loses. Aber wer nur mit dem Es lebt, sagt er, ist kein Mensch.",
+   "beispiel": "In „Scenes from a Marriage“ haben zwei Eheleute einander zu einer Einrichtung gemacht, und erst nach der Trennung sehen sie sich wieder an. In „Good Will Hunting“ wechselt eine Therapie vom Es zum Du, als der Therapeut aufhört, einen Fall zu behandeln. „Her“ fragt, ob ein Gerät ein Du sein kann.",
+   "these": "Erst in der Begegnung mit einem anderen wird ein Mensch wirklich er selbst.",
+   "einwand": "Viele Menschen haben in der Einsamkeit zu sich gefunden: Mönche, Wanderer, Künstler. Andere verlieren sich gerade in Beziehungen und werden, was der andere braucht. Bubers Satz macht den Einsamen zum halben Menschen. Und was er Begegnung nennt, ist so flüchtig und unbeweisbar, dass man fragen kann, ob es mehr ist als ein schönes Gefühl.",
+   "dafuer": "Ein Kind sagt „ich“, nachdem es jahrelang mit „du“ angesprochen wurde. Auch als Erwachsener erfährst du, wer du bist, an dem, wie jemand dir antwortet. Der Einsiedler trägt seine Gesprächspartner mit sich. Und frag dich, wann du am meisten du selbst warst. Meist war jemand dabei, vor dem du nichts darstellen musstest. Wer war das?",
+   "fragen": [
+    "Wen behandelst du als Es, der ein Du sein könnte?",
+    "Wann hat dich zuletzt jemand als Du angesehen, und woran hast du es gemerkt?",
+    "Was hindert dich, öfter so zu begegnen: Zeit, Angst, Gewohnheit?"
+   ]
   },
   {
    "d": "levinas",
    "titel": "Das Antlitz",
    "text": "Das Gesicht des anderen ist für Levinas mehr als etwas Sichtbares. Es ist nackt und schutzlos und sagt vor jedem Wort: Du wirst nicht töten. Verantwortung beginnt, bevor ich mich für sie entschieden habe.",
-   "frage": "Wessen Gesicht hat dich zuletzt in die Pflicht genommen?"
+   "frage": "Wessen Gesicht hat dich zuletzt in die Pflicht genommen?",
+   "idee": "Emmanuel Levinas verlor fast seine ganze Familie in der Shoah. Seine Philosophie fragt danach, was vor aller Theorie verpflichtet. Er findet es im Antlitz des anderen Menschen. Damit meint er nicht Augenfarbe und Nase. Das Antlitz ist die Weise, wie ein anderer mir gegenübersteht: ungeschützt, ausgesetzt, ohne Rüstung. Diese Nacktheit lädt zur Gewalt ein und verbietet sie zugleich. Das Erste, was das Antlitz sagt, ist: Du wirst nicht töten. Levinas zieht daraus eine strenge Folgerung. Ich bin für den anderen verantwortlich, bevor ich gewählt, zugestimmt oder einen Vertrag geschlossen habe. Und die Verantwortung ist ungleich. Ich schulde, ohne zu fragen, was er mir schuldet. Ethik kommt bei ihm vor jeder anderen Philosophie.",
+   "beispiel": "In „All Quiet on the Western Front“ liegt ein Soldat im Trichter neben dem Mann, auf den er eingestochen hat, und sieht zum ersten Mal sein Gesicht. Danach kann er ihn nicht mehr Feind nennen. In „Autumn Sonata“ sieht eine Tochter ihre Mutter an, und die Mutter schaut auf die Klaviertasten.",
+   "these": "Schon der Anblick eines anderen Menschen verpflichtet mich, ob ich will oder nicht.",
+   "einwand": "Menschen sehen einander ins Gesicht und töten trotzdem, in jedem Krieg und jedem Pogrom. Wenn das Antlitz verpflichtete, wäre das unmöglich. Die grenzenlose Verantwortung für jeden überfordert außerdem jeden und ist deshalb folgenlos. Und was ist mit denen, deren Gesicht ich nie sehe, weil sie weit weg leben? Die brauchen Institutionen, keine Blicke.",
+   "dafuer": "Dass man die Pflicht verletzen kann, widerlegt sie nicht. Auffällig ist, was Täter tun, um töten zu können: Sie verbinden Augen, verwenden Nummern statt Namen, reden von Ungeziefer. Sie müssen das Gesicht erst wegschaffen. Und du kennst den Moment, in dem dich ein Bettler ansieht und du nicht mehr unbeteiligt vorbeigehen kannst. Was tust du dann mit deinem Blick?",
+   "fragen": [
+    "Wessen Gesicht hat dich zuletzt in die Pflicht genommen?",
+    "Wem siehst du absichtlich nicht ins Gesicht?",
+    "Was wäre geschehen, wenn du hingesehen hättest?"
+   ]
   },
   {
    "d": "arendt",
    "titel": "Anfangen können",
    "text": "Die Philosophie hat den Menschen meist als Sterblichen bestimmt. Arendt setzt die Gebürtlichkeit dagegen: Mit jedem Menschen kommt ein neuer Anfang in die Welt, und Handeln heißt, etwas beginnen zu können.",
-   "frage": "Was hast du zuletzt wirklich neu angefangen?"
+   "frage": "Was hast du zuletzt wirklich neu angefangen?",
+   "idee": "Die Philosophie hat den Menschen meist von seinem Ende her bestimmt. Er ist der Sterbliche, und Philosophieren hieß sterben lernen. Hannah Arendt, die vor den Nationalsozialisten fliehen musste, setzt einen anderen Akzent. Sie nennt ihn Natalität, Gebürtlichkeit. Jeder Mensch ist durch Geburt als ein Neuer in die Welt gekommen, als jemand, den es vorher nicht gab. Diese Tatsache wiederholt sich in einer Fähigkeit, im Handeln. Handeln heißt für Arendt, etwas anfangen, eine Kette in Gang setzen, die es ohne mich nicht gäbe und deren Ausgang niemand kennt. Darin liegt die Freiheit. Jeder Anfang hat etwas von einem Wunder, weil er gegen alle Wahrscheinlichkeit geschieht. Auf diese Fähigkeit gründet sie Hoffnung, gerade nach einem Jahrhundert der Katastrophen.",
+   "beispiel": "In „Schindler's List“ beginnt ein Geschäftemacher, der vom Krieg profitieren wollte, Namen auf eine Liste zu setzen. Nichts an seinem Vorleben ließ das erwarten. In „The Truman Show“ tut ein Mann nach dreißig Jahren festgelegten Tagen etwas, das in keinem Drehbuch steht: Er segelt los.",
+   "these": "Jeder Mensch kann jederzeit etwas ganz Neues anfangen.",
+   "einwand": "Das klingt nach Kalenderspruch. Die meisten Anfänge sind Wiederholungen: derselbe Vorsatz, derselbe Partnertyp, derselbe Streit. Herkunft, Geld, Alter und Gewohnheit lassen wenig Spielraum. Wer krank ist oder drei Kinder ernährt, fängt nicht „jederzeit“ neu an. Und mancher Neuanfang war ein Unglück, auch Diktaturen haben einmal begonnen.",
+   "dafuer": "Arendt behauptet nicht, es sei leicht oder immer gut. Sie sagt, es sei möglich, und das widerlegt jede Rechnung, die den Menschen aus seiner Vergangenheit ableitet. Ein Wort der Entschuldigung, eine Kündigung, ein Nein in einer Sitzung: Danach ist die Lage eine andere, für alle. Niemand hätte es vorhersagen können. Wann hast du zuletzt etwas getan, das dich selbst überrascht hat?",
+   "fragen": [
+    "Was hast du zuletzt wirklich neu angefangen?",
+    "Was davon hat Folgen gehabt, die du nicht absehen konntest?",
+    "Welchen Anfang traust du dir nicht zu, obwohl nichts ihn verbietet?"
+   ]
   },
   {
    "d": "arendt",
