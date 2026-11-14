@@ -722,7 +722,17 @@
    "d": "seneca",
    "titel": "Das Übel vorwegnehmen",
    "text": "Die Stoiker üben, sich Verluste im Voraus vorzustellen: Verbannung, Krankheit, den Tod der Liebsten. Was erwartet wurde, trifft weniger hart, und was man noch hat, wird wieder sichtbar.",
-   "frage": "Was würdest du mehr schätzen, wenn du dir seinen Verlust vorstellst?"
+   "frage": "Was würdest du mehr schätzen, wenn du dir seinen Verlust vorstellst?",
+   "idee": "Die Stoiker kannten eine Übung, die später „Vorwegnahme der Übel“ genannt wurde. Seneca empfiehlt sie in seinen Briefen. Man stellt sich in Ruhe vor, was einem zustoßen kann: Armut, Verbannung, Krankheit, der Tod von Menschen, die man liebt. Man malt es sich aus, bis es nichts Unerhörtes mehr hat. Der Zweck ist doppelt. Erstens trifft das Erwartete weniger hart als das Unerwartete, denn Überraschung verdoppelt den Schlag. Zweitens sieht man danach wieder, was man noch hat. Seneca riet sogar, ab und zu ein paar Tage mit grobem Brot und schlechter Kleidung zu leben und sich zu fragen: Ist es das, wovor ich mich gefürchtet habe? Die Übung gilt dem Gleichmut und der Dankbarkeit zugleich.",
+   "beispiel": "In „The Sacrifice“ geschieht das Befürchtete wirklich: Im Radio wird der Atomkrieg gemeldet. Erst da sieht Alexander, was er an Haus, Sohn und Leben hat, und will alles hergeben, um es zu retten. „Threads“ zwingt den Zuschauer zu derselben Übung im Großen. Zwei Stunden lang stellt man sich vor, was man lieber nicht denkt.",
+   "these": "Wer sich das Schlimmste vorher vorstellt, lebt ruhiger und dankbarer.",
+   "einwand": "Für viele ist das genau ihr Problem. Sie malen sich nachts Unglücke aus und werden davon nicht gelassen, sie werden krank. Sorgen nehmen kein Unglück vorweg, sie verdoppeln es: Man leidet vorher und dann noch einmal. Und wer bei jedem Abendessen an den Tod der Kinder denkt, verdirbt sich den Abend. Zuversicht trägt weiter.",
+   "dafuer": "Grübeln und die stoische Übung sind zweierlei. Grübeln kreist und endet in Angst. Die Übung geht bis zum Ende und fragt dann: Könnte ich das tragen? Meist lautet die Antwort ja. Danach sieht man den gesunden Menschen gegenüber anders an. Wann hast du zuletzt etwas erst geschätzt, als es fast weg war?",
+   "fragen": [
+    "Was würdest du mehr schätzen, wenn du dir seinen Verlust vorstellst?",
+    "Welchen Verlust wagst du dir nicht vorzustellen?",
+    "Was würdest du heute tun oder sagen, wenn du ihn für möglich hieltest?"
+   ]
   },
   {
    "d": "epikur",
@@ -730,19 +740,49 @@
    "zitat": "Solange wir da sind, ist der Tod nicht da, und wenn der Tod da ist, sind wir nicht mehr.",
    "quelle": "Brief an Menoikeus",
    "text": "Alles Gute und Schlimme beruht auf Empfindung, der Tod ist deren Ende. Also kann er für uns kein Übel sein. Epikur will damit nicht trösten, sondern eine Furcht auflösen, die das Leben vergiftet.",
-   "frage": "Überzeugt dich das Argument? Wenn nein, warum nicht?"
+   "frage": "Überzeugt dich das Argument? Wenn nein, warum nicht?",
+   "idee": "Epikur lehrte in einem Garten bei Athen, dass das Ziel des Lebens ein ruhiger, schmerzfreier Geist sei. Die größte Störung dieser Ruhe ist die Furcht vor dem Tod. In einem Brief an seinen Schüler Menoikeus löst er sie mit einem kurzen Argument auf. Alles Gute und Schlechte liegt in der Empfindung. Der Tod ist das Ende aller Empfindung. Also kann er für den, den er trifft, nichts Schlechtes sein. Solange wir da sind, ist der Tod nicht da. Ist er da, sind wir nicht mehr. Er betrifft weder die Lebenden noch die Toten. Später fügte der Dichter Lukrez hinzu: Die Zeit vor deiner Geburt hat dir auch nichts ausgemacht. Warum sollte die Zeit nach deinem Tod schlimmer sein?",
+   "beispiel": "In „The Seventh Seal“ sitzt der Tod leibhaftig am Schachbrett, und der Ritter zittert vor dem Nichts. Epikur würde ihm sagen, er fürchte etwas, das er nie erleben wird. In „The Midnight Gospel“ spricht eine sterbende Mutter mit ihrem Sohn über ihr Ende. Sie ist ruhig. Wer leidet, ist er.",
+   "these": "Der Tod ist für den, der stirbt, kein Übel.",
+   "einwand": "Das Argument übersieht, was der Tod wegnimmt. Wer mit dreißig stirbt, verliert fünfzig Jahre, die gut hätten sein können. Dass er den Verlust nicht spürt, macht ihn nicht kleiner. Wir fürchten auch nicht das Totsein, wir fürchten, dass alles aufhört, was wir lieben und vorhaben. Und Epikur schweigt über die, die zurückbleiben.",
+   "dafuer": "Prüf, was genau du fürchtest. Schmerzen? Die gehören zum Sterben, nicht zum Tod. Dunkelheit, Stille, Alleinsein? Das setzt jemanden voraus, der es erlebt, und den gibt es dann nicht. Dass dir Jahre entgehen, kannst du bedauern, solange du lebst. Danach bedauert niemand. Welches Bild vom Totsein hast du im Kopf, und wer sieht es an?",
+   "fragen": [
+    "Überzeugt dich das Argument? Wenn nein, wo genau hakt es?",
+    "Fürchtest du den Tod, das Sterben oder das, was du verpasst?",
+    "Würde sich an deinem Alltag etwas ändern, wenn die Furcht weg wäre?"
+   ]
   },
   {
    "d": "epikur",
    "titel": "Wenig brauchen",
    "text": "Epikur unterscheidet natürliche und notwendige Begierden von solchen, die leer sind. Brot, Wasser, Freunde und ein ruhiger Geist genügen. Wem das Wenige nicht reicht, dem reicht nichts.",
-   "frage": "Welche deiner Wünsche würde Epikur leer nennen?"
+   "frage": "Welche deiner Wünsche würde Epikur leer nennen?",
+   "idee": "Epikur gilt als Philosoph der Lust, und man stellt sich Gelage vor. Sein Garten lebte von Brot, Wasser und etwas Käse an Festtagen. Er sortiert die Wünsche in drei Gruppen. Natürlich und notwendig sind Essen, Trinken, Obdach, Freundschaft und Freiheit von Angst. Natürlich, aber nicht notwendig sind feines Essen oder Abwechslung. Weder natürlich noch notwendig sind Ruhm, Reichtum und Macht. Diese dritte Gruppe nennt er leer, weil sie keine Grenze hat. Hunger ist gestillt, wenn man gegessen hat. Der Wunsch nach Ansehen ist nie gestillt. Wer seine Wünsche auf die erste Gruppe beschränkt, ist leicht zufrieden und schwer zu erpressen. Wem das Genügende zu wenig ist, dem ist nichts genug.",
+   "beispiel": "In „Citizen Kane“ füllt ein Mann ein Schloss mit Statuen in Kisten, die er nie auspackt. Was ihm fehlt, war ein Schlitten im Schnee. In „Wings of Desire“ gibt ein Engel die Ewigkeit auf und ist begeistert von einem Becher Kaffee an einer Imbissbude und davon, sich die kalten Hände zu reiben.",
+   "these": "Wer wenig braucht, ist glücklicher als der, der viel bekommt.",
+   "einwand": "Das ist die Moral der Zufriedenen, und sie nützt denen, die viel haben. Ohne Ehrgeiz gäbe es keine Kathedralen, keine Impfstoffe und keinen Film. Sich mit Brot und Wasser abzufinden, ist manchmal einfach Resignation. Und Armut ist kein Garten in Athen. Wer wirklich wenig hat, wünscht sich zu Recht mehr.",
+   "dafuer": "Epikur preist keine Armut. Er fragt, welche Wünsche ein Ende haben. Erinnere dich an die letzte Gehaltserhöhung oder das letzte neue Gerät: Wie lange hat die Freude gehalten? Und dann an einen Abend mit Freunden, an dem nichts gefehlt hat. Das zweite kostet fast nichts und nutzt sich nicht ab. Wonach strebst du, das kein Genug kennt?",
+   "fragen": [
+    "Welche deiner Wünsche würde Epikur leer nennen?",
+    "Wann hattest du zuletzt das Gefühl, dass nichts fehlt, und was war da?",
+    "Was würdest du streichen, wenn du nur behieltest, was eine Grenze hat?"
+   ]
   },
   {
    "d": "sokrates",
    "titel": "Nichtwissen",
    "text": "Das Orakel nennt Sokrates den Weisesten. Er prüft Politiker, Dichter und Handwerker und findet: Sie glauben zu wissen, was sie nicht wissen. Sein Vorsprung ist nur, dass er sich darüber nicht täuscht.",
-   "frage": "Was glaubst du zu wissen, das du nie geprüft hast?"
+   "frage": "Was glaubst du zu wissen, das du nie geprüft hast?",
+   "idee": "Sokrates hat nichts geschrieben. Was wir wissen, steht vor allem bei seinem Schüler Platon. In der Verteidigungsrede vor Gericht erzählt Sokrates, wie alles anfing. Ein Freund fragte das Orakel von Delphi, ob jemand weiser sei als Sokrates. Die Antwort war nein. Sokrates konnte das nicht glauben und begann, die zu prüfen, die als weise galten: Politiker, Dichter, Handwerker. Jedes Mal fand er dasselbe. Sie wussten manches und hielten sich deshalb für kundig in allem, auch im Wichtigsten, der Frage, wie man leben soll. Sokrates schloss, das Orakel meine nur dies: Er sei um ein Kleines weiser, weil er nicht glaube zu wissen, was er nicht weiß. Die Befragten nahmen ihm das übel.",
+   "beispiel": "In „My Dinner with Andre“ wird ein Mann, der sich in seinem Leben eingerichtet hat, einen Abend lang befragt und fährt verändert nach Hause. In „Chernobyl“ ist das Gegenteil tödlich: Ein Ingenieur weiß, dass ein Reaktor dieser Bauart nicht explodieren kann, und schickt deshalb Männer aufs Dach, um nachzusehen.",
+   "these": "Klüger ist, wer weiß, was er nicht weiß.",
+   "einwand": "Mit Nichtwissen baut man keine Brücke und heilt keinen Kranken. Irgendwann muss jemand sagen: So ist es, so machen wir es. Wer immer nur fragt und zweifelt, entzieht sich der Verantwortung und geht anderen auf die Nerven. Die Athener hatten nicht ganz unrecht. Bescheidenheit kann auch eine Pose sein, hinter der sich Überlegenheit versteckt.",
+   "dafuer": "Die schlimmsten Fehler machen Leute, die sich sicher sind. Der Arzt, der nicht mehr nachfragt, der Experte außerhalb seines Fachs, du selbst bei Themen, über die du nur Überschriften kennst. Sokrates verlangt nicht, nichts zu wissen. Er verlangt, die Grenze zu kennen. Wo hast du zuletzt selbstsicher über etwas geredet, das du nie geprüft hast?",
+   "fragen": [
+    "Was glaubst du zu wissen, das du nie geprüft hast?",
+    "Woher stammt diese Überzeugung eigentlich?",
+    "Wie würdest du reagieren, wenn dich jemand dazu so befragte wie Sokrates?"
+   ]
   },
   {
    "d": "sokrates",
@@ -750,31 +790,81 @@
    "zitat": "Ein Leben ohne Selbsterforschung ist für den Menschen nicht lebenswert.",
    "quelle": "Platon, Apologie 38a",
    "text": "Sokrates sagt das vor Gericht, als er wählen könnte zu schweigen und weiterzuleben. Er wählt das Fragen und damit den Tod.",
-   "frage": "Welche Frage an dein eigenes Leben schiebst du vor dir her?"
+   "frage": "Welche Frage an dein eigenes Leben schiebst du vor dir her?",
+   "idee": "Im Jahr 399 vor Christus steht Sokrates vor Gericht. Die Anklage lautet, er verderbe die Jugend und glaube nicht an die Götter der Stadt. Er wird schuldig gesprochen. Nach athenischem Recht darf er selbst eine Strafe vorschlagen, und alle erwarten Verbannung oder das Versprechen zu schweigen. Sokrates lehnt beides ab. Er könne nicht aufhören, sich und andere zu prüfen, denn das sei das größte Gut für einen Menschen. Dann fällt der Satz: Ein Leben ohne Prüfung ist für den Menschen nicht lebenswert. Das Gericht verurteilt ihn zum Tod. Er hätte später fliehen können und bleibt. Der Satz ist also nicht am Schreibtisch entstanden. Sokrates hat ihn mit dem Leben bezahlt.",
+   "beispiel": "In „Wild Strawberries“ wird ein alter Arzt im Traum vor ein Prüfungsgremium gestellt und fällt durch. Die Anklage lautet auf Kälte und Selbstsucht. Erst diese späte Prüfung bringt ihn dazu, einem Menschen etwas Freundliches zu sagen. In Tarkowskis „Stalker“ scheitern zwei Männer vor einem Zimmer, weil es ihren innersten Wunsch offenlegen würde.",
+   "these": "Ein Leben, über das man nie nachdenkt, ist nicht lebenswert.",
+   "einwand": "Das ist der Hochmut des Philosophen. Milliarden Menschen haben gearbeitet, geliebt, Kinder großgezogen und nie gefragt, was Gerechtigkeit ist. Ihr Leben war nicht wertlos. Manchem tut das viele Prüfen auch nicht gut: Er zergliedert jede Freude, bis sie weg ist. Ein Fischer, der abends zufrieden ist, braucht keinen Sokrates.",
+   "dafuer": "Sokrates sagt „für den Menschen“. Er meint: Ein Wesen, das fragen kann, wie es leben soll, und es nie tut, lässt sein Bestes ungenutzt. Auch der Fischer hat einmal gewählt oder wählen lassen. Ohne Prüfung lebt man nach den Vorstellungen anderer, der Eltern, der Nachbarn, der Zeit. Wessen Vorstellungen folgst du, wenn du nicht hinsiehst?",
+   "fragen": [
+    "Welche Frage an dein eigenes Leben schiebst du vor dir her?",
+    "Was fürchtest du an der Antwort?",
+    "Wofür würdest du, wie Sokrates, einen hohen Preis zahlen, statt zu schweigen?"
+   ]
   },
   {
    "d": "platon",
    "titel": "Die Höhle",
    "text": "Gefangene sehen ihr Leben lang nur Schatten an einer Wand. Einer wird befreit, steigt ans Licht, ist geblendet und versteht. Als er zurückkehrt, lachen ihn die anderen aus. Bildung ist für Platon eine Umwendung der ganzen Seele.",
-   "frage": "Welche Schatten hast du lange für die Sache selbst gehalten?"
+   "frage": "Welche Schatten hast du lange für die Sache selbst gehalten?",
+   "idee": "Im siebten Buch des „Staates“ erzählt Platon ein Gleichnis. Menschen sitzen von Kindheit an gefesselt in einer Höhle, den Blick zur Rückwand. Hinter ihnen brennt ein Feuer, und zwischen Feuer und Gefangenen tragen Leute Figuren vorbei. Die Gefangenen sehen nur die Schatten und halten sie für die Wirklichkeit. Wird einer losgebunden und umgedreht, tun ihm die Augen weh. Er will zurück. Zwingt man ihn hinauf ans Tageslicht, ist er zuerst blind. Langsam erkennt er die Dinge und zuletzt die Sonne, die alles sichtbar macht. Steigt er wieder hinab, um den anderen zu berichten, sieht er im Dunkeln schlecht. Sie lachen und würden ihn umbringen, wenn er sie befreien wollte. Platon denkt dabei an Sokrates.",
+   "beispiel": "„The Truman Show“ baut die Höhle als Fernsehstudio nach, mit künstlicher Sonne und einem Regisseur am Himmel. „The Matrix“ macht daraus Tanks voller Schlafender. Und jedes Kino ist selbst eine: Menschen sitzen im Dunkeln und sehen Schatten zu, die von hinten an eine Wand geworfen werden.",
+   "these": "Was wir für die Wirklichkeit halten, ist oft nur ihr Schatten.",
+   "einwand": "Woher weiß der Befreite, dass er oben die Wahrheit sieht und keine größere Höhle? Jeder Sektenführer und jeder Verschwörungsgläubige erzählt dieselbe Geschichte: Ich habe das Licht gesehen, ihr schlaft. Platon zog daraus den Schluss, die Wissenden sollten herrschen. Das ist gefährlich. Vielleicht ist die gemeinsame Welt der Schatten alles, was wir haben.",
+   "dafuer": "Du musst Platons Sonne nicht glauben, um die Höhle zu kennen. Erinnere dich an eine Überzeugung, die du mit zwanzig für selbstverständlich hieltest und heute für eng. Damals hast du die Wand nicht als Wand gesehen. Das spricht dafür, dass auch heute etwas dahinterliegt. Der Schmerz beim Umdrehen ist ein gutes Zeichen. Welche Wand siehst du gerade?",
+   "fragen": [
+    "Welche Schatten hast du lange für die Sache selbst gehalten?",
+    "Wer oder was hat dich damals umgedreht, und wie hast du dich gewehrt?",
+    "Bist du je zurückgegangen, um es anderen zu sagen? Was geschah?"
+   ]
   },
   {
    "d": "platon",
    "titel": "Die Leiter der Liebe",
    "text": "Im „Gastmahl“ beschreibt Diotima einen Aufstieg: von einem schönen Körper zu allen schönen Körpern, zur Schönheit der Seelen, des Wissens und schließlich zum Schönen selbst. Eros ist das Verlangen nach dem, was fehlt.",
-   "frage": "Wohin hat dich eine Verliebtheit geführt, die über die Person hinausging?"
+   "frage": "Wohin hat dich eine Verliebtheit geführt, die über die Person hinausging?",
+   "idee": "In Platons „Gastmahl“ halten Freunde bei einem Trinkabend Reden auf den Eros. Sokrates berichtet, was ihn eine Frau namens Diotima gelehrt habe. Eros ist kein Gott, denn Götter haben alles. Er ist ein Verlangen und richtet sich auf das, was fehlt. Letztlich will er das Schöne für immer besitzen. Dann beschreibt sie einen Weg in Stufen, wie eine Leiter. Zuerst liebt man einen einzelnen schönen Körper. Dann bemerkt man, dass die Schönheit in allen Körpern verwandt ist. Höher steht die Schönheit einer Seele, dann die von Lebensformen und Gesetzen, dann die des Wissens. Ganz oben sieht man das Schöne selbst, das nicht entsteht und nicht vergeht. Die erste Liebe wird dabei nicht verworfen. Sie ist die unterste Sprosse.",
+   "beispiel": "In „Her“ verliebt sich ein Mann in eine Stimme. Die Stimme wächst, liebt bald Hunderte, liest ganze Bibliotheken und zieht schließlich an einen Ort weiter, den er nicht begreift. Sie steigt Diotimas Leiter hinauf, und er bleibt auf der ersten Sprosse zurück. In „Solaris“ will ein Mann genau diese eine Frau und nichts Höheres.",
+   "these": "Wer liebt, liebt am anderen etwas, das über die Person hinausgeht.",
+   "einwand": "Das ist eine Beleidigung für jeden Geliebten. Er wird zur Sprosse, auf die man tritt, um weiterzukommen. Wirkliche Liebe meint diesen einen Menschen mit seinem Geruch, seinen Macken und seiner Geschichte, nicht „das Schöne“. Wer in seiner Frau die Idee der Schönheit liebt, liebt sie nicht. Und austauschbar wäre sie dann auch.",
+   "dafuer": "Überleg, was eine Verliebtheit mit dir gemacht hat. Du hast plötzlich Musik gehört, Gedichte gelesen, wolltest besser werden. Die Person hat etwas geöffnet, das größer war als sie. Das mindert sie nicht. Platon beschreibt, was Liebe in Bewegung setzt. Viele Werke, Entdeckungen und Wandlungen haben so begonnen. Was hat ein Mensch in dir geöffnet, das blieb, als er ging?",
+   "fragen": [
+    "Wohin hat dich eine Verliebtheit geführt, die über die Person hinausging?",
+    "Was davon hast du behalten, als die Verliebtheit vorbei war?",
+    "Liebst du an einem Menschen ihn selbst oder das, was er in dir weckt?"
+   ]
   },
   {
    "d": "aristoteles",
    "titel": "Die Mitte",
    "text": "Tugend ist für Aristoteles die Mitte zwischen zwei Fehlern: Mut zwischen Feigheit und Tollkühnheit, Großzügigkeit zwischen Geiz und Verschwendung. Wo sie liegt, zeigt keine Regel, sondern Übung und Urteilskraft.",
-   "frage": "Zu welchem Extrem neigst du, und was wäre die Mitte?"
+   "frage": "Zu welchem Extrem neigst du, und was wäre die Mitte?",
+   "idee": "Aristoteles fragt, was einen guten Charakter ausmacht, und findet ein Muster. Jede Tugend liegt zwischen zwei Fehlern, einem Zuviel und einem Zuwenig. Mut liegt zwischen Feigheit und Tollkühnheit. Großzügigkeit zwischen Geiz und Verschwendung. Besonnenheit zwischen Zügellosigkeit und Stumpfheit. Gemeint ist kein lauwarmes Mittelmaß. Die Mitte ist das Richtige: zur rechten Zeit, gegenüber den rechten Menschen, aus dem rechten Grund. Bei einem Unrecht kann großer Zorn genau die Mitte sein. Eine Formel gibt es dafür nicht. Was richtig ist, sieht der Erfahrene, so wie ein Arzt die Dosis für diesen Kranken sieht. Tugend erwirbt man durch Übung. Gerecht wird man, indem man gerecht handelt, wie man durch Bauen Baumeister wird.",
+   "beispiel": "In „Barry Lyndon“ beginnt ein junger Mann als Hitzkopf, der sich für eine Cousine duelliert, und endet als Berechnender, der alles für einen Titel tut. Die Mitte trifft er ein einziges Mal, als er in einem Duell in den Boden schießt. In „Sicario“ fehlt sie ganz: Eine Polizistin hält sich an jede Regel, ihre Kollegen an keine.",
+   "these": "Das Richtige liegt meist zwischen zwei Extremen.",
+   "einwand": "Zwischen Wahrheit und Lüge ist die Mitte eine halbe Lüge. Zwischen Folter und keiner Folter gibt es nichts, was man anstreben sollte. Die großen Veränderer waren Extremisten: Wer die Sklaverei abschaffen wollte, galt als maßlos. Die Lehre von der Mitte klingt nach den Vorlieben eines wohlhabenden Griechen, der Ruhe schätzt.",
+   "dafuer": "Aristoteles sagt selbst, dass es für Mord und Ehebruch keine Mitte gibt. Seine Lehre gilt für Gefühle und Neigungen. Hier scheitern die meisten an einem Übermaß: zu ängstlich, zu nachgiebig, zu streng, zu sparsam. Er rät, sich zum Gegenteil hin zu biegen, wie man krummes Holz geradezieht. In welche Richtung müsstest du dich biegen?",
+   "fragen": [
+    "Zu welchem Extrem neigst du, und was wäre die Mitte?",
+    "In welcher Lage der letzten Woche hast du sie verfehlt?",
+    "Was könntest du üben, damit es beim nächsten Mal gelingt?"
+   ]
   },
   {
    "d": "aristoteles",
    "titel": "Drei Arten Freundschaft",
    "text": "Manche Freunde sind uns nützlich, mit anderen ist es angenehm. Die vollkommene Freundschaft gilt dem anderen um seiner selbst willen. Sie ist selten und braucht Zeit, denn man muss, wie es heißt, viel Salz zusammen gegessen haben.",
-   "frage": "Welche deiner Freundschaften gilt dem Menschen selbst?"
+   "frage": "Welche deiner Freundschaften gilt dem Menschen selbst?",
+   "idee": "Aristoteles widmet der Freundschaft zwei ganze Bücher seiner Ethik, mehr als jeder anderen Sache. Er unterscheidet drei Arten nach dem, was die Freunde aneinander lieben. In der Nutzenfreundschaft hat jeder etwas vom anderen, wie Geschäftspartner. In der Lustfreundschaft ist es miteinander angenehm, wie oft unter jungen Leuten. Beide enden, wenn der Nutzen oder das Vergnügen wegfällt, denn geliebt wurde nicht der Mensch. In der vollkommenen Freundschaft wünscht jeder dem anderen Gutes um dessen selbst willen. Sie setzt voraus, dass beide einen guten Charakter haben, und sie braucht Zeit und Zusammenleben. Deshalb ist sie selten, und man kann nur wenige solcher Freunde haben. Der Freund ist dann, sagt Aristoteles, ein zweites Selbst.",
+   "beispiel": "In „Good Will Hunting“ sagt Chuckie zu seinem besten Freund, der schönste Moment seines Tages seien die zehn Sekunden vor dessen Tür: die Hoffnung, dass Will fort ist, ohne sich zu verabschieden. Er wünscht ihm etwas, wovon er selbst nichts hat. In „Citizen Kane“ entlässt Kane den einzigen Freund, der ihm die Wahrheit schreibt.",
+   "these": "Echte Freundschaft gilt dem anderen selbst und nicht dem, was er mir bringt.",
+   "einwand": "Jede Freundschaft nützt und macht Freude, sonst pflegte man sie nicht. Einen Freund, mit dem es weder angenehm noch hilfreich ist, hat niemand. Die reine Freundschaft „um des anderen willen“ ist ein Ideal, das alle wirklichen Freundschaften schlechtmacht. Und warum sollte nur ein tugendhafter Mensch ein Freund sein können? Auch Gauner halten zusammen.",
+   "dafuer": "Die Probe ist einfach: Was geschieht, wenn der andere dir nichts mehr geben kann? Er wird krank, verliert die Stelle, ist monatelang trübsinnig. Manche Freunde bleiben dann, andere melden sich nicht mehr. Erst dabei zeigt sich, wem die Freundschaft gegolten hat. Nutzen und Freude kommen bei der echten dazu, sie sind nicht ihr Grund. Wer blieb bei dir, als du nichts zu bieten hattest?",
+   "fragen": [
+    "Welche deiner Freundschaften gilt dem Menschen selbst?",
+    "Welche würde enden, wenn Nutzen oder Vergnügen wegfielen?",
+    "Für wen bist du ein solcher Freund, der bleibt?"
+   ]
   },
   {
    "d": "heraklit",
@@ -782,7 +872,17 @@
    "zitat": "Wer in dieselben Flüsse steigt, dem strömt anderes und wieder anderes Wasser zu.",
    "quelle": "Fragment B 12",
    "text": "Der Fluss bleibt derselbe, gerade weil sein Wasser wechselt. Heraklit meint damit weniger, dass nichts bleibt, als dass Beständigkeit aus Wandel besteht.",
-   "frage": "Was an dir ist gleich geblieben, obwohl alles sich geändert hat?"
+   "frage": "Was an dir ist gleich geblieben, obwohl alles sich geändert hat?",
+   "idee": "Von Heraklit, der um 500 vor Christus in Ephesos lebte, sind nur kurze, dunkle Sätze erhalten. Der bekannteste handelt vom Fluss. Wer in dieselben Flüsse steigt, dem strömt immer anderes Wasser zu. Später machte man daraus „Alles fließt“ und „Man kann nicht zweimal in denselben Fluss steigen“. Der Satz sagt etwas Feineres. Der Fluss bleibt ja derselbe Fluss. Er ist es gerade dadurch, dass sein Wasser wechselt. Stünde es still, wäre er ein Teich. Heraklit sieht überall dieses Muster: Die Dinge bestehen aus Spannung und Wandel. Der Bogen hält durch die Gegenkraft der Sehne. Tag und Nacht, Hunger und Sättigung gehören zusammen. Dauer ist bei ihm die Form, die der Wechsel annimmt.",
+   "beispiel": "In „The Prestige“ steigt ein Zauberer jeden Abend in eine Maschine, und heraus kommt ein Mann, der ihm gleicht. Ist es derselbe? In „Mirror“ spielt eine Schauspielerin die Mutter und die Ehefrau, ein Junge den Erzähler als Kind und dessen Sohn. Die Menschen wechseln, etwas an der Familie bleibt.",
+   "these": "Nichts bleibt, wie es ist, und gerade dadurch bleibt es dasselbe.",
+   "einwand": "Das klingt tief und sagt wenig. Manche Dinge ändern sich so sehr, dass sie aufhören zu sein: Ein Wald brennt ab, eine Freundschaft endet, ein Mensch stirbt. Dann bleibt nichts dasselbe. Und manches bleibt wirklich gleich, ein Dreieck etwa oder ein gegebenes Versprechen. Wer überall nur Fluss sieht, kann nichts mehr festhalten.",
+   "dafuer": "Fast jede Zelle deines Körpers wurde seit deiner Kindheit ersetzt. Deine Ansichten haben gewechselt, deine Freunde zum Teil auch. Trotzdem sagst du „ich“ über das Kind auf dem Foto. Was bleibt, ist kein Stoff, eher ein Verlauf, wie beim Fluss. Wer sich gegen jede Änderung stemmt, um er selbst zu bleiben, hat das missverstanden. Was musstest du ändern, um dir treu zu bleiben?",
+   "fragen": [
+    "Was an dir ist gleich geblieben, obwohl alles sich geändert hat?",
+    "Woran würde dich jemand erkennen, der dich zwanzig Jahre nicht gesehen hat?",
+    "Was hältst du fest, das fließen müsste?"
+   ]
   },
   {
    "d": "augustinus",
@@ -790,7 +890,17 @@
    "zitat": "Was also ist die Zeit? Wenn niemand mich danach fragt, weiß ich es; will ich es einem Fragenden erklären, weiß ich es nicht.",
    "quelle": "Bekenntnisse XI",
    "text": "Die Vergangenheit ist nicht mehr, die Zukunft noch nicht, die Gegenwart ohne Dauer. Augustinus schließt daraus, dass Zeit in der Seele liegt: als Erinnerung, Anschauung und Erwartung.",
-   "frage": "Wo verbringst du mehr Zeit, in der Erinnerung oder in der Erwartung?"
+   "frage": "Wo verbringst du mehr Zeit, in der Erinnerung oder in der Erwartung?",
+   "idee": "Im elften Buch seiner „Bekenntnisse“ bleibt Augustinus an einer Frage hängen, die harmlos aussieht. Was ist Zeit? Jeder benutzt das Wort und versteht es. Sobald er es erklären soll, gerät er in Schwierigkeiten. Die Vergangenheit ist nicht mehr. Die Zukunft ist noch nicht. Die Gegenwart ist ein Punkt ohne Ausdehnung, denn hätte sie Dauer, ließe sie sich wieder in Vergangenes und Künftiges teilen. Wie kann etwas lang oder kurz sein, das nicht ist? Augustinus findet die Antwort im Inneren. Wenn ich ein Lied singe, halte ich die gesungenen Töne im Gedächtnis und erwarte die kommenden. Zeit ist diese Ausspannung der Seele. Es gibt Gegenwart des Vergangenen als Erinnerung, Gegenwart des Gegenwärtigen als Anschauung und Gegenwart des Künftigen als Erwartung.",
+   "beispiel": "Tarkowskis „Mirror“ sieht aus wie Augustinus' Antwort. Ein Mann erinnert sich, und Kindheit, Krieg und Ehe stehen gleichzeitig im Raum. In „Memento“ fehlt die eine Hälfte: Ein Mann behält nichts länger als ein paar Minuten. Er hat nur noch Gegenwart und Zettel, und ein Lied könnte er nicht mehr hören.",
+   "these": "Zeit gibt es nur in uns, als Erinnerung und Erwartung.",
+   "einwand": "Die Erde kreiste Milliarden Jahre um die Sonne, bevor es eine Seele gab, die das hätte erinnern können. Uhren laufen, ob jemand hinsieht oder nicht, und die Physik misst Zeit sehr genau. Augustinus beschreibt, wie wir Zeit erleben. Daraus folgt nicht, dass sie nur in uns ist. Er verwechselt die Sache mit ihrer Wahrnehmung.",
+   "dafuer": "Was die Uhr misst, sind Bewegungen: Zeiger, Schwingungen, Umläufe. Dass etwas „lange gedauert“ hat, dass etwas „vorbei“ ist oder „noch kommt“, gibt es nur für jemanden, der behält und erwartet. Eine Stunde beim Zahnarzt und eine Stunde im Kino sind auf der Uhr gleich und für dich nicht. Wo ist die Zeit, die schnell vergangen ist?",
+   "fragen": [
+    "Wo verbringst du mehr Zeit, in der Erinnerung oder in der Erwartung?",
+    "Wann warst du zuletzt ganz in der Gegenwart, und was hast du getan?",
+    "Was würde von dir bleiben ohne Erinnerung und ohne Erwartung?"
+   ]
   },
   {
    "d": "augustinus",
@@ -798,19 +908,49 @@
    "zitat": "Unruhig ist unser Herz, bis es ruht in dir.",
    "quelle": "Bekenntnisse I",
    "text": "Augustinus beschreibt sein Leben als Suche, die an Ehrgeiz, Lust und Wissen nicht satt wurde. Man kann den Satz auch ohne seinen Gott lesen: als Beschreibung eines Verlangens, das kein Gegenstand stillt.",
-   "frage": "Wonach suchst du, ohne es benennen zu können?"
+   "frage": "Wonach suchst du, ohne es benennen zu können?",
+   "idee": "Augustinus beginnt seine „Bekenntnisse“ mit einem Gebet, und gleich im ersten Absatz steht der berühmte Satz vom unruhigen Herzen. Das Buch erzählt dann, wie er dorthin kam. Als junger Mann in Nordafrika sucht er Ansehen als Redner, Lust bei Frauen, Wahrheit bei einer Sekte, dann bei den Skeptikern. Alles hält eine Weile und wird schal. Er beschreibt genau, wie ein Verlangen nach dem anderen gestillt wird und das Verlangen selbst bleibt. Mit über dreißig, in einem Garten in Mailand, bekehrt er sich. Für ihn ist die Unruhe ein Heimweh: Der Mensch ist auf Gott hin geschaffen und findet in nichts Geringerem Ruhe. Man kann den Befund auch ohne die Erklärung ernst nehmen. Kein Ding, das wir bekommen, macht uns endgültig satt.",
+   "beispiel": "In „Stalker“ gibt es ein Zimmer, das den innersten Wunsch erfüllt. Drei Männer gehen unter Lebensgefahr hin, und keiner tritt ein. Sie ahnen, dass sie nicht wissen, was sie wollen. In „There Will Be Blood“ hat ein Mann am Ende alles Öl und sitzt allein in einer Villa mit Kegelbahn.",
+   "these": "Kein Ding und kein Erfolg kann das menschliche Verlangen endgültig stillen.",
+   "einwand": "Es gibt zufriedene Menschen. Sie haben eine Arbeit, die sie mögen, eine Familie, einen Garten, und es fehlt ihnen nichts. Die ewige Unruhe ist das Leiden bestimmter Charaktere, und Augustinus war einer davon. Daraus ein Gesetz für alle zu machen, dient vor allem dazu, am Ende Gott als einzige Lösung anzubieten.",
+   "dafuer": "Auch Zufriedene kennen den Sonntagabend, an dem etwas fehlt, ohne dass sie sagen könnten, was. Die Werbung lebt davon, diesem Etwas immer neue Namen zu geben. Dass kein Kauf und kein Erfolg es beendet, ist eine Erfahrung, die fast jeder gemacht hat. Die Frage ist nur, was man daraus schließt. Was hast du zuletzt erreicht und danach gedacht: Und jetzt?",
+   "fragen": [
+    "Wonach suchst du, ohne es benennen zu können?",
+    "Womit hast du schon versucht, es zu stillen?",
+    "Ist die Unruhe für dich ein Mangel, der wegmuss, oder ein Antrieb, den du brauchst?"
+   ]
   },
   {
    "d": "montaigne",
    "titel": "Was weiß ich?",
    "text": "Montaigne ließ sich die Frage „Que sais-je?“ auf eine Medaille prägen. Seine Essais sind Versuche: Er beobachtet sich selbst, widerspricht sich und lässt es stehen. Ich male nicht das Sein, schreibt er, ich male den Übergang.",
-   "frage": "Worin hast du dir im letzten Jahr widersprochen?"
+   "frage": "Worin hast du dir im letzten Jahr widersprochen?",
+   "idee": "Michel de Montaigne zog sich 1571 mit achtunddreißig Jahren in einen Turm seines Schlosses zurück und begann, über sich selbst zu schreiben. Er nannte die Texte „Essais“, Versuche, und erfand damit eine Gattung. Sein Wahlspruch war eine Frage: Was weiß ich? Er ließ sie auf eine Münze prägen, mit einer Waage, deren Schalen im Gleichgewicht stehen. Montaigne lebte in den Religionskriegen, in denen sich Nachbarn im Namen sicherer Wahrheiten umbrachten. Sein Misstrauen gegen Gewissheit hatte also Gründe. Er beobachtet sich wie ein fremdes Tier, seine Launen, seine Verdauung, seine Angst vor dem Tod, und findet nichts Festes. Was er gestern meinte, meint er heute anders, und er lässt beides stehen. Er schildere nicht das Sein, schreibt er, sondern den Übergang.",
+   "beispiel": "„The Midnight Gospel“ ist eine Art gezeichneter Montaigne: Ein Mann reist von Welt zu Welt und redet mit Fremden über Tod, Drogen und Vergebung, ohne zu einem Ergebnis zu kommen. In „My Dinner with Andre“ reden zwei Freunde zwei Stunden lang, widersprechen sich und einander, und keiner gewinnt.",
+   "these": "Wer sich nie widerspricht, denkt nicht ehrlich über sich nach.",
+   "einwand": "Man kann sich auf jemanden, der heute dies und morgen das sagt, nicht verlassen. Verträge, Freundschaften und Politik brauchen Leute, die bei ihrem Wort bleiben. Montaigne konnte sich das Schwanken leisten, im Turm, mit Einkommen. Und irgendwann ist „Was weiß ich?“ nur noch die Weigerung, sich festzulegen. Zweifel kann auch Feigheit sein.",
+   "dafuer": "Montaigne hielt sehr wohl Wort. Er war Bürgermeister, vermittelte zwischen Kriegsparteien und blieb seinen Freunden treu. Beweglich war er im Urteil über sich selbst. Wer von sich ein festes Bild hat, sieht nur noch, was hineinpasst. Du bist an manchen Tagen mutig und an anderen feige. Beides stimmt. Welches Bild von dir verteidigst du gegen die Beobachtung?",
+   "fragen": [
+    "Worin hast du dir im letzten Jahr widersprochen?",
+    "War das ein Fehler oder ein Fortschritt?",
+    "Bei welcher Überzeugung wäre es an der Zeit, die Waage wieder ins Gleichgewicht zu bringen?"
+   ]
   },
   {
    "d": "descartes",
    "titel": "Ich denke, also bin ich",
    "text": "Descartes zweifelt an den Sinnen, an der Mathematik, an der ganzen Außenwelt. Eines bleibt: Wer zweifelt, denkt, und wer denkt, ist. Auf diesen einen sicheren Punkt baut er alles Weitere.",
-   "frage": "Was hältst du für so sicher, dass du es nie bezweifelt hast?"
+   "frage": "Was hältst du für so sicher, dass du es nie bezweifelt hast?",
+   "idee": "René Descartes will 1641 ein Fundament finden, das keinem Zweifel ausgesetzt ist. Sein Verfahren: alles verwerfen, woran sich auch nur der geringste Zweifel denken lässt. Die Sinne täuschen manchmal, ein Turm sieht von fern rund aus. Vielleicht träume ich gerade, im Traum kommt mir auch alles wirklich vor. Sogar zwei plus drei könnte falsch sein, wenn ein mächtiger, böser Geist mich bei jedem Rechnen irreführt. Was bleibt? Eines kann der Betrüger nicht erreichen: dass ich nichts bin, solange ich denke, ich sei etwas. Wer getäuscht wird, existiert. Ich denke, also bin ich. Von diesem Punkt aus baut Descartes die Welt wieder auf. Sicher ist ihm zunächst nur: Ich bin ein denkendes Ding.",
+   "beispiel": "In Fassbinders „World on a Wire“ entdeckt ein Mann, dass seine Stadt ein Computerprogramm ist. Alles um ihn kann falsch sein, aber er zweifelt, also ist da jemand. „The Matrix“ beginnt mit derselben Lage. Und in „Memento“ weiß ein Mann nicht mehr, was vor zehn Minuten war. Dass er jetzt da ist, bezweifelt er nie.",
+   "these": "Das Einzige, was ich sicher weiß, ist, dass ich existiere.",
+   "einwand": "Schon das „ich“ ist zu viel. Sicher ist nur, dass gerade gedacht wird. Ob es ein beständiges Ich gibt, das die Gedanken hat, folgt daraus nicht. Hume fand in sich keines. Außerdem ist der Zweifel selbst gelernt: Ohne Sprache, die andere dir beigebracht haben, könntest du „Ich denke“ gar nicht denken. Die anderen sind also früher sicher als du.",
+   "dafuer": "Versuch, es zu bezweifeln. Du brauchst dazu jemanden, der zweifelt. Jede andere Gewissheit lässt sich wegdenken, die Wand, der Körper, die Vergangenheit, diese eine fällt auf den Zweifelnden zurück. Wie viel in dem „ich“ steckt, ist eine andere Frage. Dass hier etwas erlebt, steht fest. Was folgt für dich daraus, dass alles andere bloß sehr wahrscheinlich ist?",
+   "fragen": [
+    "Was hältst du für so sicher, dass du es nie bezweifelt hast?",
+    "Worauf beruht diese Sicherheit: auf Gründen oder auf Gewohnheit?",
+    "Was bliebe von deinem Alltag, wenn du nur gelten ließest, was unbezweifelbar ist?"
+   ]
   },
   {
    "d": "spinoza",
@@ -818,19 +958,49 @@
    "zitat": "Die menschlichen Handlungen nicht belachen, nicht beweinen, auch nicht verabscheuen, sondern begreifen.",
    "quelle": "Politischer Traktat I, 4",
    "text": "Spinoza betrachtet Affekte wie Linien und Flächen: als Dinge mit Ursachen. Wer versteht, warum ein Mensch so handelt, hört auf, ihn zu hassen, und gewinnt selbst an Freiheit.",
-   "frage": "Wessen Verhalten verurteilst du, ohne es verstanden zu haben?"
+   "frage": "Wessen Verhalten verurteilst du, ohne es verstanden zu haben?",
+   "idee": "Baruch de Spinoza, 1656 aus der jüdischen Gemeinde Amsterdams ausgestoßen, lebte vom Linsenschleifen und schrieb eine „Ethik“ in der Form eines Geometriebuches, mit Lehrsätzen und Beweisen. Sein Grundgedanke: Alles, was geschieht, folgt mit Notwendigkeit aus der Natur. Das gilt auch für Menschen. Hass, Neid und Zorn fallen nicht vom Himmel und sind keine Bosheit aus freiem Entschluss. Sie haben Ursachen, so wie Regen Ursachen hat. Spinoza will deshalb die menschlichen Handlungen betrachten, als ginge es um Linien, Flächen und Körper. Wer einen Affekt versteht, ist ihm weniger ausgeliefert. Und wer versteht, warum ein anderer so handeln musste, kann ihn nicht mehr hassen. Begreifen ist bei Spinoza der Weg zur eigenen Freiheit.",
+   "beispiel": "In „American History X“ zeigen Rückblenden, wie aus einem Jungen ein Neonazi wurde: der Tod des Vaters, dessen Sprüche am Esstisch, ein Mann, der die Wut zu nutzen wusste. Der Film entschuldigt nichts, aber danach sieht man Derek anders. „Taxi Driver“ geht genauso vor. Man bleibt neunzig Minuten im Kopf eines Mannes, den man sonst nur fürchten würde.",
+   "these": "Wer wirklich versteht, warum ein Mensch so handelt, kann ihn nicht mehr hassen.",
+   "einwand": "Manche Taten will man nicht verstehen, und das zu Recht. Alles zu begreifen heißt irgendwann, alles zu verzeihen, und das schuldet niemand einem Folterer. Empörung ist kein Denkfehler. Sie schützt die Grenze zwischen dem, was geht, und dem, was nicht geht. Wer Menschen wie Wetter betrachtet, nimmt ihnen außerdem die Verantwortung und sich selbst das Urteil.",
+   "dafuer": "Verstehen ist kein Freispruch. Man kann einen Menschen einsperren, weil er gefährlich ist, und trotzdem wissen, wie er es wurde. Was wegfällt, ist der Hass, und der schadet vor allem dem, der ihn hat. Denk an jemanden, dessen Geschichte du später erfahren hast. Danach war es schwerer, ihn zu verachten. Bei wem weigerst du dich, die Geschichte zu hören?",
+   "fragen": [
+    "Wessen Verhalten verurteilst du, ohne es verstanden zu haben?",
+    "Was müsstest du über ihn wissen, um es zu begreifen?",
+    "Welchen deiner eigenen Affekte hast du nie auf seine Ursachen hin angesehen?"
+   ]
   },
   {
    "d": "spinoza",
    "titel": "Unter dem Blick der Ewigkeit",
    "text": "Sub specie aeternitatis heißt, die Dinge nicht von meinem Standpunkt und meinem Moment aus zu sehen, sondern als notwendige Teile eines Ganzen. Für Spinoza liegt darin die höchste Ruhe des Geistes.",
-   "frage": "Wie sähe dein heutiger Tag aus dieser Entfernung aus?"
+   "frage": "Wie sähe dein heutiger Tag aus dieser Entfernung aus?",
+   "idee": "„Sub specie aeternitatis“ heißt wörtlich: unter dem Gesichtspunkt der Ewigkeit. Der Ausdruck stammt aus Spinozas „Ethik“. Gewöhnlich sehen wir die Dinge von uns aus. Was mir nützt, heißt gut, was mir schadet, schlecht, und alles ist auf meinen Zeitpunkt bezogen: jetzt, bald, zu spät. Spinoza hält das für eine verworrene Sicht. Die Vernunft kann Dinge so erkennen, wie sie mit Notwendigkeit aus dem Ganzen folgen, ohne Bezug auf mich und meine Stunde. Ein Dreieck hat seine Winkelsumme nicht heute oder morgen. So lässt sich auch ein Verlust oder das eigene Leben betrachten: als etwas, das im Zusammenhang der Natur so sein musste. Wer das kann, erfährt nach Spinoza die größte Ruhe und eine Art Liebe zum Ganzen.",
+   "beispiel": "Kubrick erzählt „Barry Lyndon“ aus dieser Entfernung: langsame Fahrten zurück, bis die Menschen kleine Figuren in einer Landschaft sind, und ein Erzähler, der das Ende kennt. In „2001“ liegt ein Mann im Bett und sieht sich selbst altern, als wäre sein Leben ein Gegenstand in einem Zimmer.",
+   "these": "Ruhe findet, wer die Dinge nicht mehr von sich aus betrachtet.",
+   "einwand": "Niemand lebt unter dem Blick der Ewigkeit. Wir lieben bestimmte Menschen an bestimmten Tagen, und das ist kein Irrtum. Wem der Tod seines Kindes als notwendiger Teil eines Ganzen erscheint, dem fehlt etwas. Diese Ruhe ist die Ruhe dessen, der sich herausgenommen hat. Vielleicht ist Unruhe der Preis dafür, wirklich beteiligt zu sein.",
+   "dafuer": "Das meiste, was dich aufreibt, hängt an „mir“ und „jetzt“: die Kränkung, die Frist, der Vergleich mit anderen. Nimm beides für einen Augenblick weg, und die Sache hat ein anderes Gewicht. Spinoza selbst war kein Unbeteiligter. Er hatte Freunde, stritt für Gedankenfreiheit und riskierte viel. Der weite Blick nahm ihm die Angst. Was sähe anders aus, wenn es nicht dir geschähe?",
+   "fragen": [
+    "Wie sähe dein heutiger Tag aus dieser Entfernung aus?",
+    "Welche Sache verliert dabei ihr Gewicht, und welche behält es?",
+    "Ist das für dich Trost oder Kälte?"
+   ]
   },
   {
    "d": "hume",
    "titel": "Das Bündel",
    "text": "Wenn Hume in sich hineinblickt, findet er immer nur eine einzelne Wahrnehmung, Wärme, Liebe, Schmerz, aber nie ein Ich, das sie hat. Das Selbst ist für ihn ein Bündel von Eindrücken, zusammengehalten von der Erinnerung.",
-   "frage": "Was findest du, wenn du nach deinem Ich suchst?"
+   "frage": "Was findest du, wenn du nach deinem Ich suchst?",
+   "idee": "David Hume, schottischer Philosoph des 18. Jahrhunderts, lässt nur gelten, was sich in der Erfahrung findet. Also sucht er auch das Ich in der Erfahrung. Wenn er in sich hineinblickt, schreibt er, stößt er immer auf irgendeine einzelne Wahrnehmung: Wärme oder Kälte, Licht oder Schatten, Liebe oder Hass, Schmerz oder Lust. Sich selbst ohne eine Wahrnehmung erwischt er nie. Ein bleibendes Ich, das all das hat, kommt in der Erfahrung nicht vor. Was wir Selbst nennen, ist für ihn ein Bündel von Eindrücken, die einander mit unbegreiflicher Schnelligkeit folgen. Er vergleicht den Geist mit einem Theater, auf dem Auftritte wechseln. Nur darf man sich kein Gebäude dazu denken. Dass wir uns für eine Person halten, liegt an Gedächtnis und Gewohnheit.",
+   "beispiel": "In „Memento“ fällt das Gedächtnis aus, und sofort zerfällt die Person in Auftritte, die nichts voneinander wissen. In „Persona“ lösen sich zwei Frauen ineinander auf, bis ihre Gesichter zu einem werden. In „The Prestige“ wird ein Mann jeden Abend verdoppelt, und keiner kann sagen, welcher von beiden er ist.",
+   "these": "Ein festes Ich gibt es nicht, nur einen Strom von Eindrücken.",
+   "einwand": "Wer sucht denn da? Hume schreibt „wenn ich in mich hineinblicke“. Für die Suche braucht er genau das, was er nicht findet. Ein Auge sieht sich selbst auch nicht und ist trotzdem da. Kant antwortete, ohne ein Ich, das die Eindrücke verbindet, gäbe es gar keine Erfahrung, nur Geflimmer. Und Verantwortung setzt voraus, dass der Täter von gestern ich bin.",
+   "dafuer": "Mach den Versuch. Setz dich hin und such dein Ich. Du findest einen Druck im Rücken, ein Geräusch, einen Gedanken an morgen, vielleicht Ungeduld. Den, der das hat, findest du nicht. Der Buddhismus lehrt dasselbe seit über zweitausend Jahren und hält die Einsicht für befreiend. Was genau müsste verteidigt werden, wenn da kein fester Kern ist?",
+   "fragen": [
+    "Was findest du, wenn du nach deinem Ich suchst?",
+    "Beunruhigt dich das Ergebnis, oder erleichtert es dich?",
+    "Was würde sich an deinen Kränkungen ändern, wenn da niemand Festes wäre, der gekränkt wird?"
+   ]
   },
   {
    "d": "kant",
