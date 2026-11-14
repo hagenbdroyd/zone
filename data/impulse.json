@@ -1294,13 +1294,33 @@
    "d": "arendt",
    "titel": "Denken ohne Geländer",
    "text": "So nannte Arendt ihr eigenes Vorgehen. Nach dem Bruch der Tradition im 20. Jahrhundert gibt es keine Handläufe mehr, an denen sich das Urteil festhalten könnte. Man muss selbst denken und kann dabei fallen.",
-   "frage": "An welchem Geländer hältst du dich beim Urteilen fest?"
+   "frage": "An welchem Geländer hältst du dich beim Urteilen fest?",
+   "idee": "Hannah Arendt wurde einmal gefragt, wo sie stehe, links oder rechts, liberal oder konservativ. Sie antwortete, sie wisse es nicht, und beschrieb ihr Vorgehen als Denken ohne Geländer. Wer eine Treppe hinaufgeht, kann sich am Handlauf halten. Im Denken waren das lange die überlieferten Begriffe, die Religion, die großen Lehren. Arendt meint, dieses Geländer sei im 20. Jahrhundert gebrochen. Für das, was in den Lagern geschah, gab es keinen Maßstab mehr, in den es sich einordnen ließ. Seitdem muss man urteilen, ohne sich auf fertige Kategorien verlassen zu können. Man sieht den einzelnen Fall an und entscheidet selbst. Das ist riskant, man kann stürzen. Arendt hat das erlebt: Für ihr Buch über Eichmann wurde sie von Freunden verstoßen.",
+   "beispiel": "In „Chernobyl“ halten sich die Verantwortlichen an das Geländer der Partei: Ein sowjetischer Reaktor explodiert nicht. Ein Wissenschaftler muss gegen alle Vorgaben sagen, was er sieht. In „The Hunt“ folgt ein Dorf dem Satz, dass Kinder nicht lügen, und sieht den einzelnen Fall nicht mehr an.",
+   "these": "Ein eigenes Urteil gibt es nur, wenn man sich an keine fertige Lehre hält.",
+   "einwand": "Niemand denkt ohne Geländer. Jeder Begriff, den Arendt benutzt, stammt aus einer Tradition, bei ihr aus der griechischen und deutschen. Wer meint, ganz frei zu urteilen, kennt seine Voraussetzungen nur nicht. Und Lehren speichern Erfahrung. Wer sie wegwirft, macht alte Fehler neu. Das einsame Urteil ist oft bloß Eigensinn mit gutem Gewissen.",
+   "dafuer": "Arendt wirft die Tradition nicht weg, sie liest sie ihr Leben lang. Sie weigert sich nur, sie als Schablone zu benutzen. Der Unterschied zeigt sich im Ernstfall. Wer fragt „Was sagt meine Seite dazu?“, bevor er hinsieht, hat nicht geurteilt. Prüf es bei einem Streitthema: Wusstest du deine Meinung, bevor du die Tatsachen kanntest?",
+   "fragen": [
+    "An welchem Geländer hältst du dich beim Urteilen fest?",
+    "Bei welchem Thema sagst du voraussagbar, was deine Seite sagt?",
+    "Wann hast du zuletzt ein Urteil vertreten, das dir Ärger bei den eigenen Leuten eingebracht hat?"
+   ]
   },
   {
    "d": "arendt",
    "titel": "Die Banalität des Bösen",
    "text": "Arendt sah in Eichmann keinen Dämon, sondern einen Mann, der sich weigerte nachzudenken, was er tat. Das Böse braucht keine Tiefe. Es kann sich ausbreiten wie ein Pilz auf der Oberfläche.",
-   "frage": "Wo machst du mit, ohne darüber nachzudenken?"
+   "frage": "Wo machst du mit, ohne darüber nachzudenken?",
+   "idee": "1961 reiste Hannah Arendt als Berichterstatterin nach Jerusalem zum Prozess gegen Adolf Eichmann, der die Transporte in die Vernichtungslager organisiert hatte. Sie erwartete ein Ungeheuer. Im Glaskasten saß ein Mann, der in Amtsdeutsch und Redensarten sprach, stolz auf seine Pflichterfüllung war und sich über ausgebliebene Beförderungen beklagte. Arendt prägte dafür das Wort von der Banalität des Bösen. Sie wollte nichts verharmlosen. Sie stellte fest, dass ungeheure Taten keine dämonischen Motive brauchen. Was sie an Eichmann fand, war Gedankenlosigkeit: die Unfähigkeit oder Weigerung, sich vorzustellen, was sein Tun für andere bedeutete. Das Böse habe keine Tiefe, schrieb sie später. Es könne die ganze Welt verwüsten, gerade weil es sich wie ein Pilz auf der Oberfläche ausbreitet.",
+   "beispiel": "In „Schindler's List“ wird die Vernichtung mit Schreibmaschinen, Stempeln und Listen verwaltet. Die meisten Beteiligten sind Beamte bei der Arbeit. In „Chernobyl“ führt keiner etwas Böses im Schild. Jeder befolgt Anweisungen und gibt Zahlen weiter, die oben gern gehört werden.",
+   "these": "Die größten Verbrechen werden von gewöhnlichen Menschen begangen, die nicht nachdenken.",
+   "einwand": "Eichmann hat Arendt getäuscht. Spätere Funde, etwa Gespräche aus seiner Zeit in Argentinien, zeigen einen überzeugten Judenhasser, der stolz auf sein Werk war. Er spielte vor Gericht den kleinen Beamten. Wer Verbrechen mit Gedankenlosigkeit erklärt, übersieht die Rolle von Hass und Überzeugung. Viele Täter wussten genau, was sie taten, und wollten es.",
+   "dafuer": "Selbst wenn Eichmann ein Überzeugter war: Für ein Verbrechen dieser Größe brauchte es Hunderttausende, Lokführer, Schreibkräfte, Buchhalter. Die waren nicht alle Fanatiker. Sie taten ihre Arbeit und fragten nicht weiter. Das berühmte Milgram-Experiment zeigte später, wie weit normale Leute auf Anweisung gehen. An welcher Stelle deines Alltags sagst du: Dafür bin ich nicht zuständig?",
+   "fragen": [
+    "Wo machst du mit, ohne darüber nachzudenken?",
+    "Was würdest du sehen, wenn du dir die Folgen bis zum Ende vorstelltest?",
+    "Ab welchem Punkt würdest du dich weigern, und woher weißt du das?"
+   ]
   },
   {
    "d": "beauvoir",
@@ -1308,79 +1328,209 @@
    "zitat": "Man kommt nicht als Frau zur Welt, man wird es.",
    "quelle": "Das andere Geschlecht",
    "text": "Beauvoir wendet Sartres Gedanken, dass die Existenz der Essenz vorausgeht, auf die Geschlechter an. Was als Natur gilt, ist das Ergebnis von Erziehung, Erwartung und Lage.",
-   "frage": "Was an dir hältst du für Natur, das dir beigebracht wurde?"
+   "frage": "Was an dir hältst du für Natur, das dir beigebracht wurde?",
+   "idee": "Simone de Beauvoir veröffentlichte 1949 „Das andere Geschlecht“. Der Satz, man komme nicht als Frau zur Welt, man werde es, eröffnet den zweiten Band. Dahinter steht der Gedanke ihres Gefährten Sartre, dass der Mensch kein festes Wesen hat und sich zu dem macht, was er ist. Beauvoir fragt, warum das für Frauen nicht gelten soll. Sie geht die Stationen durch: wie Mädchen anders angefasst, gelobt, gewarnt und angezogen werden, welche Geschichten man ihnen erzählt, welche Berufe ihnen offenstehen. Was am Ende als weibliche Natur erscheint, Sanftheit, Sorge, Zurückhaltung, ist das Ergebnis. Der Mann gilt als der Normalfall, die Frau als das Andere. Den Körper leugnet Beauvoir nicht. Sie bestreitet, dass er ein Schicksal festlegt.",
+   "beispiel": "In „Summer with Monika“ wird eine junge Frau dafür verurteilt, dass sie Kind und Haushalt verlässt, etwas, das bei Männern ihrer Zeit kaum auffiel. In „Persona“ soll eine Schauspielerin Mutter sein und kann das Kind nicht lieben. Almodóvars „The Skin I Live In“ dreht die Frage um: Macht ein Körper eine Frau?",
+   "these": "Vieles, was wir für angeborene Natur halten, wurde uns beigebracht.",
+   "einwand": "Die Biologie lässt sich nicht wegreden. Hormone, Schwangerschaft und Körperkraft unterscheiden die Geschlechter im Durchschnitt, und manche Unterschiede im Verhalten zeigen sich schon bei Säuglingen und in sehr verschiedenen Kulturen. Wer alles für anerzogen hält, wiederholt nur den umgekehrten Fehler. Wahrscheinlich wirken Anlage und Erziehung zusammen, und die Grenze ist unklar.",
+   "dafuer": "Beauvoir bestreitet die Biologie nicht, sie bestreitet die Schlüsse daraus. Dass Frauen nicht studieren, wählen oder Ärztin sein könnten, galt einmal als Natur und war keine. Die Probe gilt für jeden: Was „liegt dir einfach nicht“? Rechnen, Weinen, Führen, Trösten? Wie oft hast du es geübt, und wer hat dir früh gesagt, das sei nichts für dich?",
+   "fragen": [
+    "Was an dir hältst du für Natur, das dir beigebracht wurde?",
+    "Wer hat es dir beigebracht, und mit welchen Sätzen?",
+    "Was hättest du versucht, wenn dir niemand gesagt hätte, wie jemand wie du zu sein hat?"
+   ]
   },
   {
    "d": "benjamin",
    "titel": "Der Engel der Geschichte",
    "text": "Benjamin beschreibt einen Engel, der mit dem Rücken zur Zukunft fliegt. Wo wir eine Kette von Ereignissen sehen, sieht er eine einzige Katastrophe, die Trümmer auf Trümmer häuft. Ein Sturm treibt ihn fort, und diesen Sturm nennen wir Fortschritt.",
-   "frage": "Was übersieht, wer nur nach vorn schaut?"
+   "frage": "Was übersieht, wer nur nach vorn schaut?",
+   "idee": "Walter Benjamin besaß ein kleines Bild von Paul Klee, den „Angelus Novus“. 1940, auf der Flucht vor den Nationalsozialisten und wenige Monate vor seinem Tod, schrieb er Thesen über die Geschichte. In der neunten deutet er das Bild. Der Engel hat die Augen aufgerissen, der Mund steht offen, die Flügel sind gespannt. So müsse der Engel der Geschichte aussehen. Sein Gesicht ist der Vergangenheit zugewandt. Wo wir eine Kette von Begebenheiten sehen, sieht er eine einzige Katastrophe, die unablässig Trümmer auf Trümmer häuft. Er möchte bleiben, die Toten wecken und das Zerschlagene zusammenfügen. Aber vom Paradies her weht ein Sturm, der sich in seinen Flügeln verfängt und ihn in die Zukunft treibt. Diesen Sturm, schreibt Benjamin, nennen wir Fortschritt.",
+   "beispiel": "In „Wings of Desire“ sehen Engel auf Berlin, eine Stadt aus Brachen und Mauern, und ein alter Mann sucht den Potsdamer Platz, den es nicht mehr gibt. In „Mirror“ unterbrechen Wochenschauen aus dem Krieg die Erinnerungen eines Mannes. „Threads“ zeigt, wohin der Sturm im schlimmsten Fall weht.",
+   "these": "Was wir Fortschritt nennen, ist von der anderen Seite gesehen ein Haufen Trümmer.",
+   "einwand": "Benjamin schrieb im dunkelsten Jahr Europas, und das merkt man. Seitdem hat sich die Lebenserwartung verdoppelt, die Kindersterblichkeit ist eingebrochen, Hunger und Analphabetismus sind zurückgegangen. Das ist Fortschritt, und wer ihn bestreitet, tut es meist aus einer warmen Wohnung. Nur Trümmer zu sehen, ist so einseitig wie nur Triumphe zu sehen.",
+   "dafuer": "Benjamin leugnet keine Impfung. Er fragt, wer die Rechnung bezahlt hat und in keiner Siegesgeschichte vorkommt: die Zwangsarbeiter unter den Prachtbauten, die verschwundenen Völker, die gerodeten Wälder. Geschichte wird von den Übriggebliebenen geschrieben. Das gilt auch im eigenen Leben. Was musste weichen, damit du dorthin kamst, wo du bist, und wer redet nicht mehr mit?",
+   "fragen": [
+    "Was übersieht, wer nur nach vorn schaut?",
+    "Was liegt in deiner eigenen Geschichte als Trümmer hinter dir?",
+    "Was davon würdest du, wie der Engel, gern wieder zusammenfügen?"
+   ]
   },
   {
    "d": "foucault",
    "titel": "Der innere Aufseher",
    "text": "Im Panoptikum kann ein Wächter alle Zellen einsehen, ohne selbst gesehen zu werden. Die Insassen wissen nie, ob er hinschaut, und überwachen sich deshalb selbst. Für Foucault ist das die Formel moderner Macht.",
-   "frage": "Für welchen unsichtbaren Zuschauer benimmst du dich?"
+   "frage": "Für welchen unsichtbaren Zuschauer benimmst du dich?",
+   "idee": "Der Engländer Jeremy Bentham entwarf Ende des 18. Jahrhunderts ein Gefängnis, das er Panoptikum nannte. Die Zellen liegen im Kreis, jede zur Mitte hin offen und von hinten beleuchtet. In der Mitte steht ein Turm mit verdunkelten Fenstern. Ein Aufseher kann jeden sehen, die Gefangenen sehen ihn nie. Sie wissen nicht, ob gerade jemand hinschaut, also müssen sie sich jederzeit so verhalten, als wäre es so. Michel Foucault sah darin 1975 das Modell moderner Macht. Sie braucht keine Ketten und wenig Personal. Der Überwachte übernimmt die Aufsicht selbst. Er trägt den Aufseher im Kopf. Foucault fand dasselbe Prinzip in Schulen, Kasernen, Fabriken und Krankenhäusern: Sichtbarkeit erzeugt Gehorsam. Der Turm kann leer sein, die Wirkung bleibt.",
+   "beispiel": "In „Shut Up and Dance“ gehorcht ein Junge unbekannten Leuten, weil sie ihn durch seine Laptopkamera gesehen haben. In „The Truman Show“ sind fünftausend Kameras auf einen Mann gerichtet, der nichts davon weiß. In „The Dark Knight“ macht Batman jedes Telefon der Stadt zum Ohr.",
+   "these": "Wir verhalten uns so, wie wir es tun, weil wir uns beobachtet fühlen.",
+   "einwand": "Menschen sind auch anständig, wenn niemand hinsieht. Sie geben gefundene Geldbörsen zurück und helfen Fremden, die sie nie wiedersehen. Das kommt aus Überzeugung und Mitgefühl. Foucault macht aus jedem Gewissen einen eingebauten Polizisten. Dann gäbe es keinen Unterschied mehr zwischen einem guten Menschen und einem gut überwachten.",
+   "dafuer": "Mach die Probe an Kleinigkeiten. Wie isst du allein, wie in Gesellschaft? Wie fährst du, wenn eine Kamera am Straßenrand steht? Was schreibst du, seit jeder Beitrag gespeichert wird? Das Gewissen hast du gelernt, unter Blicken von Eltern und Lehrern. Wie viel davon Überzeugung wurde, zeigt sich erst im Dunkeln. Was tust du nur dort?",
+   "fragen": [
+    "Für welchen unsichtbaren Zuschauer benimmst du dich?",
+    "Wessen Stimme hat dein innerer Aufseher?",
+    "Was würdest du anders machen, wenn du sicher wüsstest, dass der Turm leer ist?"
+   ]
   },
   {
    "d": "jaspers",
    "titel": "Grenzsituationen",
    "text": "Dass ich sterben muss, leide, schuldig werde und dem Zufall ausgeliefert bin, lässt sich nicht ändern oder umgehen. Jaspers nennt das Grenzsituationen. An ihnen scheitern wir oder werden wir selbst.",
-   "frage": "Welche Grenzsituation hat dich verändert?"
+   "frage": "Welche Grenzsituation hat dich verändert?",
+   "idee": "Karl Jaspers war Psychiater, bevor er Philosophie lehrte. Er unterscheidet zwei Arten von Lagen. Die meisten Situationen lassen sich ändern oder vermeiden: Man wechselt die Stelle, zieht um, findet eine Lösung. Einige gehören zum Menschsein selbst und lassen sich nicht umgehen. Ich muss sterben. Ich muss leiden. Ich muss kämpfen. Ich werde schuldig, was immer ich tue. Ich bin dem Zufall ausgeliefert. Jaspers nennt sie Grenzsituationen. Sie sind wie eine Wand, an die man stößt. Im Alltag weichen wir aus und leben, als gäbe es sie nicht. Erfährt man sie wirklich, etwa am Bett eines Sterbenden, zerbricht das Gehäuse aus Gewohnheiten. Jaspers sieht darin die Möglichkeit, zu sich selbst zu kommen. Er nennt das Existenz.",
+   "beispiel": "In „Das Boot“ liegen fünfzig Männer in 280 Meter Tiefe auf Grund, und die Luft geht aus. Nichts, was sie gelernt haben, hilft noch. In „Sound of Metal“ verliert ein Musiker über Nacht sein Gehör. In „Winter Light“ steht ein Pfarrer vor der Leiche eines Mannes, dem er nicht helfen konnte.",
+   "these": "Erst an den Grenzen, an denen nichts mehr hilft, wird ein Mensch er selbst.",
+   "einwand": "Leid veredelt nicht. Viele Menschen werden durch Krankheit, Krieg oder Verlust bitter, ängstlich oder stumpf. Wer das Scheitern zur Schule der Persönlichkeit erklärt, redet es schön. Und wäre der Satz wahr, dann wären glückliche Menschen, denen wenig zustößt, nie sie selbst gewesen. Das ist eine seltsame Vorstellung vom gelungenen Leben.",
+   "dafuer": "Jaspers sagt nicht, dass Leid gut ist. Er sagt, dass man an der Grenze nicht mehr ausweichen kann. Solange alles läuft, tragen einen Rollen und Routinen. Fällt das weg, zeigt sich, was übrig bleibt und woran man sich hält. Viele berichten nach einer schweren Zeit, sie wüssten jetzt, was zählt. Wünschen würde man sich das nicht. Was weißt du seit deiner schwersten Zeit?",
+   "fragen": [
+    "Welche Grenzsituation hat dich verändert?",
+    "Was ist damals von dir abgefallen, und was ist geblieben?",
+    "Welcher der fünf, Tod, Leid, Kampf, Schuld, Zufall, weichst du am beharrlichsten aus?"
+   ]
   },
   {
    "d": "frankl",
    "titel": "Die letzte Freiheit",
    "text": "Frankl beobachtete im Lager Menschen, die ihr letztes Brot verschenkten. Sie beweisen für ihn, dass dem Menschen alles genommen werden kann außer der Freiheit, sich zu den gegebenen Verhältnissen so oder so einzustellen.",
-   "frage": "Wozu hast du dich zuletzt bewusst eingestellt, statt nur zu reagieren?"
+   "frage": "Wozu hast du dich zuletzt bewusst eingestellt, statt nur zu reagieren?",
+   "idee": "Viktor Frankl, Arzt aus Wien, überlebte Theresienstadt, Auschwitz und zwei Außenlager von Dachau. Seine Eltern, sein Bruder und seine Frau wurden ermordet. Kurz nach der Befreiung schrieb er in wenigen Tagen seinen Bericht. Darin schildert er, was das Lager aus Menschen machte: Abstumpfung, Reizbarkeit, den Kampf um ein Stück Brot. Und er schildert Ausnahmen. Es gab Häftlinge, die durch die Baracken gingen, andere trösteten und ihren letzten Bissen hergaben. Es waren wenige, schreibt er, aber sie beweisen etwas. Man kann einem Menschen alles nehmen, nur nicht die letzte der menschlichen Freiheiten: sich zu den gegebenen Verhältnissen so oder so einzustellen. Zwischen dem, was mir geschieht, und dem, wie ich darauf antworte, bleibt ein Spielraum.",
+   "beispiel": "In „The Pianist“ behält ein Mann im Versteck eine einzige Sache: Er bewegt die Finger über den Tasten und spielt in Gedanken. In „Shame“ von Bergman geschieht das Gegenteil. Ein empfindsamer Musiker gerät in einen Krieg und wird Schritt für Schritt zu jemandem, der für ein Paar Stiefel tötet.",
+   "these": "Wie ich mich zu meiner Lage stelle, kann mir niemand nehmen.",
+   "einwand": "Frankl sagt selbst, es seien wenige gewesen. Die meisten zerbrachen, und sie waren nicht schwächer oder schlechter. Hunger, Schlafentzug und Folter verändern das Gehirn, und danach gibt es keine innere Burg mehr. Der Satz kann zum Vorwurf werden: Du hättest dich nur anders einstellen müssen. Gegenüber Opfern ist das eine zweite Kränkung.",
+   "dafuer": "Frankl macht niemandem einen Vorwurf. Er berichtet, dass es möglich war, sogar dort. Daraus folgt für gewöhnliche Lagen viel. Im Stau, nach einer Absage, bei einer Diagnose fühlt es sich an, als gäbe es nur eine Reaktion. Es gibt mehrere. Zwischen Anlass und Antwort liegt ein Augenblick, in dem du wählst, meist ohne es zu merken. Wo hast du ihn zuletzt bemerkt?",
+   "fragen": [
+    "Wozu hast du dich zuletzt bewusst eingestellt, statt nur zu reagieren?",
+    "In welcher Lage glaubst du, keine Wahl zu haben, wie du sie nimmst?",
+    "Wie würde jemand, den du bewunderst, sich in ihr verhalten?"
+   ]
   },
   {
    "d": "han",
    "titel": "Müdigkeit",
    "text": "Die Disziplinargesellschaft sagte „Du sollst“, die Leistungsgesellschaft sagt „Du kannst“. Das klingt nach Freiheit und erzeugt Erschöpfung, weil Antreiber und Angetriebener dieselbe Person sind.",
-   "frage": "Wann hast du zuletzt etwas getan, das zu nichts nütze war?"
+   "frage": "Wann hast du zuletzt etwas getan, das zu nichts nütze war?",
+   "idee": "Der in Korea geborene Berliner Philosoph Byung-Chul Han beschreibt 2010 einen Wechsel. Die Gesellschaft, die Foucault untersuchte, arbeitete mit Verboten: Du sollst, du darfst nicht. Ihre Orte waren Kaserne, Fabrik, Gefängnis, ihre Krankheiten kamen von zu viel Zwang. Heute, sagt Han, herrscht das Können. Yes we can. Jeder ist Unternehmer seiner selbst, soll sich entfalten, optimieren, Projekte haben. Es steht kein Aufseher mehr daneben, denn man treibt sich selbst an. Das fühlt sich wie Freiheit an und ist wirksamer als jeder Befehl, weil sich gegen den eigenen Antreiber niemand auflehnt. Die Folge ist eine neue Art von Leiden: Erschöpfung, Ausgebranntsein, Depression. Der Mensch beutet sich aus und hält es für Verwirklichung. Han lobt dagegen die Langeweile und das zwecklose Verweilen.",
+   "beispiel": "In „Nightcrawler“ spricht ein Mann in Sätzen aus Karriereratgebern, schläft kaum und betrachtet jedes Unglück als Gelegenheit. Er hat keinen Chef und braucht keinen. In „Fight Club“ fliegt ein Angestellter von Termin zu Termin und liegt nachts wach. In „Common People“ kostet am Ende selbst der Schlaf Geld.",
+   "these": "Heute beuten wir uns selbst aus und halten es für Freiheit.",
+   "einwand": "Für Paketboten, Pflegekräfte und Arbeiter in Textilfabriken stimmt das nicht. Sie werden von anderen ausgebeutet, mit Stoppuhr und Kündigungsdrohung, ganz altmodisch. Han beschreibt das Lebensgefühl von Akademikern und Kreativen in Großstädten. Wer daraus eine Diagnose der ganzen Gesellschaft macht, lässt die verschwinden, die wirklich einen Aufseher haben.",
+   "dafuer": "Für viele trifft es dennoch zu. Sieh nach, wer dich antreibt, wenn du abends noch Nachrichten beantwortest, Schritte zählst oder im Urlaub ein schlechtes Gewissen hast. Kein Vorgesetzter hat es verlangt. Du selbst führst die Liste und bist nie fertig. Gegen einen Chef kann man streiken, gegen sich selbst nicht. Wann hast du zuletzt nichts getan und es ausgehalten?",
+   "fragen": [
+    "Wann hast du zuletzt etwas getan, das zu nichts nütze war?",
+    "Wie ging es dir dabei: ruhig oder schuldig?",
+    "Welches deiner „Ich will“ ist in Wahrheit ein „Ich muss“?"
+   ]
   },
   {
    "d": "girard",
    "titel": "Geliehenes Begehren",
    "text": "Wir begehren nach Girard nicht aus uns selbst. Wir wollen, was ein anderer will, den wir bewundern. So werden Vorbilder zu Rivalen, und aus Nachahmung wächst Gewalt.",
-   "frage": "Welcher deiner Wünsche stammt von jemand anderem?"
+   "frage": "Welcher deiner Wünsche stammt von jemand anderem?",
+   "idee": "René Girard, Literaturwissenschaftler aus Frankreich, fand in den großen Romanen ein Muster. Wir glauben, unsere Wünsche kämen aus uns selbst oder vom begehrten Gegenstand. Girard sagt, sie verlaufen im Dreieck. Zwischen mir und dem, was ich will, steht ein Dritter, ein Vorbild, das es schon will oder hat. Ich begehre, was der andere begehrt, und dadurch wird es für mich begehrenswert. Er nennt das mimetisches Begehren, also nachahmendes. Kinder zeigen es offen: Von zehn Spielzeugen wird das interessant, nach dem ein anderes Kind greift. Daraus folgt Streit. Wenn beide dasselbe wollen, wird das Vorbild zum Rivalen. Je ähnlicher sie sich werden, desto heftiger. Girard erklärt so Eifersucht, Moden, Konkurrenz und am Ende die Gewalt ganzer Gemeinschaften.",
+   "beispiel": "In „The Prestige“ will jeder der beiden Zauberer den Trick des anderen, dessen Frau, dessen Ruhm. Sie zerstören sich, weil sie einander gleichen. In „The King of Comedy“ will ein Mann exakt das Leben eines Fernsehstars, bis hin zum Schreibtisch. In „There Will Be Blood“ hassen sich ein Prediger und ein Ölmann, weil sie dasselbe wollen.",
+   "these": "Wir wollen, was andere wollen, und halten es für unseren eigenen Wunsch.",
+   "einwand": "Hunger, Durst, Schlaf und Lust kommen aus dem Körper und brauchen kein Vorbild. Auch viele Neigungen sind früh da: Ein Kind liebt Musik, ohne dass es jemand vormacht. Girard erklärt mit einem einzigen Schlüssel alles, von der Werbung bis zur Religion, und solche Schlüssel passen meist zu gut. Manches will man einfach, weil es gut ist.",
+   "dafuer": "Girard meint nicht den Hunger, er meint die Richtung. Du hast Hunger und willst gerade in das Lokal, vor dem eine Schlange steht. Frag bei Berufswunsch, Reiseziel, Wohnung oder Partner: Wann wurde es reizvoll? Oft in dem Moment, als jemand, den du schätzt oder beneidest, es hatte. Die ganze Werbung baut darauf. Wessen Wunsch lebst du gerade?",
+   "fragen": [
+    "Welcher deiner Wünsche stammt von jemand anderem?",
+    "Wer war das Vorbild, und was empfindest du heute für diesen Menschen?",
+    "Was würdest du wollen, wenn niemand zusähe und niemand es schon hätte?"
+   ]
   },
   {
    "d": "jonas",
    "titel": "Ein neuer Imperativ",
    "text": "Kants Ethik galt dem Nächsten und der Gegenwart. Seit die Technik in die ferne Zukunft wirkt, verlangt Jonas mehr: so zu handeln, dass auch künftig Menschen ein menschenwürdiges Leben führen können. Im Zweifel hat die schlechte Prognose Vorrang.",
-   "frage": "Was tust du heute, das erst andere bezahlen werden?"
+   "frage": "Was tust du heute, das erst andere bezahlen werden?",
+   "idee": "Hans Jonas musste 1933 aus Deutschland fliehen. Seine Mutter wurde in Auschwitz ermordet. 1979 erschien sein Buch „Das Prinzip Verantwortung“. Die Ausgangslage: Alle frühere Ethik regelte den Umgang unter Zeitgenossen. Was ich tat, betraf die Menschen um mich, und die Natur blieb, was sie war. Die moderne Technik hat das geändert. Atomkraft, Chemie, Eingriffe ins Erbgut wirken über Jahrhunderte und über den ganzen Planeten. Zum ersten Mal kann die Menschheit ihre eigene Zukunft zerstören. Jonas formuliert deshalb einen neuen Imperativ: Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden. Dazu gehört eine Regel für die Unsicherheit. Wenn viel auf dem Spiel steht, zählt die schlechte Prognose mehr als die gute.",
+   "beispiel": "In „Interstellar“ haben frühere Generationen die Erde verbraucht, und die Kinder atmen Staub. In „Chernobyl“ schaufeln junge Soldaten für neunzig Sekunden strahlenden Schutt vom Dach. Der Sarkophag muss länger halten, als es die Staaten gibt, die ihn gebaut haben. In „Threads“ wächst nach dem Krieg eine Generation fast ohne Sprache auf.",
+   "these": "Wir sind für Menschen verantwortlich, die erst in hundert Jahren leben.",
+   "einwand": "Wer noch nicht existiert, hat keine Rechte und keine Wünsche, die man verletzen könnte. Wir wissen nicht, was Menschen in hundert Jahren brauchen und können. Frühere Generationen hätten uns aus lauter Vorsicht Kohle und Antibiotika versagt. Und im Namen der Zukunft lassen sich den Lebenden, vor allem den Armen, beliebige Opfer abverlangen.",
+   "dafuer": "Wer eine Glasscherbe im Wald vergräbt, an der sich in fünfzig Jahren ein Kind schneidet, hat diesem Kind geschadet, auch wenn es heute noch nicht lebt. Der zeitliche Abstand ändert nichts an der Ursache. Früher konnten wir so weit nicht wirken, also mussten wir so weit nicht denken. Das ist vorbei. Welche deiner Gewohnheiten hinterlässt etwas, das dich überdauert?",
+   "fragen": [
+    "Was tust du heute, das erst andere bezahlen werden?",
+    "Worauf würdest du verzichten, wenn die Betroffenen dir gegenübersäßen?",
+    "Wie weit in die Zukunft reicht dein Mitgefühl: Kinder, Enkel, weiter?"
+   ]
   },
   {
    "d": "tarkowski",
    "titel": "Versiegelte Zeit",
    "text": "Tarkowski nennt das Filmen ein Bildhauern aus Zeit. Wie der Bildhauer vom Marmor alles wegschlägt, was nicht zur Figur gehört, nimmt der Regisseur aus einem Block gelebter Zeit das Überflüssige weg. Der Rhythmus einer Einstellung ist der Druck der Zeit in ihr.",
-   "frage": "Bei welcher Einstellung hast du die Zeit selbst gespürt?"
+   "frage": "Bei welcher Einstellung hast du die Zeit selbst gespürt?",
+   "idee": "Andrei Tarkowski hat seine Gedanken über das Kino in einem Buch gesammelt, das auf Deutsch „Die versiegelte Zeit“ heißt. Er fragt, was der Film kann, das keine andere Kunst kann. Seine Antwort: Zum ersten Mal lässt sich Zeit unmittelbar festhalten und beliebig oft wiedergeben. Der Film bewahrt wirkliche Zeit auf wie in einer Kapsel. Der Regisseur arbeitet deshalb wie ein Bildhauer. Vor ihm liegt ein gewaltiger Block gelebter Zeit, und er schlägt weg, was nicht dazugehört. Tarkowski lehnt die Lehre ab, Film entstehe erst durch den Schnitt, wie Eisenstein meinte. Der Rhythmus liegt für ihn in der einzelnen Einstellung, in dem Druck, mit dem die Zeit durch sie hindurchläuft. Ein Bach fließt anders als ein Wasserfall. Schneiden heißt, Stücke mit passendem Zeitdruck zu verbinden.",
+   "beispiel": "In „Stalker“ fahren drei Männer minutenlang auf einer Draisine in die Zone. Man sieht nur ihre Hinterköpfe und hört das Schlagen der Schienen. Nichts geschieht, und danach ist man woanders. In „Mirror“ geht ein Windstoß durch ein Feld, und der Film wartet, bis er vorüber ist.",
+   "these": "Eine lange Einstellung, in der nichts geschieht, kann mehr sagen als jede Handlung.",
+   "einwand": "Oft ist Langsamkeit nur Pose. Viele Filme dehnen ihre Bilder, um bedeutend zu wirken, und haben nichts zu zeigen. Hitchcock nannte das Kino das Leben, aus dem man die langweiligen Stellen herausgeschnitten hat. Tempo, Schnitt und Geschichte haben mindestens so große Werke hervorgebracht. Wer bei Tarkowski einschläft, ist kein Banause.",
+   "dafuer": "Im schnellen Film sagt dir jeder Schnitt, wohin du sehen sollst. In der langen Einstellung musst du es selbst entscheiden und beginnst wirklich zu schauen: das Wasser, eine Hand, das Licht, das sich ändert. Du spürst, dass Zeit vergeht, deine eigene. Das kann kein Roman und kein Gemälde. Bei welcher Einstellung hast du zuletzt vergessen, auf den nächsten Schnitt zu warten?",
+   "fragen": [
+    "Bei welcher Einstellung hast du die Zeit selbst gespürt?",
+    "Was hast du in ihr gesehen, das du bei einem Schnitt verpasst hättest?",
+    "Wo in deinem Alltag schneidest du zu schnell?"
+   ]
   },
   {
    "d": "tarkowski",
    "titel": "Wozu Kunst?",
    "text": "Kunst soll für Tarkowski weder unterhalten noch belehren. Sie soll den Menschen auf den Tod vorbereiten, seine Seele pflügen und auflockern, damit sie fähig wird, sich dem Guten zuzuwenden.",
-   "frage": "Welcher Film hat an dir gearbeitet, statt dich zu unterhalten?"
+   "frage": "Welcher Film hat an dir gearbeitet, statt dich zu unterhalten?",
+   "idee": "Tarkowski hatte eine strenge Vorstellung davon, wozu Kunst da ist. Unterhaltung lehnte er ab, ebenso Kunst, die eine Meinung verbreiten will. In „Die versiegelte Zeit“ schreibt er, das Ziel der Kunst sei es, den Menschen auf seinen Tod vorzubereiten, seine Seele umzupflügen und aufzulockern, damit sie fähig wird, sich dem Guten zuzuwenden. Das Bild stammt vom Acker: Harter Boden nimmt nichts auf. Ein Kunstwerk argumentiert für ihn nicht, es erschüttert. Der Künstler ist dabei eher Diener als Schöpfer. Seine Begabung ist ihm gegeben, und er schuldet sie ab. Tarkowski verglich das Kunstwerk mit einem Gebet und beklagte, dass der moderne Mensch verlernt habe, ein Bild einfach aufzunehmen. Er frage sofort, was es bedeute.",
+   "beispiel": "„The Sacrifice“ war Tarkowskis letzter Film. Er drehte ihn, als er schon krank war, und widmete ihn seinem Sohn. Ein Mann gibt alles hin, damit die Welt weiterbesteht. Am Ende gießt ein Kind einen toten Baum. Bergman sagte über Tarkowski, er bewege sich in einem Raum, an dessen Tür er selbst nur klopfe.",
+   "these": "Kunst soll den Menschen verändern und nicht unterhalten.",
+   "einwand": "Das ist eine Predigt. Menschen haben ein Recht auf Lachen, Spannung und zwei leichte Stunden nach der Arbeit. Chaplin und Hitchcock haben unterhalten und sind große Kunst. Wer Kunst zur Seelsorge erklärt, macht den Künstler zum Priester und das Publikum zur Gemeinde. Und wer bestimmt, was „das Gute“ ist, dem sich die Seele zuwenden soll?",
+   "dafuer": "Frag dich, welche Filme du nach zehn Jahren noch in dir trägst. Meist sind es die, nach denen du nicht sofort reden wolltest. Sie haben etwas verschoben, deine Sicht auf den Tod, auf deine Eltern, auf dich. Unterhaltung vergeht mit dem Abend. Tarkowski verlangt nur, dass es auch das andere gibt. Welcher Film hat an dir etwas verändert, das geblieben ist?",
+   "fragen": [
+    "Welcher Film hat an dir gearbeitet, statt dich zu unterhalten?",
+    "Was genau war danach anders?",
+    "Suchst du solche Filme, oder weichst du ihnen manchmal aus, und warum?"
+   ]
   },
   {
    "d": "parfit",
    "titel": "Worauf es ankommt",
    "text": "Parfit kommt zu dem Schluss, dass es kein tiefes, unteilbares Ich gibt, nur verbundene Erfahrungen und Erinnerungen. Er fand das befreiend: Die Wände seines Glastunnels verschwanden, und der Tod erschien ihm weniger schlimm.",
-   "frage": "Wäre dein Leben leichter oder schwerer ohne ein festes Ich?"
+   "frage": "Wäre dein Leben leichter oder schwerer ohne ein festes Ich?",
+   "idee": "Der englische Philosoph Derek Parfit stellt 1984 ein Gedankenexperiment vor. Ein Gerät tastet deinen Körper ab, zerstört ihn und baut auf dem Mars aus neuer Materie eine genaue Kopie, mit allen Erinnerungen und Eigenheiten. Bist du gereist oder gestorben? Und wenn das Original versehentlich stehen bleibt: Wer von beiden bist du? Parfit meint, auf solche Fragen gebe es keine Antwort, weil es kein tiefes, unteilbares Ich gibt, an dem sie hinge. Es gibt einen Körper, ein Gehirn und eine Kette verbundener Erlebnisse, Erinnerungen und Absichten. Worauf es ankommt, ist diese Verbindung, nicht ein Kern dahinter. Er fand das befreiend. Vorher habe er wie in einem Glastunnel gelebt, an dessen Ende Dunkelheit war. Die Wände seien verschwunden, und andere Menschen seien ihm näher.",
+   "beispiel": "„The Prestige“ führt die Maschine vor: Jeden Abend entsteht ein zweiter Mann, und einer ertrinkt. In „San Junipero“ werden Menschen nach dem Tod auf Server geladen und leben dort weiter. Ob das dieselben sind, fragt die Folge nicht. In „Solaris“ entsteht eine Tote neu aus der Erinnerung eines anderen.",
+   "these": "Es gibt kein festes Ich, und das ist eine gute Nachricht.",
+   "einwand": "Wenn morgen jemand mit meinen Erinnerungen aufwacht und ich heute Nacht sterbe, ist mir das kein Trost. Ich will weiterleben, keine Fortsetzung durch einen anderen. Ohne ein Ich, das bleibt, verlieren Versprechen, Schuld und Vorsorge ihren Sinn. Warum sparen für jemanden, der nur mit mir „verbunden“ ist? Parfits Gelassenheit fühlt kaum jemand.",
+   "dafuer": "Du bist schon jetzt mit dem Kind, das du warst, nur lose verbunden und kümmerst dich doch um den Menschen, der du in dreißig Jahren sein wirst. Die Grenze zwischen dir und anderen ist also weniger scharf als gedacht. Wer das einsieht, hat weniger Angst um sich und mehr übrig für andere. Bei Parfit war das so. Was verteidigst du, wenn du „mich“ verteidigst?",
+   "fragen": [
+    "Wäre dein Leben leichter oder schwerer ohne ein festes Ich?",
+    "Würdest du in den Teletransporter steigen?",
+    "Was an dir müsste bleiben, damit du sagen würdest: Das bin noch ich?"
+   ]
   },
   {
    "d": "nozick",
    "titel": "Die Erlebnismaschine",
    "text": "Eine Maschine könnte dir jedes gewünschte Erlebnis vorspielen, ein Leben lang, und du wüsstest nichts davon. Würdest du einsteigen? Nozick meint, nein: Wir wollen Dinge tun und jemand sein, nicht nur etwas fühlen.",
-   "frage": "Würdest du einsteigen?"
+   "frage": "Würdest du einsteigen?",
+   "idee": "Robert Nozick, Philosoph in Harvard, stellt 1974 eine Frage, die seither in jedem Ethikkurs vorkommt. Angenommen, es gäbe eine Maschine, die dir jedes Erlebnis geben kann, das du dir wünschst. Du schwebst in einem Tank mit Elektroden am Kopf und meinst, einen großen Roman zu schreiben, Freunde zu haben, geliebt zu werden. Du merkst nicht, dass es nicht echt ist. Würdest du dich für den Rest deines Lebens anschließen? Nozick erwartet, dass die meisten ablehnen, und nennt drei Gründe. Wir wollen bestimmte Dinge tun, nicht nur das Gefühl haben, sie zu tun. Wir wollen jemand Bestimmtes sein, und im Tank ist man ein Klumpen. Und wir wollen Kontakt zu einer Wirklichkeit, die tiefer reicht als das von Menschen Gemachte. Also zählt mehr als gutes Erleben.",
+   "beispiel": "„San Junipero“ antwortet mit Ja: Zwei Frauen entscheiden sich für das ewige Leben in einer Simulation, und der Film freut sich mit ihnen. In „The Matrix“ will Cypher zurück und verlangt nur, sich an nichts zu erinnern. In „World on a Wire“ ist die Frage hinfällig. Der Held war nie draußen.",
+   "these": "Ein Leben voller schöner Erlebnisse, die nicht echt sind, wäre kein gutes Leben.",
+   "einwand": "Vielleicht lehnen wir nur ab, weil wir am Gewohnten hängen. Dreh die Frage um: Du erfährst, dass du schon in der Maschine bist und draußen ein graues Leben wartet. Willst du hinaus? Viele zögern. Und wer starke Schmerzen hat oder schwer depressiv ist, würde sofort einsteigen. Der Wert der Wirklichkeit ist ein Luxus derer, denen es gut geht.",
+   "dafuer": "Stell dir vor, deine Freunde mögen dich nicht wirklich, sie werden dafür bezahlt, und du wirst es nie erfahren. Fühlen würdest du dasselbe wie jetzt. Trotzdem willst du das nicht. Offenbar ist dir wichtig, dass es stimmt, und nicht nur, wie es sich anfühlt. Dasselbe gilt für deine Leistungen. Was in deinem Leben wäre wertlos, wenn es nur so schiene?",
+   "fragen": [
+    "Würdest du einsteigen?",
+    "Und wenn du erführest, dass du schon drin bist: Würdest du aussteigen?",
+    "Was ist dir so wichtig, dass es echt sein muss, auch wenn es weniger angenehm ist?"
+   ]
   },
   {
    "d": "debord",
    "titel": "Das Spektakel",
    "text": "Das Spektakel ist für Debord keine Sammlung von Bildern, sondern ein Verhältnis zwischen Menschen, das durch Bilder vermittelt ist. Was erscheint, gilt als gut, und was gut ist, erscheint.",
-   "frage": "Was hast du zuletzt erlebt, ohne es zu zeigen?"
+   "frage": "Was hast du zuletzt erlebt, ohne es zu zeigen?",
+   "idee": "Guy Debord veröffentlichte 1967 in Paris ein Buch aus 221 kurzen Thesen. Er behauptet, in den modernen Gesellschaften sei alles, was unmittelbar erlebt wurde, in eine Vorstellung entwichen. Das Spektakel ist für ihn mehr als Fernsehen und Werbung. Er nennt es ein gesellschaftliches Verhältnis zwischen Personen, das durch Bilder vermittelt ist. Erst habe der Kapitalismus das Sein zum Haben herabgesetzt: Du bist, was du besitzt. Dann das Haben zum Scheinen: Es zählt, wie etwas aussieht. Das Spektakel sagt nur einen Satz: Was erscheint, ist gut, und was gut ist, erscheint. Der Mensch wird Zuschauer, auch seines eigenen Lebens. Je mehr er zuschaut, desto weniger lebt er. Debord schrieb das, lange bevor jeder eine Kamera in der Tasche trug.",
+   "beispiel": "In „The King of Comedy“ ist einem Mann jeder Preis recht für fünf Minuten im Fernsehen. In „Fifteen Million Merits“ leben Menschen in Zellen aus Bildschirmen und strampeln für das Recht, selbst auf einem zu erscheinen. In „Nightcrawler“ filmt einer Sterbende, weil das Bild sich verkauft.",
+   "these": "Was nicht gezeigt wird, zählt heute nicht mehr.",
+   "einwand": "Die meisten Menschen leben den größten Teil ihres Lebens ungezeigt und sehr wirklich: Sie arbeiten, kochen, pflegen jemanden, streiten und versöhnen sich. Das Spektakel ist laut, aber es ist nicht alles. Debord verachtet Zuschauer, als wären sie Betäubte. Bilder können auch verbinden, erinnern und aufklären. Ohne sie wüssten wir von fernem Unrecht nichts.",
+   "dafuer": "Beobachte den Moment, in dem etwas Schönes geschieht, ein Konzert, ein Sonnenuntergang, das Lachen eines Kindes. Hände gehen hoch, mit Telefonen. Das Erlebnis wird für später und für andere gesichert, und dabei verpasst man es. Etwas Unfotografiertes fühlt sich schon fast wie nicht geschehen an. Debord hat das vorausgesehen. Wann hast du zuletzt etwas Großes für dich behalten?",
+   "fragen": [
+    "Was hast du zuletzt erlebt, ohne es zu zeigen?",
+    "War es dadurch weniger wirklich oder mehr?",
+    "Für wessen Augen richtest du dein Leben ein?"
+   ]
   },
   {
    "d": "adorno",
@@ -1388,7 +1538,17 @@
    "zitat": "Es gibt kein richtiges Leben im falschen.",
    "quelle": "Minima Moralia, 18",
    "text": "Der Satz beschließt eine Notiz über das Wohnen. Adorno meint: In einer falsch eingerichteten Gesellschaft kann sich niemand privat ins Reine bringen. Das entbindet nicht davon, es zu versuchen.",
-   "frage": "Wo richtest du dich ein, obwohl du es besser weißt?"
+   "frage": "Wo richtest du dich ein, obwohl du es besser weißt?",
+   "idee": "Theodor W. Adorno schrieb die „Minima Moralia“ im amerikanischen Exil, während in Europa gemordet wurde. Das Buch trägt den Untertitel „Reflexionen aus dem beschädigten Leben“ und besteht aus kurzen Stücken über Alltägliches: Schenken, Türenschließen, Wohnen. Im Stück über das Wohnen stellt er fest, dass man eigentlich nirgends mehr richtig wohnen kann. Die alten bürgerlichen Wohnungen sind muffig und stehen für eine Welt, die ins Unheil führte. Die neuen sind Kisten ohne Bezug zum Bewohner. Wer sich um all das nicht kümmert, wird lieblos gegen die Dinge und dann gegen die Menschen. Jede Lösung ist falsch. Der Schlusssatz verallgemeinert: Es gibt kein richtiges Leben im falschen. In einer Gesellschaft, die im Ganzen verkehrt eingerichtet ist, kann der Einzelne sich privat nicht in Ordnung bringen.",
+   "beispiel": "In „Parasite“ ist kein Weg sauber. Wer nach oben will, muss betrügen, wer oben ist, lebt von denen im Keller. In „Common People“ bleibt einem Paar nur die Wahl zwischen einem unbezahlbaren Abo und dem Tod. In „Fight Club“ sucht einer den Ausweg und gründet etwas Schlimmeres.",
+   "these": "In einer falsch eingerichteten Welt kann niemand ganz richtig leben.",
+   "einwand": "Der Satz ist eine wunderbare Ausrede. Wenn ohnehin nichts richtig sein kann, muss ich mich nicht bemühen. Es gab Menschen, die in den schlimmsten Verhältnissen anständig geblieben sind, und sie beweisen das Gegenteil. Außerdem: Welche Gesellschaft wäre je „richtig“ gewesen? Dann hätte nie jemand richtig gelebt, und das Wort verlöre jeden Sinn.",
+   "dafuer": "Adorno will nicht entlasten, er will eine Selbsttäuschung nehmen. Du kannst fair kaufen, wenig fliegen, freundlich sein, und dein Telefon wurde trotzdem unter Bedingungen gebaut, die du nicht ansehen möchtest. Sauber kommt niemand heraus. Wer das weiß, wird bescheidener und richtet den Blick auf die Einrichtung des Ganzen. Aufgeben folgt daraus nicht. Wo hältst du dich für unbeteiligt?",
+   "fragen": [
+    "Wo richtest du dich ein, obwohl du es besser weißt?",
+    "Welchen Widerspruch in deinem Leben hast du aufgehört zu bemerken?",
+    "Was tust du trotzdem, auch wenn es das Ganze nicht richtig macht?"
+   ]
   }
  ]
 }
