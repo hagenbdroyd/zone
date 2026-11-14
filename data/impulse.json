@@ -1,105 +1,864 @@
 {
-"denker": {
-"sokrates": {"name": "Sokrates", "daten": "469–399 v. Chr.", "kurz": "Schrieb nichts auf und fragte seine Mitbürger so lange, bis ihr vermeintliches Wissen zerfiel. Dafür wurde er zum Tod verurteilt.", "werk": "Platon: Apologie des Sokrates"},
-"seneca": {"name": "Seneca", "daten": "ca. 4 v. Chr.–65 n. Chr.", "kurz": "Römischer Stoiker, Dramatiker und Erzieher Neros. Seine Briefe sind praktische Übungen in Gelassenheit und im Umgang mit der eigenen Zeit.", "werk": "Von der Kürze des Lebens; Briefe an Lucilius"},
-"spinoza": {"name": "Baruch de Spinoza", "daten": "1632–1677", "kurz": "Gott und Natur sind für ihn dasselbe, alles geschieht mit Notwendigkeit. Frei ist, wer die Ursachen seiner Affekte versteht.", "werk": "Ethik"},
-"hegel": {"name": "G. W. F. Hegel", "daten": "1770–1831", "kurz": "Denkt Geschichte und Bewusstsein als Bewegung durch Widersprüche. Selbstbewusstsein entsteht erst in der Anerkennung durch ein anderes.", "werk": "Phänomenologie des Geistes"},
-"augustinus": {"name": "Augustinus", "daten": "354–430", "kurz": "Kirchenvater und erster großer Autobiograf. Er erforscht Erinnerung, Zeit und den zerrissenen Willen am eigenen Leben.", "werk": "Bekenntnisse"},
-"beauvoir": {"name": "Simone de Beauvoir", "daten": "1908–1986", "kurz": "Existenzialistin. Sie zeigt, wie Menschen zu dem gemacht werden, was sie angeblich von Natur aus sind, und denkt Freiheit als etwas, das die Freiheit der anderen braucht.", "werk": "Das andere Geschlecht; Für eine Moral der Doppelsinnigkeit"},
-"tarkowski": {"name": "Andrei Tarkowski", "daten": "1932–1986", "kurz": "Regisseur, der über sein Handwerk wie ein Philosoph schrieb. Film ist für ihn festgehaltene Zeit und Kunst eine Vorbereitung der Seele.", "werk": "Die versiegelte Zeit"},
-"heraklit": {"name": "Heraklit", "daten": "ca. 520–460 v. Chr.", "kurz": "Vorsokratiker aus Ephesos. Alles ist im Werden, und die Einheit der Welt liegt im Spannungsverhältnis der Gegensätze.", "werk": "Fragmente"},
-"epikur": {"name": "Epikur", "daten": "341–270 v. Chr.", "kurz": "Lehrt ein Glück der Seelenruhe: wenige, einfache Bedürfnisse, Freundschaft und Freiheit von der Furcht vor Göttern und Tod.", "werk": "Brief an Menoikeus"},
-"hume": {"name": "David Hume", "daten": "1711–1776", "kurz": "Schottischer Skeptiker. Weder das Ich noch die Kausalität lassen sich in der Erfahrung finden, wir haben nur Gewohnheit.", "werk": "Ein Traktat über die menschliche Natur"}
-},
-"impulse": [
-{"d": "kierkegaard", "titel": "Der Sprung", "text": "Zwischen Wissen und Glauben gibt es für Kierkegaard keine Brücke aus Argumenten. Wer glaubt, springt, ohne Garantie und allein. Das gilt bei ihm nicht nur für Religion, sondern für jede Entscheidung, die ein Leben bindet.", "frage": "Welche deiner Entscheidungen ließ sich nicht zu Ende begründen?"},
-{"d": "kierkegaard", "titel": "Der Schwindel der Freiheit", "zitat": "Angst ist der Schwindel der Freiheit.", "quelle": "Der Begriff Angst", "text": "Furcht hat einen Gegenstand, Angst nicht. Sie entsteht, wenn ich merke, dass ich kann, so wie am Abgrund nicht nur der Sturz erschreckt, sondern die Möglichkeit zu springen.", "frage": "Wovor hast du Angst, weil es möglich wäre, und nicht, weil es droht?"},
-{"d": "kierkegaard", "titel": "Drei Stadien", "text": "Ästhetisch lebt, wer dem Augenblick und dem Genuss folgt. Ethisch lebt, wer sich bindet und Verantwortung wählt. Religiös lebt, wer vor Gott als Einzelner steht. Die Übergänge sind keine Entwicklung, sondern Entscheidungen.", "frage": "In welchem Stadium verbringst du die meisten deiner Tage?"},
-{"d": "kierkegaard", "titel": "Die Menge", "zitat": "Die Menge ist die Unwahrheit.", "quelle": "Der Einzelne", "text": "In der Menge trägt niemand Verantwortung, jeder versteckt sich hinter allen. Wahrheit gibt es für Kierkegaard nur dort, wo ein Einzelner für das einsteht, was er sagt.", "frage": "Welche deiner Meinungen hast du nie allein vertreten müssen?"},
-{"d": "kierkegaard", "titel": "Verzweiflung ohne es zu wissen", "text": "Die häufigste Verzweiflung ist nach Kierkegaard die unbemerkte: ein Leben, das glatt läuft und in dem der Mensch sich selbst nie begegnet ist. Wer verzweifelt und es weiß, ist der Heilung schon näher.", "frage": "Woran würdest du merken, dass du an dir vorbeilebst?"},
-{"d": "nietzsche", "titel": "Gott ist tot", "zitat": "Gott ist tot! Gott bleibt tot! Und wir haben ihn getötet!", "quelle": "Die fröhliche Wissenschaft, 125", "text": "Der tolle Mensch ruft das nicht triumphierend, sondern erschrocken. Wenn der Grund aller Werte wegfällt, wer wischt dann den Horizont weg? Nietzsche stellt eine Diagnose, keine Forderung.", "frage": "Worauf stützen sich deine Werte, wenn du ehrlich bist?"},
-{"d": "nietzsche", "titel": "Die schwerste Frage", "text": "Stell dir vor, ein Dämon sagte dir, du müsstest dieses Leben noch unzählige Male leben, jedes Detail gleich. Würdest du ihn verfluchen oder ihm danken? Die ewige Wiederkunft ist bei Nietzsche vor allem eine Probe.", "frage": "Welchen Tag der letzten Woche würdest du noch einmal genau so wollen?"},
-{"d": "nietzsche", "titel": "Amor fati", "zitat": "Meine Formel für die Größe am Menschen ist amor fati.", "quelle": "Ecce homo", "text": "Das Notwendige nicht bloß ertragen, noch weniger verhehlen, sondern lieben. Nietzsche meint damit keine Ergebung, sondern ein Ja, das auch das Schwere einschließt.", "frage": "Was in deiner Vergangenheit würdest du inzwischen nicht mehr wegwünschen?"},
-{"d": "nietzsche", "titel": "Chaos", "zitat": "Man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können.", "quelle": "Also sprach Zarathustra, Vorrede", "text": "Zarathustra warnt vor dem „letzten Menschen“, der es bequem hat und blinzelt. Unordnung und innere Spannung sind für Nietzsche Voraussetzung für alles Schöpferische.", "frage": "Welche Unruhe in dir möchtest du nicht loswerden?"},
-{"d": "nietzsche", "titel": "Herren- und Sklavenmoral", "text": "Nietzsche fragt, woher „gut“ und „böse“ stammen. Seine Antwort: Die Schwachen haben aus ihrer Ohnmacht eine Tugend gemacht und die Stärke der anderen zum Laster erklärt. Moral hat eine Geschichte und Interessen.", "frage": "Welche deiner Tugenden könnte eine verkleidete Schwäche sein?"},
-{"d": "nietzsche", "titel": "Apollinisch und dionysisch", "text": "Apollon steht für Form, Maß und den schönen Schein, Dionysos für Rausch und Auflösung des Ich. Große Kunst entsteht für den jungen Nietzsche dort, wo beide zusammenkommen, wie in der griechischen Tragödie.", "frage": "Welcher Film hat dich zuletzt eher berauscht als überzeugt?"},
-{"d": "camus", "titel": "Das Absurde", "text": "Das Absurde liegt weder im Menschen noch in der Welt, sondern im Zusammenstoß: Der Mensch fragt nach Sinn, die Welt schweigt. Camus will weder die Frage aufgeben noch sich eine Antwort erfinden.", "frage": "Wann hast du zuletzt gespürt, dass die Welt dir keine Antwort schuldet?"},
-{"d": "camus", "titel": "Die einzige ernste Frage", "zitat": "Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord.", "quelle": "Der Mythos des Sisyphos", "text": "Ob das Leben sich lohnt, ist für Camus die Frage vor allen anderen. Seine Antwort ist ein Ja ohne Trost: weiterleben im vollen Bewusstsein des Absurden.", "frage": "Was hält dich im Leben, das keine Begründung braucht?"},
-{"d": "camus", "titel": "Sisyphos", "zitat": "Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.", "quelle": "Der Mythos des Sisyphos", "text": "Der Stein rollt immer wieder hinab. Auf dem Rückweg ins Tal ist Sisyphos frei, weil er sein Schicksal kennt und es zu seinem macht. Der Kampf gegen Gipfel genügt, um ein Menschenherz auszufüllen.", "frage": "Welcher deiner Steine gehört wirklich dir?"},
-{"d": "camus", "titel": "Die Revolte", "text": "Ein Sklave, der sein Leben lang gehorcht hat, sagt plötzlich Nein. Damit behauptet er eine Grenze und einen Wert, der für alle gilt. Aus dem einsamen Absurden wird bei Camus so etwas Gemeinsames.", "frage": "Wo liegt bei dir die Grenze, an der du Nein sagst?"},
-{"d": "camus", "titel": "Der unbesiegbare Sommer", "zitat": "Mitten im Winter erfuhr ich endlich, dass in mir ein unbesiegbarer Sommer ist.", "quelle": "Heimkehr nach Tipasa", "text": "Camus kehrt nach dem Krieg an die Ruinen seiner Jugend zurück. Er findet keinen Sinn der Geschichte, aber Licht, Meer und die Fähigkeit, sich daran zu freuen.", "frage": "Was ist dein unbesiegbarer Sommer?"},
-{"d": "sartre", "titel": "Existenz vor Essenz", "zitat": "Die Existenz geht der Essenz voraus.", "quelle": "Der Existentialismus ist ein Humanismus", "text": "Ein Brieföffner wird nach einem Plan gemacht. Der Mensch nicht: Er ist zuerst da und macht sich dann zu dem, was er ist. Es gibt keine menschliche Natur, auf die er sich berufen könnte.", "frage": "Welche Eigenschaft hältst du für dein Wesen, obwohl du sie gewählt hast?"},
-{"d": "sartre", "titel": "Zur Freiheit verurteilt", "zitat": "Der Mensch ist dazu verurteilt, frei zu sein.", "quelle": "Der Existentialismus ist ein Humanismus", "text": "Verurteilt, weil er sich nicht selbst erschaffen hat, und frei, weil er für alles verantwortlich ist, was er tut. Auch nicht zu wählen ist eine Wahl.", "frage": "Welche Entscheidung schiebst du auf die Umstände?"},
-{"d": "sartre", "titel": "Der Blick", "text": "Ich schaue durch ein Schlüsselloch und höre Schritte hinter mir. Im Blick des anderen werde ich plötzlich zum Gegenstand und schäme mich. Für Sartre erfahre ich so, dass es andere Freiheiten gibt.", "frage": "Wessen Blick bestimmt, wie du dich selbst siehst?"},
-{"d": "heidegger", "titel": "Sein zum Tode", "text": "Der Tod ist für Heidegger kein Ereignis am Ende, sondern eine Möglichkeit, die das ganze Dasein begleitet und die mir niemand abnehmen kann. Wer sie nicht verdrängt, lebt entschiedener.", "frage": "Was würdest du anders gewichten, wenn dir deine Endlichkeit täglich gegenwärtig wäre?"},
-{"d": "heidegger", "titel": "Geworfenheit", "text": "Niemand hat sich ausgesucht, wann, wo und als wer er zur Welt kommt. Heidegger nennt das Geworfenheit. Frei ist der Mensch nicht von dieser Lage, sondern darin, was er aus ihr entwirft.", "frage": "Was an deiner Herkunft hast du inzwischen zu deinem gemacht?"},
-{"d": "heidegger", "titel": "Das Man", "text": "Man liest, was man liest, man empört sich, worüber man sich empört. Das Man ist niemand Bestimmtes und nimmt doch jedem die Entscheidung ab. Heidegger nennt dieses Leben uneigentlich.", "frage": "Welche deiner Gewohnheiten gehört eigentlich dem Man?"},
-{"d": "weil", "titel": "Aufmerksamkeit", "zitat": "Aufmerksamkeit ist die seltenste und reinste Form der Großzügigkeit.", "quelle": "Brief an Joë Bousquet, 1942", "text": "Aufmerksam sein heißt für Weil, das eigene Denken auszusetzen und leer zu werden für das, was da ist. Einem Unglücklichen wirklich zuzuhören ist deshalb fast ein Wunder.", "frage": "Wem hast du zuletzt zugehört, ohne schon deine Antwort vorzubereiten?"},
-{"d": "weil", "titel": "Schwerkraft und Gnade", "text": "In der Seele herrscht eine Art Schwerkraft: Wer verletzt wird, will verletzen, wer leer ist, will sich füllen. Gnade nennt Weil alles, was dieser Mechanik nicht folgt, etwa nicht zurückzuschlagen und die Leere auszuhalten.", "frage": "Wo hast du zuletzt der Schwerkraft nicht nachgegeben?"},
-{"d": "weil", "titel": "Verwurzelung", "text": "Die Verwurzelung ist für Weil vielleicht das wichtigste und am meisten verkannte Bedürfnis der Seele: teilzuhaben an einer Gemeinschaft, die Schätze der Vergangenheit bewahrt und Ahnungen der Zukunft.", "frage": "Wo bist du verwurzelt?"},
-{"d": "pascal", "titel": "Die Wette", "text": "Ob Gott existiert, lässt sich nicht beweisen. Pascal rechnet: Wer auf Gott setzt und verliert, verliert wenig, wer gewinnt, gewinnt alles. Entscheidend ist sein Zusatz, dass man gar nicht nicht wetten kann. Wir sind eingeschifft.", "frage": "Worauf hast du gesetzt, ohne es je beschlossen zu haben?"},
-{"d": "pascal", "titel": "Das denkende Schilfrohr", "zitat": "Der Mensch ist nur ein Schilfrohr, das schwächste der Natur, aber er ist ein denkendes Schilfrohr.", "quelle": "Pensées", "text": "Ein Tropfen Wasser genügt, um ihn zu töten. Doch der Mensch weiß, dass er stirbt, und das Weltall weiß nichts. Unsere ganze Würde liegt für Pascal im Denken.", "frage": "Wann hast du dich zuletzt zugleich winzig und groß gefühlt?"},
-{"d": "pascal", "titel": "Die Gründe des Herzens", "zitat": "Das Herz hat seine Gründe, die der Verstand nicht kennt.", "quelle": "Pensées", "text": "Pascal war Mathematiker und meinte das nicht sentimental. Die ersten Prinzipien, auch die der Geometrie, werden nicht bewiesen, sondern unmittelbar eingesehen. Beweisen ist nicht die einzige Art zu wissen.", "frage": "Was weißt du, ohne es begründen zu können?"},
-{"d": "pascal", "titel": "Zerstreuung", "text": "Ein König ohne Zerstreuung ist ein unglücklicher Mensch. Jagd, Spiel und Geschäfte dienen für Pascal einem Zweck: nicht an sich selbst denken zu müssen, an die eigene Sterblichkeit und Leere.", "frage": "Wovor lenkst du dich am zuverlässigsten ab?"},
-{"d": "dostojewski", "titel": "Ist alles erlaubt?", "text": "Iwan Karamasow vertritt den Gedanken: Gibt es keinen Gott und keine Unsterblichkeit, dann ist alles erlaubt. Der Roman prüft diesen Satz an den Menschen, die ihn ernst nehmen, und einer von ihnen mordet.", "frage": "Woher käme für dich ein Verbot, das niemand durchsetzt?"},
-{"d": "dostojewski", "titel": "Zwei mal zwei ist fünf", "text": "Der Mann im Kellerloch wehrt sich gegen eine Welt, in der alles berechnet ist. Lieber handelt er gegen den eigenen Vorteil, nur um zu beweisen, dass er ein Mensch ist und keine Klaviertaste.", "frage": "Wann hast du zuletzt bewusst gegen deinen Vorteil gehandelt?"},
-{"d": "dostojewski", "titel": "Der Großinquisitor", "text": "Christus kehrt zurück, und der Großinquisitor lässt ihn verhaften. Sein Vorwurf: Du hast den Menschen Freiheit gegeben, sie wollen aber Brot, Wunder und Autorität. Christus antwortet nur mit einem Kuss.", "frage": "Welche Freiheit würdest du gegen Sicherheit eintauschen?"},
-{"d": "laotse", "titel": "Wu wei", "text": "Wu wei heißt nicht Nichtstun, sondern Handeln, ohne zu erzwingen, so wie Wasser nachgibt und doch den Stein aushöhlt. Der Weise tut, was die Lage verlangt, und drängt sich nicht auf.", "frage": "Wo erzwingst du gerade etwas, das von selbst kommen müsste?"},
-{"d": "laotse", "titel": "Sich selbst kennen", "zitat": "Wer andere kennt, ist klug. Wer sich selbst kennt, ist weise.", "quelle": "Daodejing, Kap. 33", "text": "Der Abschnitt setzt fort: Wer andere besiegt, hat Kraft, wer sich selbst besiegt, ist stark. Und wer weiß, dass er genug hat, ist reich.", "frage": "Was weißt du über andere besser als über dich?"},
-{"d": "laotse", "titel": "Das Unsagbare", "zitat": "Das Dao, das sich aussprechen lässt, ist nicht das ewige Dao.", "quelle": "Daodejing, Kap. 1", "text": "Das Buch beginnt mit dem Eingeständnis, dass sein Gegenstand sich nicht in Worte fassen lässt, und spricht dann doch achtzig Kapitel lang darüber, in Bildern und Paradoxen.", "frage": "Welche Erfahrung verlierst du, sobald du sie erklärst?"},
-{"d": "epiktet", "titel": "In unserer Macht", "text": "In unserer Macht stehen Urteil, Wollen und Ablehnen. Nicht in unserer Macht stehen Körper, Besitz, Ansehen. Wer das zweite für sein Eigentum hält, wird nach Epiktet klagen und sich aufregen. Wer nur das erste will, den kann niemand zwingen.", "frage": "Worüber hast du dich heute geärgert, das nicht in deiner Macht stand?"},
-{"d": "marcaurel", "titel": "Die Morgenübung", "text": "Marc Aurel sagt sich am Morgen vor: Ich werde heute Undankbaren, Rücksichtslosen und Neidischen begegnen. Sie sind so aus Unwissenheit, und keiner von ihnen kann mir schaden, denn wir sind zur Zusammenarbeit geboren.", "frage": "Wem begegnest du morgen, auf den du dich so vorbereiten könntest?"},
-{"d": "marcaurel", "titel": "Der Blick von oben", "text": "Betrachte das Treiben der Menschen wie von einem hohen Ort aus: Herden, Heere, Hochzeiten, Märkte, Geburten und Tode. Die Übung soll nichts entwerten, sondern das eigene Aufgeregtsein auf sein Maß bringen.", "frage": "Welche deiner Sorgen schrumpft, wenn du sie von weit oben ansiehst?"},
-{"d": "seneca", "titel": "Die Kürze des Lebens", "zitat": "Es ist nicht wenig Zeit, die wir haben, sondern es ist viel Zeit, die wir nicht nutzen.", "quelle": "Von der Kürze des Lebens (sinngemäß)", "text": "Seneca wundert sich, dass Menschen ihr Geld geizig hüten und ihre Zeit an jeden verschenken, der danach fragt. Dabei ist sie das Einzige, womit Geiz ehrenhaft wäre.", "frage": "Wem oder was gibst du Zeit, die du nicht geben willst?"},
-{"d": "seneca", "titel": "Das Übel vorwegnehmen", "text": "Die Stoiker üben, sich Verluste im Voraus vorzustellen: Verbannung, Krankheit, den Tod der Liebsten. Was erwartet wurde, trifft weniger hart, und was man noch hat, wird wieder sichtbar.", "frage": "Was würdest du mehr schätzen, wenn du dir seinen Verlust vorstellst?"},
-{"d": "epikur", "titel": "Der Tod geht uns nichts an", "zitat": "Solange wir da sind, ist der Tod nicht da, und wenn der Tod da ist, sind wir nicht mehr.", "quelle": "Brief an Menoikeus", "text": "Alles Gute und Schlimme beruht auf Empfindung, der Tod ist deren Ende. Also kann er für uns kein Übel sein. Epikur will damit nicht trösten, sondern eine Furcht auflösen, die das Leben vergiftet.", "frage": "Überzeugt dich das Argument? Wenn nein, warum nicht?"},
-{"d": "epikur", "titel": "Wenig brauchen", "text": "Epikur unterscheidet natürliche und notwendige Begierden von solchen, die leer sind. Brot, Wasser, Freunde und ein ruhiger Geist genügen. Wem das Wenige nicht reicht, dem reicht nichts.", "frage": "Welche deiner Wünsche würde Epikur leer nennen?"},
-{"d": "sokrates", "titel": "Nichtwissen", "text": "Das Orakel nennt Sokrates den Weisesten. Er prüft Politiker, Dichter und Handwerker und findet: Sie glauben zu wissen, was sie nicht wissen. Sein Vorsprung ist nur, dass er sich darüber nicht täuscht.", "frage": "Was glaubst du zu wissen, das du nie geprüft hast?"},
-{"d": "sokrates", "titel": "Das geprüfte Leben", "zitat": "Ein Leben ohne Selbsterforschung ist für den Menschen nicht lebenswert.", "quelle": "Platon, Apologie 38a", "text": "Sokrates sagt das vor Gericht, als er wählen könnte zu schweigen und weiterzuleben. Er wählt das Fragen und damit den Tod.", "frage": "Welche Frage an dein eigenes Leben schiebst du vor dir her?"},
-{"d": "platon", "titel": "Die Höhle", "text": "Gefangene sehen ihr Leben lang nur Schatten an einer Wand. Einer wird befreit, steigt ans Licht, ist geblendet und versteht. Als er zurückkehrt, lachen ihn die anderen aus. Bildung ist für Platon eine Umwendung der ganzen Seele.", "frage": "Welche Schatten hast du lange für die Sache selbst gehalten?"},
-{"d": "platon", "titel": "Die Leiter der Liebe", "text": "Im „Gastmahl“ beschreibt Diotima einen Aufstieg: von einem schönen Körper zu allen schönen Körpern, zur Schönheit der Seelen, des Wissens und schließlich zum Schönen selbst. Eros ist das Verlangen nach dem, was fehlt.", "frage": "Wohin hat dich eine Verliebtheit geführt, die über die Person hinausging?"},
-{"d": "aristoteles", "titel": "Die Mitte", "text": "Tugend ist für Aristoteles die Mitte zwischen zwei Fehlern: Mut zwischen Feigheit und Tollkühnheit, Großzügigkeit zwischen Geiz und Verschwendung. Wo sie liegt, zeigt keine Regel, sondern Übung und Urteilskraft.", "frage": "Zu welchem Extrem neigst du, und was wäre die Mitte?"},
-{"d": "aristoteles", "titel": "Drei Arten Freundschaft", "text": "Manche Freunde sind uns nützlich, mit anderen ist es angenehm. Die vollkommene Freundschaft gilt dem anderen um seiner selbst willen. Sie ist selten und braucht Zeit, denn man muss, wie es heißt, viel Salz zusammen gegessen haben.", "frage": "Welche deiner Freundschaften gilt dem Menschen selbst?"},
-{"d": "heraklit", "titel": "Der Fluss", "zitat": "Wer in dieselben Flüsse steigt, dem strömt anderes und wieder anderes Wasser zu.", "quelle": "Fragment B 12", "text": "Der Fluss bleibt derselbe, gerade weil sein Wasser wechselt. Heraklit meint damit weniger, dass nichts bleibt, als dass Beständigkeit aus Wandel besteht.", "frage": "Was an dir ist gleich geblieben, obwohl alles sich geändert hat?"},
-{"d": "augustinus", "titel": "Was ist Zeit?", "zitat": "Was also ist die Zeit? Wenn niemand mich danach fragt, weiß ich es; will ich es einem Fragenden erklären, weiß ich es nicht.", "quelle": "Bekenntnisse XI", "text": "Die Vergangenheit ist nicht mehr, die Zukunft noch nicht, die Gegenwart ohne Dauer. Augustinus schließt daraus, dass Zeit in der Seele liegt: als Erinnerung, Anschauung und Erwartung.", "frage": "Wo verbringst du mehr Zeit, in der Erinnerung oder in der Erwartung?"},
-{"d": "augustinus", "titel": "Das unruhige Herz", "zitat": "Unruhig ist unser Herz, bis es ruht in dir.", "quelle": "Bekenntnisse I", "text": "Augustinus beschreibt sein Leben als Suche, die an Ehrgeiz, Lust und Wissen nicht satt wurde. Man kann den Satz auch ohne seinen Gott lesen: als Beschreibung eines Verlangens, das kein Gegenstand stillt.", "frage": "Wonach suchst du, ohne es benennen zu können?"},
-{"d": "montaigne", "titel": "Was weiß ich?", "text": "Montaigne ließ sich die Frage „Que sais-je?“ auf eine Medaille prägen. Seine Essais sind Versuche: Er beobachtet sich selbst, widerspricht sich und lässt es stehen. Ich male nicht das Sein, schreibt er, ich male den Übergang.", "frage": "Worin hast du dir im letzten Jahr widersprochen?"},
-{"d": "descartes", "titel": "Ich denke, also bin ich", "text": "Descartes zweifelt an den Sinnen, an der Mathematik, an der ganzen Außenwelt. Eines bleibt: Wer zweifelt, denkt, und wer denkt, ist. Auf diesen einen sicheren Punkt baut er alles Weitere.", "frage": "Was hältst du für so sicher, dass du es nie bezweifelt hast?"},
-{"d": "spinoza", "titel": "Begreifen", "zitat": "Die menschlichen Handlungen nicht belachen, nicht beweinen, auch nicht verabscheuen, sondern begreifen.", "quelle": "Politischer Traktat I, 4", "text": "Spinoza betrachtet Affekte wie Linien und Flächen: als Dinge mit Ursachen. Wer versteht, warum ein Mensch so handelt, hört auf, ihn zu hassen, und gewinnt selbst an Freiheit.", "frage": "Wessen Verhalten verurteilst du, ohne es verstanden zu haben?"},
-{"d": "spinoza", "titel": "Unter dem Blick der Ewigkeit", "text": "Sub specie aeternitatis heißt, die Dinge nicht von meinem Standpunkt und meinem Moment aus zu sehen, sondern als notwendige Teile eines Ganzen. Für Spinoza liegt darin die höchste Ruhe des Geistes.", "frage": "Wie sähe dein heutiger Tag aus dieser Entfernung aus?"},
-{"d": "hume", "titel": "Das Bündel", "text": "Wenn Hume in sich hineinblickt, findet er immer nur eine einzelne Wahrnehmung, Wärme, Liebe, Schmerz, aber nie ein Ich, das sie hat. Das Selbst ist für ihn ein Bündel von Eindrücken, zusammengehalten von der Erinnerung.", "frage": "Was findest du, wenn du nach deinem Ich suchst?"},
-{"d": "kant", "titel": "Der kategorische Imperativ", "text": "Handle nur nach derjenigen Maxime, von der du wollen kannst, dass sie ein allgemeines Gesetz werde. Kant fragt nicht nach den Folgen, sondern ob meine Regel für alle gelten könnte, ohne sich selbst aufzuheben.", "frage": "Welche deiner Ausnahmen würdest du nicht jedem zugestehen?"},
-{"d": "kant", "titel": "Habe Mut", "zitat": "Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!", "quelle": "Beantwortung der Frage: Was ist Aufklärung?", "text": "Unmündig ist nach Kant, wer nicht aus Mangel an Verstand, sondern aus Bequemlichkeit andere für sich denken lässt: das Buch, den Seelsorger, den Arzt.", "frage": "In welcher Frage lässt du noch denken?"},
-{"d": "kant", "titel": "Zwei Dinge", "zitat": "Der bestirnte Himmel über mir und das moralische Gesetz in mir.", "quelle": "Kritik der praktischen Vernunft, Beschluss", "text": "Zwei Dinge erfüllen Kant mit immer neuer Bewunderung. Der Himmel zeigt ihm, wie klein er als Naturwesen ist, das Gesetz in ihm, dass er als freies Wesen über die Natur hinausreicht.", "frage": "Was erfüllt dich mit Ehrfurcht?"},
-{"d": "hegel", "titel": "Herr und Knecht", "text": "Zwei Bewusstseine kämpfen um Anerkennung, eines unterwirft sich. Doch der Herr hängt nun von der Anerkennung eines Unfreien ab, während der Knecht in der Arbeit die Welt formt und sich darin erkennt. Am Ende ist er der Selbstständigere.", "frage": "Von wessen Anerkennung hängst du ab?"},
-{"d": "hegel", "titel": "Die Eule der Minerva", "zitat": "Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.", "quelle": "Grundlinien der Philosophie des Rechts, Vorrede", "text": "Philosophie kommt für Hegel immer zu spät, um die Welt zu belehren. Sie begreift eine Gestalt des Lebens erst, wenn diese alt geworden ist.", "frage": "Welchen Abschnitt deines Lebens verstehst du erst jetzt?"},
-{"d": "schopenhauer", "titel": "Die Stachelschweine", "text": "An einem kalten Tag rücken Stachelschweine zusammen, um sich zu wärmen, und stechen sich. Sie rücken ab und frieren. Schließlich finden sie eine mittlere Entfernung. Schopenhauer nennt sie Höflichkeit.", "frage": "Wie viel Nähe hältst du aus, und wie viel Distanz?"},
-{"d": "schopenhauer", "titel": "Mitleid", "text": "Für Schopenhauer ist Mitleid die einzige echte Grundlage der Moral. Im Mitleid fällt für einen Moment die Grenze zwischen mir und dem anderen, weil in allen derselbe Wille leidet.", "frage": "Wessen Leid hast du zuletzt als dein eigenes empfunden?"},
-{"d": "schopenhauer", "titel": "Die Atempause", "text": "Vor einem Kunstwerk hört das Wollen kurz auf. Wir betrachten, ohne etwas zu begehren, und sind für diesen Moment vom Rad des Willens befreit. Die Musik steht für Schopenhauer dabei über allen Künsten.", "frage": "Bei welchem Film hast du dich zuletzt selbst vergessen?"},
-{"d": "marx", "titel": "Verändern", "zitat": "Die Philosophen haben die Welt nur verschieden interpretiert; es kommt darauf an, sie zu verändern.", "quelle": "Thesen über Feuerbach, 11", "text": "Der Satz steht auch auf Marx' Grabstein. Er richtet sich gegen ein Denken, das sich mit Verstehen begnügt und die Verhältnisse lässt, wie sie sind.", "frage": "Was hast du verstanden und trotzdem nicht geändert?"},
-{"d": "freud", "titel": "Wo Es war", "zitat": "Wo Es war, soll Ich werden.", "quelle": "Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse", "text": "Freud vergleicht die Arbeit der Analyse mit der Trockenlegung der Zuidersee: Dem Unbewussten wird Stück für Stück Land abgewonnen. Ganz gelingt es nie.", "frage": "Was treibt dich, ohne dass du es gewählt hättest?"},
-{"d": "freud", "titel": "Das Unbehagen in der Kultur", "text": "Kultur verlangt Triebverzicht. Sie schützt uns voreinander und macht uns dafür unglücklich, weil die Aggression, die nicht nach außen darf, sich als Schuldgefühl gegen das eigene Ich richtet.", "frage": "Welchen Verzicht nimmst du der Gesellschaft übel?"},
-{"d": "jung", "titel": "Der Schatten", "text": "Was ich an mir nicht sehen will, verschwindet nicht. Es begegnet mir in anderen, an denen es mich maßlos ärgert. Jung nennt die Auseinandersetzung mit dem Schatten den ersten Schritt, ein ganzer Mensch zu werden.", "frage": "Was regt dich an anderen auf, das auch in dir steckt?"},
-{"d": "wittgenstein", "titel": "Grenzen der Sprache", "zitat": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.", "quelle": "Tractatus logico-philosophicus, 5.6", "text": "Was sich sagen lässt, lässt sich klar sagen. Ethik, Ästhetik und der Sinn des Lebens gehören für den frühen Wittgenstein nicht dazu. Sie zeigen sich, und gerade sie sind das Wichtige.", "frage": "Was ist dir wichtig, wofür dir die Worte fehlen?"},
-{"d": "wittgenstein", "titel": "Bedeutung ist Gebrauch", "zitat": "Die Bedeutung eines Wortes ist sein Gebrauch in der Sprache.", "quelle": "Philosophische Untersuchungen, § 43", "text": "Der späte Wittgenstein gibt die Idee auf, Wörter seien Etiketten für Dinge. Sprechen ist Teil einer Tätigkeit, eines Sprachspiels, und viele philosophische Rätsel entstehen, wenn die Sprache feiert.", "frage": "Welches Wort benutzt du anders als die Menschen um dich?"},
-{"d": "buber", "titel": "Ich und Du", "zitat": "Der Mensch wird am Du zum Ich.", "quelle": "Ich und Du", "text": "Zum Es verhalte ich mich, wenn ich etwas betrachte, einordne, benutze. Dem Du begegne ich mit meinem ganzen Wesen. Jedes Du wird wieder zum Es, schreibt Buber, das sei die erhabene Schwermut unseres Loses.", "frage": "Wen behandelst du als Es, der ein Du sein könnte?"},
-{"d": "levinas", "titel": "Das Antlitz", "text": "Das Gesicht des anderen ist für Levinas mehr als etwas Sichtbares. Es ist nackt und schutzlos und sagt vor jedem Wort: Du wirst nicht töten. Verantwortung beginnt, bevor ich mich für sie entschieden habe.", "frage": "Wessen Gesicht hat dich zuletzt in die Pflicht genommen?"},
-{"d": "arendt", "titel": "Anfangen können", "text": "Die Philosophie hat den Menschen meist als Sterblichen bestimmt. Arendt setzt die Gebürtlichkeit dagegen: Mit jedem Menschen kommt ein neuer Anfang in die Welt, und Handeln heißt, etwas beginnen zu können.", "frage": "Was hast du zuletzt wirklich neu angefangen?"},
-{"d": "arendt", "titel": "Denken ohne Geländer", "text": "So nannte Arendt ihr eigenes Vorgehen. Nach dem Bruch der Tradition im 20. Jahrhundert gibt es keine Handläufe mehr, an denen sich das Urteil festhalten könnte. Man muss selbst denken und kann dabei fallen.", "frage": "An welchem Geländer hältst du dich beim Urteilen fest?"},
-{"d": "arendt", "titel": "Die Banalität des Bösen", "text": "Arendt sah in Eichmann keinen Dämon, sondern einen Mann, der sich weigerte nachzudenken, was er tat. Das Böse braucht keine Tiefe. Es kann sich ausbreiten wie ein Pilz auf der Oberfläche.", "frage": "Wo machst du mit, ohne darüber nachzudenken?"},
-{"d": "beauvoir", "titel": "Man wird es", "zitat": "Man kommt nicht als Frau zur Welt, man wird es.", "quelle": "Das andere Geschlecht", "text": "Beauvoir wendet Sartres Gedanken, dass die Existenz der Essenz vorausgeht, auf die Geschlechter an. Was als Natur gilt, ist das Ergebnis von Erziehung, Erwartung und Lage.", "frage": "Was an dir hältst du für Natur, das dir beigebracht wurde?"},
-{"d": "benjamin", "titel": "Der Engel der Geschichte", "text": "Benjamin beschreibt einen Engel, der mit dem Rücken zur Zukunft fliegt. Wo wir eine Kette von Ereignissen sehen, sieht er eine einzige Katastrophe, die Trümmer auf Trümmer häuft. Ein Sturm treibt ihn fort, und diesen Sturm nennen wir Fortschritt.", "frage": "Was übersieht, wer nur nach vorn schaut?"},
-{"d": "foucault", "titel": "Der innere Aufseher", "text": "Im Panoptikum kann ein Wächter alle Zellen einsehen, ohne selbst gesehen zu werden. Die Insassen wissen nie, ob er hinschaut, und überwachen sich deshalb selbst. Für Foucault ist das die Formel moderner Macht.", "frage": "Für welchen unsichtbaren Zuschauer benimmst du dich?"},
-{"d": "jaspers", "titel": "Grenzsituationen", "text": "Dass ich sterben muss, leide, schuldig werde und dem Zufall ausgeliefert bin, lässt sich nicht ändern oder umgehen. Jaspers nennt das Grenzsituationen. An ihnen scheitern wir oder werden wir selbst.", "frage": "Welche Grenzsituation hat dich verändert?"},
-{"d": "frankl", "titel": "Die letzte Freiheit", "text": "Frankl beobachtete im Lager Menschen, die ihr letztes Brot verschenkten. Sie beweisen für ihn, dass dem Menschen alles genommen werden kann außer der Freiheit, sich zu den gegebenen Verhältnissen so oder so einzustellen.", "frage": "Wozu hast du dich zuletzt bewusst eingestellt, statt nur zu reagieren?"},
-{"d": "han", "titel": "Müdigkeit", "text": "Die Disziplinargesellschaft sagte „Du sollst“, die Leistungsgesellschaft sagt „Du kannst“. Das klingt nach Freiheit und erzeugt Erschöpfung, weil Antreiber und Angetriebener dieselbe Person sind.", "frage": "Wann hast du zuletzt etwas getan, das zu nichts nütze war?"},
-{"d": "girard", "titel": "Geliehenes Begehren", "text": "Wir begehren nach Girard nicht aus uns selbst. Wir wollen, was ein anderer will, den wir bewundern. So werden Vorbilder zu Rivalen, und aus Nachahmung wächst Gewalt.", "frage": "Welcher deiner Wünsche stammt von jemand anderem?"},
-{"d": "jonas", "titel": "Ein neuer Imperativ", "text": "Kants Ethik galt dem Nächsten und der Gegenwart. Seit die Technik in die ferne Zukunft wirkt, verlangt Jonas mehr: so zu handeln, dass auch künftig Menschen ein menschenwürdiges Leben führen können. Im Zweifel hat die schlechte Prognose Vorrang.", "frage": "Was tust du heute, das erst andere bezahlen werden?"},
-{"d": "tarkowski", "titel": "Versiegelte Zeit", "text": "Tarkowski nennt das Filmen ein Bildhauern aus Zeit. Wie der Bildhauer vom Marmor alles wegschlägt, was nicht zur Figur gehört, nimmt der Regisseur aus einem Block gelebter Zeit das Überflüssige weg. Der Rhythmus einer Einstellung ist der Druck der Zeit in ihr.", "frage": "Bei welcher Einstellung hast du die Zeit selbst gespürt?"},
-{"d": "tarkowski", "titel": "Wozu Kunst?", "text": "Kunst soll für Tarkowski weder unterhalten noch belehren. Sie soll den Menschen auf den Tod vorbereiten, seine Seele pflügen und auflockern, damit sie fähig wird, sich dem Guten zuzuwenden.", "frage": "Welcher Film hat an dir gearbeitet, statt dich zu unterhalten?"},
-{"d": "parfit", "titel": "Worauf es ankommt", "text": "Parfit kommt zu dem Schluss, dass es kein tiefes, unteilbares Ich gibt, nur verbundene Erfahrungen und Erinnerungen. Er fand das befreiend: Die Wände seines Glastunnels verschwanden, und der Tod erschien ihm weniger schlimm.", "frage": "Wäre dein Leben leichter oder schwerer ohne ein festes Ich?"},
-{"d": "nozick", "titel": "Die Erlebnismaschine", "text": "Eine Maschine könnte dir jedes gewünschte Erlebnis vorspielen, ein Leben lang, und du wüsstest nichts davon. Würdest du einsteigen? Nozick meint, nein: Wir wollen Dinge tun und jemand sein, nicht nur etwas fühlen.", "frage": "Würdest du einsteigen?"},
-{"d": "debord", "titel": "Das Spektakel", "text": "Das Spektakel ist für Debord keine Sammlung von Bildern, sondern ein Verhältnis zwischen Menschen, das durch Bilder vermittelt ist. Was erscheint, gilt als gut, und was gut ist, erscheint.", "frage": "Was hast du zuletzt erlebt, ohne es zu zeigen?"},
-{"d": "adorno", "titel": "Kein richtiges Leben", "zitat": "Es gibt kein richtiges Leben im falschen.", "quelle": "Minima Moralia, 18", "text": "Der Satz beschließt eine Notiz über das Wohnen. Adorno meint: In einer falsch eingerichteten Gesellschaft kann sich niemand privat ins Reine bringen. Das entbindet nicht davon, es zu versuchen.", "frage": "Wo richtest du dich ein, obwohl du es besser weißt?"}
-]
+ "denker": {
+  "sokrates": {
+   "name": "Sokrates",
+   "daten": "469–399 v. Chr.",
+   "kurz": "Schrieb nichts auf und fragte seine Mitbürger so lange, bis ihr vermeintliches Wissen zerfiel. Dafür wurde er zum Tod verurteilt.",
+   "werk": "Platon: Apologie des Sokrates"
+  },
+  "seneca": {
+   "name": "Seneca",
+   "daten": "ca. 4 v. Chr.–65 n. Chr.",
+   "kurz": "Römischer Stoiker, Dramatiker und Erzieher Neros. Seine Briefe sind praktische Übungen in Gelassenheit und im Umgang mit der eigenen Zeit.",
+   "werk": "Von der Kürze des Lebens; Briefe an Lucilius"
+  },
+  "spinoza": {
+   "name": "Baruch de Spinoza",
+   "daten": "1632–1677",
+   "kurz": "Gott und Natur sind für ihn dasselbe, alles geschieht mit Notwendigkeit. Frei ist, wer die Ursachen seiner Affekte versteht.",
+   "werk": "Ethik"
+  },
+  "hegel": {
+   "name": "G. W. F. Hegel",
+   "daten": "1770–1831",
+   "kurz": "Denkt Geschichte und Bewusstsein als Bewegung durch Widersprüche. Selbstbewusstsein entsteht erst in der Anerkennung durch ein anderes.",
+   "werk": "Phänomenologie des Geistes"
+  },
+  "augustinus": {
+   "name": "Augustinus",
+   "daten": "354–430",
+   "kurz": "Kirchenvater und erster großer Autobiograf. Er erforscht Erinnerung, Zeit und den zerrissenen Willen am eigenen Leben.",
+   "werk": "Bekenntnisse"
+  },
+  "beauvoir": {
+   "name": "Simone de Beauvoir",
+   "daten": "1908–1986",
+   "kurz": "Existenzialistin. Sie zeigt, wie Menschen zu dem gemacht werden, was sie angeblich von Natur aus sind, und denkt Freiheit als etwas, das die Freiheit der anderen braucht.",
+   "werk": "Das andere Geschlecht; Für eine Moral der Doppelsinnigkeit"
+  },
+  "tarkowski": {
+   "name": "Andrei Tarkowski",
+   "daten": "1932–1986",
+   "kurz": "Regisseur, der über sein Handwerk wie ein Philosoph schrieb. Film ist für ihn festgehaltene Zeit und Kunst eine Vorbereitung der Seele.",
+   "werk": "Die versiegelte Zeit"
+  },
+  "heraklit": {
+   "name": "Heraklit",
+   "daten": "ca. 520–460 v. Chr.",
+   "kurz": "Vorsokratiker aus Ephesos. Alles ist im Werden, und die Einheit der Welt liegt im Spannungsverhältnis der Gegensätze.",
+   "werk": "Fragmente"
+  },
+  "epikur": {
+   "name": "Epikur",
+   "daten": "341–270 v. Chr.",
+   "kurz": "Lehrt ein Glück der Seelenruhe: wenige, einfache Bedürfnisse, Freundschaft und Freiheit von der Furcht vor Göttern und Tod.",
+   "werk": "Brief an Menoikeus"
+  },
+  "hume": {
+   "name": "David Hume",
+   "daten": "1711–1776",
+   "kurz": "Schottischer Skeptiker. Weder das Ich noch die Kausalität lassen sich in der Erfahrung finden, wir haben nur Gewohnheit.",
+   "werk": "Ein Traktat über die menschliche Natur"
+  }
+ },
+ "impulse": [
+  {
+   "d": "kierkegaard",
+   "titel": "Der Sprung",
+   "text": "Zwischen Wissen und Glauben gibt es für Kierkegaard keine Brücke aus Argumenten. Wer glaubt, springt, ohne Garantie und allein. Das gilt bei ihm nicht nur für Religion, sondern für jede Entscheidung, die ein Leben bindet.",
+   "frage": "Welche deiner Entscheidungen ließ sich nicht zu Ende begründen?"
+  },
+  {
+   "d": "kierkegaard",
+   "titel": "Der Schwindel der Freiheit",
+   "zitat": "Angst ist der Schwindel der Freiheit.",
+   "quelle": "Der Begriff Angst",
+   "text": "Furcht hat einen Gegenstand, Angst nicht. Sie entsteht, wenn ich merke, dass ich kann, so wie am Abgrund nicht nur der Sturz erschreckt, sondern die Möglichkeit zu springen.",
+   "frage": "Wovor hast du Angst, weil es möglich wäre, und nicht, weil es droht?"
+  },
+  {
+   "d": "kierkegaard",
+   "titel": "Drei Stadien",
+   "text": "Ästhetisch lebt, wer dem Augenblick und dem Genuss folgt. Ethisch lebt, wer sich bindet und Verantwortung wählt. Religiös lebt, wer vor Gott als Einzelner steht. Die Übergänge sind keine Entwicklung, sondern Entscheidungen.",
+   "frage": "In welchem Stadium verbringst du die meisten deiner Tage?",
+   "idee": "Kierkegaard beschreibt drei Arten zu leben und nennt sie Stadien. Im ästhetischen Stadium folgt ein Mensch dem Augenblick: Er sucht, was reizt und interessiert, und meidet, was ihn festlegt. Im ethischen Stadium bindet er sich. Er wählt einen Beruf, eine Ehe, Pflichten, und wird dadurch jemand mit einer Geschichte. Im religiösen Stadium steht er als Einzelner vor Gott, ohne die Sicherheit allgemeiner Regeln. Wichtig ist Kierkegaard, dass man nicht von selbst weiterwächst wie ein Kind zum Erwachsenen. Jeder Übergang ist eine Entscheidung, die man auch verweigern kann. Wer im ästhetischen Leben bleibt, endet nach ihm in Langeweile und einer Verzweiflung, die er mit immer neuen Reizen überdeckt.",
+   "beispiel": "In „Summer with Monika“ leben zwei junge Leute einen Sommer lang nur für den Tag, auf einem Boot in den Schären. Zurück in der Stadt wählt Harry Arbeit, Abendschule und das Kind. Monika geht aus. Kierkegaard würde sagen, Harry hat den Schritt ins Ethische getan und Monika nicht. Ob das gegen sie spricht, lässt der Film offen.",
+   "these": "Ein Leben nur für den Augenblick endet in Verzweiflung.",
+   "einwand": "Kierkegaard hatte geerbt und musste nie arbeiten. Wer wenig hat, erlebt Pflicht oft nicht als Reife, sondern als Enge. Vielleicht ist die Verzweiflung, die er dem Genussmenschen vorhersagt, nur das schlechte Gewissen eines Protestanten. Was wäre so falsch an einem Leben aus vielen guten Augenblicken?",
+   "dafuer": "Ein Augenblick lässt sich nicht festhalten. Wer nur ihn hat, muss ständig für Nachschub sorgen, und die Reize nutzen sich ab. Ohne Bindung gibt es außerdem nichts, worauf man zurückblicken könnte: kein Werk, keine Treue, keine Geschichte. Kennst du die Leere nach einem Abend, an dem alles gestimmt hat?",
+   "fragen": [
+    "In welchem der drei Stadien verbringst du die meisten deiner Tage?",
+    "Welche Bindung hast du gewählt, und welche ist dir nur zugestoßen?",
+    "Gibt es eine Entscheidung, vor der du dich mit immer neuen Möglichkeiten drückst?"
+   ]
+  },
+  {
+   "d": "kierkegaard",
+   "titel": "Die Menge",
+   "zitat": "Die Menge ist die Unwahrheit.",
+   "quelle": "Der Einzelne",
+   "text": "In der Menge trägt niemand Verantwortung, jeder versteckt sich hinter allen. Wahrheit gibt es für Kierkegaard nur dort, wo ein Einzelner für das einsteht, was er sagt.",
+   "frage": "Welche deiner Meinungen hast du nie allein vertreten müssen?",
+   "idee": "Kierkegaard misstraut allem, was viele gemeinsam meinen. Sein Satz „Die Menge ist die Unwahrheit“ richtet sich nicht gegen einfache Leute, sondern gegen eine Haltung. In der Menge, sagt er, trägt niemand Verantwortung. Jeder kann sich darauf berufen, dass alle es so sehen, und keiner muss mit seinem Namen dafür einstehen. Wahr im vollen Sinn ist für ihn nur, was ein Einzelner sich angeeignet hat und wofür er die Folgen trägt. Er hatte dabei die Zeitungen seiner Zeit vor Augen, die „das Publikum“ erfanden: eine Größe, die über alles urteilt und die es als Person nicht gibt. Mut kostet es erst dort, wo man allein steht.",
+   "beispiel": "In „The Hunt“ genügt der Satz eines Kindes, und ein ganzes Dorf weiß plötzlich Bescheid. Kein Einzelner hat geprüft, was geschehen ist. Jeder verlässt sich auf die anderen, und gerade deshalb ist sich jeder sicher. Der Mann, den es trifft, steht einer Meinung gegenüber, die niemandem gehört und die deshalb niemand zurücknehmen kann.",
+   "these": "Was alle glauben, ist deshalb noch nicht wahr, und meistens ist es bequemer als wahr.",
+   "einwand": "Ohne Vertrauen auf andere wüssten wir fast nichts. Dass die Erde um die Sonne kreist, hast du nicht selbst geprüft. Demokratie beruht darauf, dass Mehrheiten entscheiden. Und der einsame Einzelne, der es besser weiß als alle, ist ebenso oft ein Spinner wie ein Prophet. Woran unterscheidest du die beiden?",
+   "dafuer": "Mehrheiten haben Hexen verbrannt und Kriege bejubelt. Der Punkt ist nicht, dass viele immer irren. Er ist, dass die Zahl der Zustimmenden kein Grund ist. Wer nur wiederholt, was alle sagen, hat nicht geurteilt, auch wenn der Satz zufällig stimmt. Wann hast du zuletzt etwas nur deshalb für richtig gehalten, weil niemand widersprach?",
+   "fragen": [
+    "Welche deiner Meinungen hast du nie allein vertreten müssen?",
+    "Wann hast du zuletzt in einer Runde geschwiegen, obwohl du anderer Ansicht warst?",
+    "Was würde es dich kosten, bei dieser einen Sache öffentlich zu widersprechen?"
+   ]
+  },
+  {
+   "d": "kierkegaard",
+   "titel": "Verzweiflung ohne es zu wissen",
+   "text": "Die häufigste Verzweiflung ist nach Kierkegaard die unbemerkte: ein Leben, das glatt läuft und in dem der Mensch sich selbst nie begegnet ist. Wer verzweifelt und es weiß, ist der Heilung schon näher.",
+   "frage": "Woran würdest du merken, dass du an dir vorbeilebst?",
+   "idee": "In „Die Krankheit zum Tode“ nennt Kierkegaard die Verzweiflung eine Krankheit des Selbst. Er meint damit keinen Kummer über einen Verlust. Verzweifelt ist für ihn, wer nicht er selbst ist: wer sich in Geschäften, Rollen und Erwartungen eingerichtet hat und nie gefragt hat, wer da eigentlich lebt. Das Unheimliche ist, dass diese Form nicht wehtut. Der Betroffene gilt als tüchtig und zufrieden. Kierkegaard hält sie gerade deshalb für die schlimmste. Wer leidet und weiß, dass etwas nicht stimmt, hat schon einen Schritt getan. Wer nichts merkt, kann sein ganzes Leben verpassen, ohne dass es jemandem auffällt, ihm selbst eingeschlossen.",
+   "beispiel": "Bergmans „Face to Face“ beginnt mit einer Psychiaterin, bei der alles läuft: Beruf, Ehe, Ansehen. Dann bricht sie ohne äußeren Anlass zusammen. In „Wild Strawberries“ ist es ein alter Professor, der am Tag seiner Ehrung in einem Traum seinen eigenen Sarg sieht und begreift, dass er an den Menschen um sich vorbeigelebt hat.",
+   "these": "Man kann verzweifelt sein, ohne es zu merken.",
+   "einwand": "Das ist eine Behauptung, die sich nicht widerlegen lässt. Sagst du, es gehe dir gut, gilt gerade das als Beweis. So kann man jedem zufriedenen Menschen ein heimliches Elend andichten. Vielleicht gibt es einfach Leute, die ohne Abgründe glücklich sind. Wer gibt Kierkegaard das Recht, ihnen das abzusprechen?",
+   "dafuer": "Menschen berichten nach einer Krise oft, sie hätten jahrelang nur funktioniert und es erst im Nachhinein gesehen. Dass ein Zustand nicht schmerzt, sagt wenig über ihn. Auch ein tauber Zahn tut nicht weh. Die Frage ist, ob du dein Leben gewählt hast oder ob es sich ergeben hat. Könntest du das für deins beantworten?",
+   "fragen": [
+    "Woran würdest du merken, dass du an dir vorbeilebst?",
+    "Was in deinem Alltag tust du, um bestimmte Fragen nicht hören zu müssen?",
+    "Wenn morgen alles wegfiele, was du leistest: Wer bliebe übrig?"
+   ]
+  },
+  {
+   "d": "nietzsche",
+   "titel": "Gott ist tot",
+   "zitat": "Gott ist tot! Gott bleibt tot! Und wir haben ihn getötet!",
+   "quelle": "Die fröhliche Wissenschaft, 125",
+   "text": "Der tolle Mensch ruft das nicht triumphierend, sondern erschrocken. Wenn der Grund aller Werte wegfällt, wer wischt dann den Horizont weg? Nietzsche stellt eine Diagnose, keine Forderung.",
+   "frage": "Worauf stützen sich deine Werte, wenn du ehrlich bist?",
+   "idee": "In der „Fröhlichen Wissenschaft“ lässt Nietzsche einen Verrückten am hellen Vormittag mit einer Laterne auf den Markt laufen. Er sucht Gott und ruft dann, Gott sei tot, und wir hätten ihn getötet. Die Umstehenden lachen, sie glauben längst nicht mehr. Der Mann erschrickt über etwas anderes: Sie haben die Folgen nicht begriffen. Mit Gott fällt für Nietzsche mehr als ein Glaubenssatz. Es fällt der Grund, auf dem Wahrheit, Moral und der Sinn des Leidens standen. Der tolle Mensch fragt, wer uns den Schwamm gab, den ganzen Horizont wegzuwischen, und ob wir jetzt nicht fortwährend stürzen. Nietzsche jubelt hier nicht. Er stellt eine Diagnose und sagt voraus, dass es lange dauern wird, bis sie ankommt.",
+   "beispiel": "In „Winter Light“ steht ein Pfarrer vor fast leeren Bänken und hält den Gottesdienst, obwohl er selbst nicht mehr glaubt. Ein Fischer kommt mit seiner Angst zu ihm, und der Pfarrer hat nichts mehr zu geben. Die Form steht noch, der Grund ist weg. Genau diesen Zustand beschreibt Nietzsche: eine Welt, die weitermacht, als wäre nichts geschehen.",
+   "these": "Ohne Gott haben unsere Werte keinen festen Grund mehr.",
+   "einwand": "Menschen sind auch ohne Religion verlässlich, hilfsbereit und gerecht. Mitgefühl braucht keinen Himmel, es ist uns angeboren und wird eingeübt. Kant begründet Moral aus der Vernunft, andere aus dem Nutzen für alle. Und Religion hat Grausamkeit nie verhindert. Warum sollte ein Wert weniger gelten, nur weil ihn Menschen gemacht haben?",
+   "dafuer": "Frag einmal weiter, warum Menschen gleiche Würde haben oder warum man Schwache schützen soll. Irgendwann endet die Begründung bei einem „weil es so ist“. Nietzsche meint, dieses Gefühl sei ein Erbe des Christentums, das wir behalten, während wir sein Fundament abgeräumt haben. Worauf stützt du dich, wenn jemand deine Werte einfach nicht teilt?",
+   "fragen": [
+    "Worauf stützen sich deine Werte, wenn du ehrlich bist?",
+    "Welchen davon könntest du jemandem begründen, der ihn ablehnt?",
+    "Wäre es schlimm, wenn am Ende nur stünde: Ich will es so?"
+   ]
+  },
+  {
+   "d": "nietzsche",
+   "titel": "Die schwerste Frage",
+   "text": "Stell dir vor, ein Dämon sagte dir, du müsstest dieses Leben noch unzählige Male leben, jedes Detail gleich. Würdest du ihn verfluchen oder ihm danken? Die ewige Wiederkunft ist bei Nietzsche vor allem eine Probe.",
+   "frage": "Welchen Tag der letzten Woche würdest du noch einmal genau so wollen?",
+   "idee": "Nietzsche stellt in der „Fröhlichen Wissenschaft“ ein Gedankenspiel an. Ein Dämon schleicht dir in deine einsamste Einsamkeit nach und sagt: Dieses Leben, wie du es jetzt lebst und gelebt hast, wirst du noch einmal und unzählige Male leben müssen. Jeder Schmerz, jede Lust, jeder Seufzer kommt wieder, in derselben Reihenfolge. Würdest du dich niederwerfen und ihn verfluchen? Oder hast du einmal einen Augenblick erlebt, in dem du antworten würdest, nie Göttlicheres gehört zu haben? Nietzsche nennt das „das größte Schwergewicht“. Es geht ihm nicht darum, ob die Zeit wirklich im Kreis läuft. Der Gedanke ist ein Prüfstein, den man an jede Handlung legen kann: Willst du dies noch unzählige Male?",
+   "beispiel": "In „Eternal Sunshine of the Spotless Mind“ hören Joel und Clementine auf Tonband, wie hässlich ihre Liebe beim ersten Mal geendet hat. Sie wissen also, was kommt, und sagen trotzdem beide: Okay. In „Yi Yi“ zieht NJ den nüchternen Schluss. Er hätte seine Jugend noch einmal leben können und meint, es wäre dasselbe herausgekommen.",
+   "these": "Ein gutes Leben ist eines, das man genau so noch einmal wollen würde.",
+   "einwand": "Der Maßstab ist grausam für alle, denen Schlimmes zugestoßen ist. Soll jemand den Tod seines Kindes noch unzählige Male wollen? Ein Leben kann gut sein und trotzdem Dinge enthalten, die man mit aller Kraft wegwünscht. Und warum sollte Reue ein Fehler sein? Wer nichts bereut, hat vielleicht nur nichts gelernt.",
+   "dafuer": "Die Probe verlangt nicht, das Schlimme gutzuheißen. Sie fragt, ob du zum Ganzen Ja sagen kannst, obwohl es darin vorkommt. Wer immer nur einzelne Teile streichen will, lebt gegen sein eigenes Leben. Und sie schärft den Blick nach vorn: Was du heute tust, müsstest du ja auch wiederholen. Was würdest du dann lassen?",
+   "fragen": [
+    "Welchen Tag der letzten Woche würdest du noch einmal genau so wollen?",
+    "Gibt es einen Augenblick, für den du alles Übrige in Kauf nähmst?",
+    "Was tust du regelmäßig, das die Probe nicht bestehen würde?"
+   ]
+  },
+  {
+   "d": "nietzsche",
+   "titel": "Amor fati",
+   "zitat": "Meine Formel für die Größe am Menschen ist amor fati.",
+   "quelle": "Ecce homo",
+   "text": "Das Notwendige nicht bloß ertragen, noch weniger verhehlen, sondern lieben. Nietzsche meint damit keine Ergebung, sondern ein Ja, das auch das Schwere einschließt.",
+   "frage": "Was in deiner Vergangenheit würdest du inzwischen nicht mehr wegwünschen?",
+   "idee": "Amor fati heißt Liebe zum Schicksal. Nietzsche nennt es seine Formel für die Größe am Menschen: nichts anders haben wollen, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Notwendige soll man nicht bloß ertragen und noch weniger verhehlen, man soll es lieben. Mit Ergebung hat das wenig zu tun. Der Ergebene nimmt hin und leidet still. Nietzsche will ein Ja, das auch das Schwere einschließt, weil es zu dem gehört, was einen gemacht hat. Er schrieb das als kranker Mann, halb blind, von Kopfschmerzen geplagt und ohne Leser. Der Gedanke ist auch ein Mittel gegen den Groll: Wer sein Leben so annimmt, braucht niemanden mehr, dem er die Schuld gibt.",
+   "beispiel": "In „Sound of Metal“ verliert ein Schlagzeuger sein Gehör und kämpft mit allem Geld dagegen an. Am Ende sitzt er auf einer Bank, nimmt die Geräte ab und bleibt in der Stille sitzen. Ob das Liebe zum Schicksal ist oder Erschöpfung, zeigt der Film nicht. In „Tenet“ heißt derselbe Gedanke knapp: Was geschehen ist, ist geschehen.",
+   "these": "Man kann und soll auch das Schwere im eigenen Leben lieben.",
+   "einwand": "Das klingt gut, solange das Schicksal erträglich ist. Krankheit, Armut oder Gewalt zu lieben, kann zur Ausrede werden, nichts zu ändern, und den Mächtigen ist ein Volk von Schicksalsliebenden nur recht. Zorn über das, was nicht sein sollte, hat mehr verbessert als jedes Ja. Und ist „lieben“ nicht einfach zu viel verlangt?",
+   "dafuer": "Nietzsche spricht vom Notwendigen, von dem, was sich nicht mehr ändern lässt: die Vergangenheit, der eigene Körper, die Herkunft. Dagegen anzuleben vergiftet die Gegenwart. Wer das Geschehene annimmt, hat die Hände frei für das, was noch offen ist. Gibt es etwas in deiner Geschichte, gegen das du immer noch prozessierst?",
+   "fragen": [
+    "Was in deiner Vergangenheit würdest du inzwischen nicht mehr wegwünschen?",
+    "Und was kannst du bis heute nicht annehmen?",
+    "Woran erkennst du bei dir den Unterschied zwischen Annehmen und Aufgeben?"
+   ]
+  },
+  {
+   "d": "nietzsche",
+   "titel": "Chaos",
+   "zitat": "Man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können.",
+   "quelle": "Also sprach Zarathustra, Vorrede",
+   "text": "Zarathustra warnt vor dem „letzten Menschen“, der es bequem hat und blinzelt. Unordnung und innere Spannung sind für Nietzsche Voraussetzung für alles Schöpferische.",
+   "frage": "Welche Unruhe in dir möchtest du nicht loswerden?",
+   "idee": "In der Vorrede zu „Also sprach Zarathustra“ redet der Prophet zum Volk auf dem Markt. Er sagt den Satz vom Chaos, das man in sich haben müsse, um einen tanzenden Stern zu gebären. Dann warnt er vor dem Gegenbild, dem „letzten Menschen“. Der hat es warm und bequem, arbeitet ein wenig zur Unterhaltung, meidet jede Anstrengung und jeden Streit. „Wir haben das Glück erfunden“, sagen die letzten Menschen und blinzeln. Für Nietzsche ist das die größte Gefahr nach dem Ende des Glaubens: eine Menschheit, die nichts mehr will außer Behagen. Spannung, Unruhe und innerer Widerspruch sind für ihn der Stoff, aus dem etwas Neues wird. Das Volk auf dem Markt ruft übrigens, Zarathustra möge ihnen diesen letzten Menschen geben.",
+   "beispiel": "In „My Dinner with Andre“ verteidigt Wally seine Heizdecke und die Freude an einer Tasse kaltem Kaffee. André sieht darin Betäubung. Menschen, die es behaglich haben, spürten nichts mehr. In „Fight Club“ richtet sich der Erzähler nach dem Möbelkatalog ein und kann nicht schlafen. Beide Filme fragen, was Bequemlichkeit kostet.",
+   "these": "Wer nur Ruhe und Behagen sucht, bringt nichts hervor, das zählt.",
+   "einwand": "Das ist die Romantik des leidenden Genies. Viele große Werke entstanden in geordneten, ruhigen Leben. Bach hatte eine Stelle und zwanzig Kinder. Innere Unruhe zerstört mehr Menschen, als sie beflügelt. Und wer hat festgelegt, dass ein Leben etwas hervorbringen muss? Ein friedlicher Mensch, der niemandem schadet, ist kein geringerer.",
+   "dafuer": "Fast alles, was Menschen schaffen, beginnt mit einem Ungenügen: Etwas stimmt nicht, etwas fehlt, etwas lässt einen nicht los. Wer jede Reibung sofort beruhigt, mit Ablenkung oder Tabletten, nimmt sich den Antrieb. Nietzsche spricht nicht vom Leiden um seiner selbst willen, sondern von Spannung. Welche hast du zuletzt weggedrückt, statt ihr zu folgen?",
+   "fragen": [
+    "Welche Unruhe in dir möchtest du nicht loswerden?",
+    "Wo hast du es dir so bequem gemacht, dass sich nichts mehr bewegt?",
+    "Was würde entstehen, wenn du dieser einen Unruhe ein Jahr lang nachgingest?"
+   ]
+  },
+  {
+   "d": "nietzsche",
+   "titel": "Herren- und Sklavenmoral",
+   "text": "Nietzsche fragt, woher „gut“ und „böse“ stammen. Seine Antwort: Die Schwachen haben aus ihrer Ohnmacht eine Tugend gemacht und die Stärke der anderen zum Laster erklärt. Moral hat eine Geschichte und Interessen.",
+   "frage": "Welche deiner Tugenden könnte eine verkleidete Schwäche sein?",
+   "idee": "In der „Genealogie der Moral“ fragt Nietzsche, woher unsere Begriffe von Gut und Böse kommen. Er erzählt es so: Zuerst nannten die Starken und Vornehmen sich selbst „gut“ und meinten damit kraftvoll, stolz, glücklich. „Schlecht“ hieß nur: gewöhnlich. Dann kehrten die Unterlegenen die Wertung um. Weil sie sich nicht wehren konnten, erklärten sie die Stärke der anderen für böse und die eigene Ohnmacht für Tugend. Aus Nicht-Können wurde Demut, aus Angst Geduld, aus dem Wunsch nach Rache die Hoffnung auf ein Gericht. Nietzsche nennt den Antrieb dahinter Ressentiment, einen nachtragenden Groll. Ob die Geschichte historisch stimmt, ist umstritten. Seine Frage bleibt: Wem nützt eine Moral?",
+   "beispiel": "In „There Will Be Blood“ predigt der junge Eli Demut und Unterwerfung unter Gott. Zugleich will er Geld, Einfluss und die Erniedrigung seines Gegners. Der Ölmann Plainview will dasselbe und sagt es offen. Der Film zeigt zwei Wege zur Macht und lässt offen, welcher der ehrlichere ist.",
+   "these": "Hinter mancher Tugend steckt nur die Unfähigkeit, sich zu wehren.",
+   "einwand": "Selbst wenn Mitleid und Gleichheit aus Schwäche entstanden wären, sagt die Herkunft nichts über den Wert. Auch die Medizin begann mit Aberglauben. Dass die Schwachen eine Moral zu ihrem Schutz erfunden haben, spricht eher für sie. Und Nietzsches Lob der Starken wurde später von Leuten benutzt, mit denen niemand etwas zu tun haben will.",
+   "dafuer": "Man muss Nietzsches Geschichte nicht glauben, um seinen Verdacht nützlich zu finden. Wer nie widerspricht, nennt sich gern friedlich. Wer sich nichts traut, nennt sich bescheiden. Die Probe ist einfach: Würdest du genauso handeln, wenn du die Macht hättest, anders zu handeln? Bei welcher deiner guten Eigenschaften bist du dir da nicht sicher?",
+   "fragen": [
+    "Welche deiner Tugenden könnte eine verkleidete Schwäche sein?",
+    "Wem gegenüber bist du nachtragend, statt etwas zu sagen?",
+    "Was würdest du tun, wenn du dich vor diesem Menschen nicht fürchten müsstest?"
+   ]
+  },
+  {
+   "d": "nietzsche",
+   "titel": "Apollinisch und dionysisch",
+   "text": "Apollon steht für Form, Maß und den schönen Schein, Dionysos für Rausch und Auflösung des Ich. Große Kunst entsteht für den jungen Nietzsche dort, wo beide zusammenkommen, wie in der griechischen Tragödie.",
+   "frage": "Welcher Film hat dich zuletzt eher berauscht als überzeugt?",
+   "idee": "In seinem ersten Buch, „Die Geburt der Tragödie“, unterscheidet der junge Nietzsche zwei Kräfte der Kunst und benennt sie nach griechischen Göttern. Apollinisch ist das Klare: Form, Maß, das einzelne Bild, der schöne Schein, wie im Traum oder in einer Statue. Dionysisch ist der Rausch: Musik, Tanz, das Aufgehen in etwas Größerem, bei dem das Ich seine Grenzen verliert. Dahinter steht für Nietzsche eine harte Einsicht in das Leben, das Leiden und Vergehen ist. Die griechische Tragödie war groß, meint er, weil sie beides verband. Sie ließ den Abgrund spüren und gab ihm eine Form, in der man ihn aushält. Verloren ging das, als man anfing, auf der Bühne alles erklären zu wollen.",
+   "beispiel": "Tarkowskis „Mirror“ erzählt keine Geschichte, der man folgen könnte. Wind geht durch ein Feld, eine Scheune brennt, eine Frau schwebt über dem Bett. Man wird hineingezogen, ohne zu verstehen. Kubricks „Barry Lyndon“ steht am anderen Ende: jedes Bild gebaut wie ein Gemälde, kühl und aus der Ferne. Die meisten Filme, die bleiben, haben von beidem etwas.",
+   "these": "Große Kunst muss berauschen und nicht nur verstanden werden.",
+   "einwand": "Rausch ist ein schlechter Ratgeber. „Triumph of the Will“ berauscht auch, und genau das ist das Problem. Kunst, die überwältigt, macht wehrlos. Brecht wollte deshalb ein Theater, bei dem das Publikum denkt und Abstand hält. Wer Kunst am Mitreißen misst, kann am Ende einen großen Film nicht mehr von geschickter Verführung unterscheiden.",
+   "dafuer": "Was man nur versteht, hat man schnell abgelegt. Die Werke, die bleiben, haben einen zuerst getroffen und erst später Gründe geliefert. Nietzsche will die Form nicht abschaffen, er will, dass sie etwas zu bändigen hat. Ein Film, der sich restlos erklären lässt, braucht kein Film zu sein. Welcher hat dich zuletzt gepackt, bevor du wusstest, warum?",
+   "fragen": [
+    "Welcher Film hat dich zuletzt eher berauscht als überzeugt?",
+    "Misstraust du diesem Gefühl im Nachhinein oder dem Wunsch, es zu erklären?",
+    "Woran unterscheidest du für dich Ergriffenheit von Überwältigung?"
+   ]
+  },
+  {
+   "d": "camus",
+   "titel": "Das Absurde",
+   "text": "Das Absurde liegt weder im Menschen noch in der Welt, sondern im Zusammenstoß: Der Mensch fragt nach Sinn, die Welt schweigt. Camus will weder die Frage aufgeben noch sich eine Antwort erfinden.",
+   "frage": "Wann hast du zuletzt gespürt, dass die Welt dir keine Antwort schuldet?",
+   "idee": "Camus beschreibt das Absurde als ein Verhältnis. Es steckt weder im Menschen noch in der Welt, sondern entsteht, wo beide aufeinandertreffen. Der Mensch will verstehen, er verlangt nach Einheit und Sinn. Die Welt ist da und sagt nichts. Camus nennt Momente, in denen das spürbar wird: wenn die Kulissen des Alltags einstürzen und man sich mitten im Trott fragt, warum; wenn ein vertrautes Gesicht plötzlich fremd aussieht; wenn man begreift, dass man stirbt. Wichtig ist, was er dann nicht tut. Er gibt die Frage nicht auf, und er erfindet sich keine Antwort. Beides wäre für ihn eine Flucht. Er will wissen, ob man mit dieser Spannung leben kann, ohne sie aufzulösen.",
+   "beispiel": "In „The Seventh Seal“ beichtet ein Ritter, er wolle Wissen und keine Vermutungen, und Gott solle endlich sprechen. Hinter dem Gitter sitzt der Tod und schweigt. Der Ritter hört nicht auf zu fragen. Sein Knappe Jöns fragt schon lange nicht mehr und hilft trotzdem, wo er kann. Der Film stellt beide Haltungen nebeneinander.",
+   "these": "Die Welt hat keinen Sinn, den man finden könnte.",
+   "einwand": "Milliarden Menschen erleben ihr Leben als sinnvoll, durch Glauben, durch Kinder, durch Arbeit. Camus erklärt das alles zur Flucht, ohne es zu widerlegen. Vielleicht ist das Absurde nur die Stimmung eines entwurzelten Intellektuellen im Krieg. Und dass die Welt auf eine Frage nicht antwortet, kann auch heißen, dass die Frage falsch gestellt ist.",
+   "dafuer": "Sinn, den Menschen stiften, ist nicht derselbe wie Sinn, der in der Welt liegt. Das Universum war Milliarden Jahre ohne uns da und kommt ohne uns aus. Wer das einräumt, verliert nichts von dem, was er liebt. Er hört nur auf zu behaupten, es sei so gemeint gewesen. Würde sich für dich etwas ändern, wenn es nicht gemeint war?",
+   "fragen": [
+    "Wann hast du zuletzt gespürt, dass die Welt dir keine Antwort schuldet?",
+    "Hast du die Frage danach beiseitegelegt oder dir eine Antwort zurechtgelegt?",
+    "Was hält, wenn du beides weglässt?"
+   ]
+  },
+  {
+   "d": "camus",
+   "titel": "Die einzige ernste Frage",
+   "zitat": "Es gibt nur ein wirklich ernstes philosophisches Problem: den Selbstmord.",
+   "quelle": "Der Mythos des Sisyphos",
+   "text": "Ob das Leben sich lohnt, ist für Camus die Frage vor allen anderen. Seine Antwort ist ein Ja ohne Trost: weiterleben im vollen Bewusstsein des Absurden.",
+   "frage": "Was hält dich im Leben, das keine Begründung braucht?",
+   "idee": "Camus eröffnet den „Mythos des Sisyphos“ mit dem Satz über das einzige ernste philosophische Problem. Ob die Welt drei Dimensionen hat oder der Geist neun Kategorien, kommt später. Zuerst muss man wissen, ob das Leben die Mühe lohnt. Er meint das wörtlich: Für diese Frage sterben Menschen. Camus geht dann einen genauen Weg. Aus der Einsicht, dass das Leben keinen höheren Sinn hat, scheint zu folgen, dass es sich nicht lohnt. Diesen Schluss hält er für falsch. Der Selbstmord löst die Spannung zwischen dem fragenden Menschen und der stummen Welt nur auf, indem er eine Seite beseitigt. Camus setzt dagegen, das Absurde auszuhalten und das Leben trotzdem auszuschöpfen, so viel wie möglich davon.",
+   "beispiel": "In „Taste of Cherry“ sucht ein Mann jemanden, der ihn am Morgen begräbt. Einen Grund nennt er nicht. Ein alter Präparator antwortet ihm nicht mit einem Argument, sondern mit einer Geschichte von Maulbeeren, die er aß, als er sich selbst erhängen wollte. Er fragt, ob man auf den Geschmack von Kirschen verzichten wolle.",
+   "these": "Ob das Leben sich lohnt, ist die wichtigste Frage der Philosophie.",
+   "einwand": "Die meisten Menschen stellen sich diese Frage nie und leben gut. Wer sie stellt, dem geht es meist schlecht, und dann hilft selten Philosophie. Es braucht Schlaf, Menschen, manchmal einen Arzt. Vielleicht ist die Frage ein Symptom und kein Problem. Wichtiger wäre dann, wie man gut lebt, und das hat Aristoteles lange vor Camus gefragt.",
+   "dafuer": "Jede andere Frage setzt voraus, dass man weiterlebt. Wer morgens aufsteht, hat sie beantwortet, nur ohne es zu merken. Camus will, dass man die Antwort einmal bewusst gibt, weil sie dann trägt, auch wenn die Gewohnheit bricht. Was würdest du sagen, wenn dich heute jemand ernsthaft fragte, warum du lebst?",
+   "fragen": [
+    "Was hält dich im Leben, das keine Begründung braucht?",
+    "Ist das eher etwas Großes oder etwas wie der Geschmack von Kirschen?",
+    "Was würdest du jemandem sagen, der dir die Frage ernsthaft stellt?"
+   ]
+  },
+  {
+   "d": "camus",
+   "titel": "Sisyphos",
+   "zitat": "Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen.",
+   "quelle": "Der Mythos des Sisyphos",
+   "text": "Der Stein rollt immer wieder hinab. Auf dem Rückweg ins Tal ist Sisyphos frei, weil er sein Schicksal kennt und es zu seinem macht. Der Kampf gegen Gipfel genügt, um ein Menschenherz auszufüllen.",
+   "frage": "Welcher deiner Steine gehört wirklich dir?",
+   "idee": "Die Götter haben Sisyphos dazu verurteilt, einen Felsblock einen Berg hinaufzuwälzen. Oben rollt der Stein wieder hinab, und alles beginnt von vorn, für immer. Camus nimmt ihn als Bild für das menschliche Leben: aufstehen, arbeiten, schlafen, dieselben Handgriffe, ohne letztes Ziel. Ihn interessiert der Moment, in dem Sisyphos dem Stein nachsieht und wieder hinuntergeht. In dieser Pause ist er sich seiner Lage bewusst. Er weiß, dass es kein Ende gibt, und geht trotzdem. Darin liegt für Camus sein Sieg: Kein Schicksal, das man verachten kann, hat einen ganz in der Hand. Das Buch endet mit dem Satz, man müsse sich Sisyphos als glücklichen Menschen vorstellen.",
+   "beispiel": "In „The Man Who Sleeps“ steigt ein Student aus allem aus. Er hört auf zu studieren, zu reden, zu wollen, und läuft nur noch durch Paris. Am Ende steht er im Regen und wartet wie alle anderen, dass er aufhört. Er hat nichts gewonnen und ist wieder am Fuß des Berges. Der Film fragt, was man dort mit sich anfängt.",
+   "these": "Man kann in einer sinnlosen Mühe glücklich sein.",
+   "einwand": "Das sagt sich leicht vom Schreibtisch aus. Wer am Fließband steht oder Schulden abträgt, die nie kleiner werden, hat wenig von der Auskunft, er solle seinen Stein lieben. Der Gedanke kann jedes Elend rechtfertigen. Und Camus behauptet das Glück nur. Er schreibt, man müsse es sich vorstellen. Vielleicht, weil es nicht da ist.",
+   "dafuer": "Fast alles, was wir tun, ist von der Art des Steins: Abwasch, Training, Erziehung, nichts davon wird je fertig. Wer Glück erst hinter dem Gipfel erwartet, bekommt es nie. Camus verlegt es in den Vollzug und in das Wissen darum. Sein Sisyphos ist kein Betrogener, er macht sich nichts vor. Welche deiner endlosen Mühen möchtest du gar nicht los sein?",
+   "fragen": [
+    "Welcher deiner Steine gehört wirklich dir?",
+    "Welchen wälzt du nur, weil ihn dir jemand hingelegt hat?",
+    "Was denkst du auf dem Weg hinunter?"
+   ]
+  },
+  {
+   "d": "camus",
+   "titel": "Die Revolte",
+   "text": "Ein Sklave, der sein Leben lang gehorcht hat, sagt plötzlich Nein. Damit behauptet er eine Grenze und einen Wert, der für alle gilt. Aus dem einsamen Absurden wird bei Camus so etwas Gemeinsames.",
+   "frage": "Wo liegt bei dir die Grenze, an der du Nein sagst?",
+   "idee": "Nach dem Krieg fragt Camus, was aus dem Absurden für das Zusammenleben folgt. Wenn nichts einen Sinn hat, ist dann alles erlaubt, auch Mord? Seine Antwort beginnt bei einem Sklaven, der sein Leben lang Befehle ausgeführt hat und eines Tages einen verweigert. Er sagt Nein. In diesem Nein, so Camus, steckt ein Ja: Der Sklave behauptet, dass es in ihm etwas gibt, das man nicht verletzen darf. Und er behauptet es nicht nur für sich. Was er verteidigt, steht jedem Menschen zu, auch dem Herrn. So entsteht aus der Auflehnung eine Gemeinsamkeit. Zugleich zieht sie eine Grenze. Eine Revolte, die selbst Menschen zu Mitteln macht, verrät, wofür sie begonnen hat.",
+   "beispiel": "In „Hang the DJ“ fügen sich zwei Menschen lange einem System, das ihnen Partner und Fristen zuteilt. Dann steigen sie gemeinsam über die Mauer. In „One Flew Over the Cuckoo's Nest“ setzt sich McMurphy vor einen dunklen Fernseher und kommentiert ein Spiel, das man ihm verboten hat. Die anderen Patienten jubeln mit. Für einen Moment sind sie ein Wir.",
+   "these": "Wer Nein sagt, verteidigt damit etwas, das allen Menschen zusteht.",
+   "einwand": "Viele sagen Nein aus Eigennutz, Trotz oder Neid, und nichts daran gilt für alle. Auch Fanatiker lehnen sich auf. Camus liest in jede Verweigerung einen allgemeinen Wert hinein, den der Verweigernde oft gar nicht meint. Und in der Geschichte haben Revolten selten eine Grenze gehalten. Aus dem Nein der Unterdrückten wurde oft die nächste Unterdrückung.",
+   "dafuer": "Achte darauf, wie Empörung spricht. Sie sagt selten „Das passt mir nicht“, sie sagt „So geht man mit Menschen nicht um“. Darin steckt schon ein Maß, das über den Sprecher hinausgeht. Camus leugnet den Missbrauch nicht. Er gibt ein Kriterium: Eine Revolte bleibt echt, solange sie die Grenze achtet, die sie selbst behauptet hat. Wo liegt deine?",
+   "fragen": [
+    "Wo liegt bei dir die Grenze, an der du Nein sagst?",
+    "Hast du sie schon einmal für jemand anderen verteidigt?",
+    "Was dürfte dir selbst eine gerechte Sache nicht abverlangen?"
+   ]
+  },
+  {
+   "d": "camus",
+   "titel": "Der unbesiegbare Sommer",
+   "zitat": "Mitten im Winter erfuhr ich endlich, dass in mir ein unbesiegbarer Sommer ist.",
+   "quelle": "Heimkehr nach Tipasa",
+   "text": "Camus kehrt nach dem Krieg an die Ruinen seiner Jugend zurück. Er findet keinen Sinn der Geschichte, aber Licht, Meer und die Fähigkeit, sich daran zu freuen.",
+   "frage": "Was ist dein unbesiegbarer Sommer?",
+   "idee": "Der Satz vom unbesiegbaren Sommer steht in einem kurzen Text, „Heimkehr nach Tipasa“. Camus fährt Anfang der Fünfzigerjahre an einen Ort seiner Jugend zurück, zu römischen Ruinen am Meer in Algerien. Es regnet tagelang, die Ruinen sind inzwischen eingezäunt. Hinter ihm liegen der Krieg, der Widerstand und Jahre des Streits. Dann klart es auf, und er findet wieder, was er als junger Mann dort kannte: Licht, Wärme, den Geruch der Pflanzen. Er schreibt, er habe erkannt, dass er das nie ganz verloren hatte. Bei Camus steht neben dem Absurden immer diese zweite Erfahrung, eine körperliche Zustimmung zur Welt. Sie beweist nichts und begründet nichts. Sie ist für ihn die Quelle, aus der man die Kraft zum Kämpfen nimmt.",
+   "beispiel": "In „The Seventh Seal“ sitzt der Ritter, der mit dem Tod Schach spielt, an einem Hang und bekommt von einer Gauklerfamilie Walderdbeeren und Milch. Er sagt, er werde diese Stunde tragen wie eine Schale, die bis zum Rand gefüllt ist. An der Pest und am Schweigen Gottes ändert sich nichts. Trotzdem ist danach etwas anders.",
+   "these": "In jedem Menschen gibt es etwas, das kein Unglück ganz zerstören kann.",
+   "einwand": "Das ist schön gesagt und leider falsch. Folter, schwere Depression und Demenz zerstören Menschen vollständig, und wer das bestreitet, hat Glück gehabt. Der Satz kann grausam wirken: Als fehle dem, der zerbricht, nur der richtige innere Sommer. Camus spricht von sich. Daraus folgt nichts für alle.",
+   "dafuer": "Camus schreibt „in mir“ und behauptet nichts über jeden. Er berichtet eine Erfahrung, die viele teilen: Mitten in einer dunklen Zeit ist plötzlich ein Morgen einfach gut, ohne dass sich etwas gelöst hätte. Dass es solche Reste gibt, ist kein Trostspruch. Die Frage ist, ob man sie pflegt. Wann hast du zuletzt so einen Moment bemerkt?",
+   "fragen": [
+    "Was ist dein unbesiegbarer Sommer?",
+    "Ist es ein Ort, ein Mensch, ein Sinneseindruck?",
+    "Wann warst du zuletzt dort, und was hält dich ab, öfter hinzugehen?"
+   ]
+  },
+  {
+   "d": "sartre",
+   "titel": "Existenz vor Essenz",
+   "zitat": "Die Existenz geht der Essenz voraus.",
+   "quelle": "Der Existentialismus ist ein Humanismus",
+   "text": "Ein Brieföffner wird nach einem Plan gemacht. Der Mensch nicht: Er ist zuerst da und macht sich dann zu dem, was er ist. Es gibt keine menschliche Natur, auf die er sich berufen könnte.",
+   "frage": "Welche Eigenschaft hältst du für dein Wesen, obwohl du sie gewählt hast?",
+   "idee": "Sartre erklärt seinen Grundsatz an einem Brieföffner. Bevor es ihn gibt, hat ein Handwerker einen Begriff davon, wozu er dient und wie er aussehen soll. Sein Wesen, die Essenz, geht seinem Dasein voraus. Lange dachte man den Menschen genauso: Gott habe ihn nach einem Plan gemacht, oder es gebe eine feste menschliche Natur. Sartre streicht den Plan. Der Mensch ist zuerst einfach da, taucht in der Welt auf und bestimmt sich danach durch das, was er tut. Er ist nichts anderes als das, wozu er sich macht. Daraus folgt eine harte Rechnung. Niemand kann sagen, er sei eben feige oder träge. Feige ist, wer feige handelt, und er könnte anders handeln.",
+   "beispiel": "In „The Departed“ spielt ein Polizist jahrelang einen Gangster und ein Gangster einen Polizisten. Nach Sartre gibt es dahinter keinen wahren Kern, auf den sie sich berufen könnten. Sie sind, was sie tun. In „The Godfather“ sagt Michael über die Verbrechen seiner Familie: Das bin nicht ich. Dann handelt er, und er ist es.",
+   "these": "Niemand hat ein festes Wesen. Man ist, was man aus sich macht.",
+   "einwand": "Kein Mensch beginnt bei null. Gene, Temperament, Kindheit und Herkunft legen vieles fest, bevor die erste Entscheidung fällt. Zwillingsstudien zeigen, wie viel Charakter angeboren ist. Wer in Armut oder Gewalt aufwächst, hat nicht dieselben Wahlmöglichkeiten. Sartres Satz klingt nach Freiheit und läuft darauf hinaus, jedem die Schuld an seinem Leben zu geben.",
+   "dafuer": "Sartre leugnet die Umstände nicht. Er sagt, sie legen nicht fest, was du daraus machst. Zwei Geschwister aus demselben Haus werden verschiedene Menschen. Der Satz „So bin ich eben“ ist bequem, weil er jede Änderung erspart. Prüf es an dir: Welche Eigenschaft nennst du dein Wesen, obwohl du sie täglich neu wählst?",
+   "fragen": [
+    "Welche Eigenschaft hältst du für dein Wesen, obwohl du sie gewählt hast?",
+    "Was hättest du davon, wenn sie doch nicht feststünde?",
+    "Was müsstest du morgen anders tun, um sie zu widerlegen?"
+   ]
+  },
+  {
+   "d": "sartre",
+   "titel": "Zur Freiheit verurteilt",
+   "zitat": "Der Mensch ist dazu verurteilt, frei zu sein.",
+   "quelle": "Der Existentialismus ist ein Humanismus",
+   "text": "Verurteilt, weil er sich nicht selbst erschaffen hat, und frei, weil er für alles verantwortlich ist, was er tut. Auch nicht zu wählen ist eine Wahl.",
+   "frage": "Welche Entscheidung schiebst du auf die Umstände?",
+   "idee": "Wenn es keinen Plan für den Menschen gibt, dann gibt es auch keine Entschuldigung. Sartre fasst das in den Satz, der Mensch sei zur Freiheit verurteilt. Verurteilt, weil er sich nicht selbst erschaffen hat und nicht gefragt wurde. Frei, weil er von da an für alles einsteht, was er tut. Sartre erzählt von einem Schüler, der im Krieg zwischen zwei Pflichten stand: nach England gehen und kämpfen oder bei der Mutter bleiben, die nur noch ihn hatte. Kein Lehrbuch, kein Priester und kein Gefühl konnte ihm die Wahl abnehmen. Selbst wen er um Rat fragt, hat er schon gewählt. Sartre sagte ihm: Sie sind frei, wählen Sie. Auch wer sich nicht entscheidet, hat entschieden.",
+   "beispiel": "In „A Clockwork Orange“ wird Alex so umerzogen, dass ihm bei jedem Gedanken an Gewalt übel wird. Er tut nichts Böses mehr, aber er wählt es nicht. Der Gefängnispfarrer protestiert: Wer nicht wählen kann, hört auf, ein Mensch zu sein. Der Film zeigt, wie unheimlich ein Mensch ohne diese Last wäre, und wie bequem für alle anderen.",
+   "these": "Auch nicht zu wählen ist eine Wahl, für die man verantwortlich ist.",
+   "einwand": "Es gibt Lagen, in denen Menschen nicht wählen können, weil sie krank, überfordert oder in echter Not sind. Ihnen Verantwortung für ihr Zögern zuzuschreiben, ist unbarmherzig. Und manchmal ist Abwarten klug, weil sich Dinge von selbst klären. Sartres Strenge macht aus jedem Aufschub ein Versagen. Muss man wirklich immer am Steuer sitzen?",
+   "dafuer": "Die Zeit vergeht auch, während du überlegst. Wer eine Stelle nicht kündigt, bleibt. Wer nicht anruft, hat geschwiegen. Das Ergebnis tritt ein, mit dir oder ohne dich, und es trägt deinen Namen. Sartre verlangt nicht, alles sofort zu entscheiden. Er will, dass du Abwarten als deine Entscheidung erkennst. Was lässt du gerade geschehen?",
+   "fragen": [
+    "Welche Entscheidung schiebst du auf die Umstände?",
+    "Was hast du durch das Aufschieben bereits gewählt?",
+    "Wenn es deine Wahl ist: Stehst du zu ihr?"
+   ]
+  },
+  {
+   "d": "sartre",
+   "titel": "Der Blick",
+   "text": "Ich schaue durch ein Schlüsselloch und höre Schritte hinter mir. Im Blick des anderen werde ich plötzlich zum Gegenstand und schäme mich. Für Sartre erfahre ich so, dass es andere Freiheiten gibt.",
+   "frage": "Wessen Blick bestimmt, wie du dich selbst siehst?",
+   "idee": "Sartre beschreibt eine Szene. Aus Eifersucht oder Neugier lege ich das Ohr an eine Tür und schaue durchs Schlüsselloch. In diesem Moment bin ich ganz bei dem, was ich sehe, und denke nicht an mich. Dann höre ich Schritte im Flur. Jemand sieht mich. Schlagartig bin ich ein anderer: einer, der gebückt an einer Tür lauscht. Ich schäme mich, und die Scham zeigt mir zweierlei. Erstens gibt es andere Menschen, die mich beurteilen, ohne dass ich es steuern kann. Zweitens bin ich für sie ein Gegenstand mit Eigenschaften. Der Blick des anderen legt mich fest. Sartre sieht darin einen Grundkonflikt: Jeder versucht, sich dem Bild der anderen zu entziehen oder es zu beherrschen.",
+   "beispiel": "In „The Passion of Anna“ fotografiert ein Architekt die Menschen um sich für sein Archiv von Gesichtern. Wer vor seiner Kamera sitzt, fühlt sich ertappt. In „Persona“ schweigt eine Schauspielerin und sieht nur noch zu. Ihre Pflegerin redet sich um Kopf und Kragen und entdeckt später in einem Brief, wie sie dabei beobachtet wurde.",
+   "these": "Wer ich bin, bestimmen auch die anderen, die mich ansehen.",
+   "einwand": "Was andere in mir sehen, ist ihr Bild und oft ein Irrtum. Ich kenne meine Gründe, sie sehen nur die Oberfläche. Wer sich vom Blick der anderen bestimmen lässt, hat sich aufgegeben. Und Sartre beschreibt nur den feindlichen Blick. Es gibt auch den liebevollen, der nicht festlegt, sondern etwas in mir erst möglich macht.",
+   "dafuer": "Probier, dich selbst für großzügig zu halten, wenn alle, die dich kennen, dich geizig nennen. Ohne Bestätigung von außen hält kein Selbstbild lange. Ruf, Zeugnisse, der Satz eines Elternteils vor zwanzig Jahren: Vieles davon trägst du in dir, ob du willst oder nicht. Wessen Blick hörst du noch, wenn du allein bist?",
+   "fragen": [
+    "Wessen Blick bestimmt, wie du dich selbst siehst?",
+    "Was würdest du tun, wenn dieser Mensch es nie erführe?",
+    "Für wen bist du selbst der Blick, der festlegt?"
+   ]
+  },
+  {
+   "d": "heidegger",
+   "titel": "Sein zum Tode",
+   "text": "Der Tod ist für Heidegger kein Ereignis am Ende, sondern eine Möglichkeit, die das ganze Dasein begleitet und die mir niemand abnehmen kann. Wer sie nicht verdrängt, lebt entschiedener.",
+   "frage": "Was würdest du anders gewichten, wenn dir deine Endlichkeit täglich gegenwärtig wäre?",
+   "idee": "Heidegger behandelt den Tod in „Sein und Zeit“ anders, als man erwartet. Ihn interessiert weder das Sterben als Vorgang noch die Frage, was danach kommt. Der Tod ist für ihn eine Möglichkeit, die von Anfang an zum Dasein gehört. Sie ist gewiss, ihr Zeitpunkt ist unbestimmt, und niemand kann sie mir abnehmen. Im Alltag weichen wir aus. Man sagt: Man stirbt eben irgendwann, und meint damit andere und später. Heidegger nennt die Gegenhaltung „Vorlaufen“. Wer sich seinen Tod als eigene, jederzeit mögliche Grenze klarmacht, sieht sein Leben als Ganzes und als seins. Weil die Zeit begrenzt ist, kann nicht alles aufgeschoben werden. Entscheidungen bekommen erst dadurch Gewicht.",
+   "beispiel": "In „Wings of Desire“ wissen die Engel alles, und nichts kann ihnen geschehen. Einer gibt die Ewigkeit auf, weil er Kaffee schmecken und „jetzt“ sagen will. In „Wild Strawberries“ sieht ein alter Arzt im Traum eine Uhr ohne Zeiger und sich selbst im Sarg. Von da an führt er den Tag anders, als er ihn geplant hatte.",
+   "these": "Erst wer an seinen Tod denkt, lebt wirklich sein eigenes Leben.",
+   "einwand": "Epikur hielt das Gegenteil für richtig: Solange ich bin, ist der Tod nicht da, also geht er mich nichts an. Spinoza schrieb, der freie Mensch denke an nichts weniger als an den Tod. Kinder leben ganz, ohne an ein Ende zu denken. Und wer ständig das Ende vor Augen hat, wird davon eher ängstlich als entschlossen.",
+   "dafuer": "Frag Menschen nach einer schweren Diagnose oder einem Unfall. Viele sagen, erst danach hätten sie gewusst, was ihnen wichtig ist. Die Frist ordnet. Heidegger verlangt kein Grübeln über Gräber. Er meint ein nüchternes Wissen: Diese Zeit ist meine, und sie ist nicht beliebig lang. Was würdest du streichen, wenn du es ernst nähmest?",
+   "fragen": [
+    "Was würdest du anders gewichten, wenn dir deine Endlichkeit täglich gegenwärtig wäre?",
+    "Was schiebst du auf, als hättest du unbegrenzt Zeit?",
+    "Was hindert dich, damit diese Woche anzufangen?"
+   ]
+  },
+  {
+   "d": "heidegger",
+   "titel": "Geworfenheit",
+   "text": "Niemand hat sich ausgesucht, wann, wo und als wer er zur Welt kommt. Heidegger nennt das Geworfenheit. Frei ist der Mensch nicht von dieser Lage, sondern darin, was er aus ihr entwirft.",
+   "frage": "Was an deiner Herkunft hast du inzwischen zu deinem gemacht?",
+   "idee": "Niemand wurde gefragt, ob er leben will. Heidegger nennt das Geworfenheit. Jeder findet sich in einer Lage vor, die er nicht gewählt hat: in dieser Zeit, diesem Land, dieser Familie, mit dieser Sprache und diesem Körper. Das ist kein Hindernis, das man erst wegräumen müsste, um dann frei zu sein. Es ist der Boden, auf dem man steht. Dem stellt Heidegger den Entwurf gegenüber: Der Mensch ist immer auch voraus, bei seinen Möglichkeiten, bei dem, was er vorhat. Beides gehört zusammen. Man entwirft sich nie aus dem Nichts, sondern aus dem, was man mitbekommen hat. Frei ist man nicht von seiner Herkunft, sondern in dem, was man aus ihr macht.",
+   "beispiel": "In „Kes“ ist für den Jungen Billy fast alles festgelegt: die Bergarbeiterstadt, der prügelnde Bruder, die Schule, die ihn für die Zeche vorsieht. Dann findet er einen Falken und bringt sich aus einem Buch das Abrichten bei. Für eine Weile entwirft er etwas Eigenes aus dem, was da ist. „Hereditary“ zeigt die Gegenseite: eine Familie, die ihrem Erbe nicht entkommt.",
+   "these": "Frei ist man nicht von seiner Herkunft, sondern nur innerhalb von ihr.",
+   "einwand": "Menschen haben ihre Herkunft immer wieder gesprengt. Sie sind ausgewandert, haben die Sprache gewechselt, den Glauben abgelegt und die Klasse verlassen. Der Gedanke kann leicht dazu dienen, Leute an ihren Platz zu verweisen. Dass Heidegger selbst für Boden und Volk schwärmte, macht ihn hier nicht vertrauenswürdiger. Vielleicht ist Freiheit gerade der Bruch.",
+   "dafuer": "Auch wer bricht, bricht mit etwas Bestimmtem und trägt es dadurch mit. Der Auswanderer bleibt einer, der von dort kommt. Selbst die Auflehnung gegen die Eltern hat deren Handschrift. Heidegger sagt nicht, man müsse bleiben. Er sagt, man fange nie bei null an. Was an deiner Herkunft steckt selbst in dem, womit du dich von ihr abgesetzt hast?",
+   "fragen": [
+    "Was an deiner Herkunft hast du inzwischen zu deinem gemacht?",
+    "Was davon bekämpfst du noch, und wie sehr bestimmt dich gerade das?",
+    "Was hast du entworfen, das ohne diese Herkunft nicht denkbar wäre?"
+   ]
+  },
+  {
+   "d": "heidegger",
+   "titel": "Das Man",
+   "text": "Man liest, was man liest, man empört sich, worüber man sich empört. Das Man ist niemand Bestimmtes und nimmt doch jedem die Entscheidung ab. Heidegger nennt dieses Leben uneigentlich.",
+   "frage": "Welche deiner Gewohnheiten gehört eigentlich dem Man?",
+   "idee": "Heidegger fragt, wer im Alltag eigentlich handelt, und antwortet: das Man. Man genießt, wie man genießt. Man liest und urteilt über Bücher, wie man urteilt. Man empört sich über das, worüber man sich empört. Dieses Man ist kein bestimmter Mensch und auch nicht die Summe aller. Es ist eine anonyme Instanz, die vorgibt, was üblich ist. Sie hat eine angenehme Wirkung, denn sie entlastet. Wer tut, was man tut, muss nichts verantworten. Heidegger beschreibt drei Züge: das Gerede, in dem alles schon bekannt ist, die Neugier, die von einem Reiz zum nächsten springt, und die Zweideutigkeit, in der keiner mehr weiß, was er wirklich verstanden hat. Uneigentlich nennt er ein Leben, das darin aufgeht. Ein Vorwurf ist das zunächst nicht, es ist der Normalzustand.",
+   "beispiel": "In „My Dinner with Andre“ behauptet André, die meisten Leute liefen wie im Halbschlaf durch ihre Tage und sprächen in Sätzen, die niemand von ihnen gedacht habe. In „The Truman Show“ ist das Man sogar gebaut: eine ganze Stadt aus Leuten, die jeden Morgen dasselbe sagen, damit einer nie auf die Idee kommt, dass es anders sein könnte.",
+   "these": "Das meiste, was ich denke und tue, stammt nicht von mir.",
+   "einwand": "Na und? Sprache, Sitten und Wissen sind geteilt, und das ist ein Gewinn. Niemand kann alles selbst erfinden. Wer es versucht, landet bei Schrullen. Heideggers Abwertung des Üblichen hat etwas Hochmütiges: Die anderen plappern, nur der Philosoph ist wach. Vielleicht ist ein gewöhnliches Leben mit geliehenen Meinungen völlig in Ordnung.",
+   "dafuer": "Mach die Probe: Woher hast du deine Ansicht zu einem Thema, über das du gestern gesprochen hast? Meist aus zwei Überschriften und dem Ton deiner Umgebung. Heidegger verlangt keine Originalität. Er verlangt, dass du wenigstens einiges davon prüfst und zu deinem machst. Bei welcher Überzeugung hast du das zuletzt wirklich getan?",
+   "fragen": [
+    "Welche deiner Gewohnheiten gehört eigentlich dem Man?",
+    "Welche würdest du behalten, wenn niemand sie von dir erwartete?",
+    "Was tätest du stattdessen, und warum tust du es nicht?"
+   ]
+  },
+  {
+   "d": "weil",
+   "titel": "Aufmerksamkeit",
+   "zitat": "Aufmerksamkeit ist die seltenste und reinste Form der Großzügigkeit.",
+   "quelle": "Brief an Joë Bousquet, 1942",
+   "text": "Aufmerksam sein heißt für Weil, das eigene Denken auszusetzen und leer zu werden für das, was da ist. Einem Unglücklichen wirklich zuzuhören ist deshalb fast ein Wunder.",
+   "frage": "Wem hast du zuletzt zugehört, ohne schon deine Antwort vorzubereiten?"
+  },
+  {
+   "d": "weil",
+   "titel": "Schwerkraft und Gnade",
+   "text": "In der Seele herrscht eine Art Schwerkraft: Wer verletzt wird, will verletzen, wer leer ist, will sich füllen. Gnade nennt Weil alles, was dieser Mechanik nicht folgt, etwa nicht zurückzuschlagen und die Leere auszuhalten.",
+   "frage": "Wo hast du zuletzt der Schwerkraft nicht nachgegeben?"
+  },
+  {
+   "d": "weil",
+   "titel": "Verwurzelung",
+   "text": "Die Verwurzelung ist für Weil vielleicht das wichtigste und am meisten verkannte Bedürfnis der Seele: teilzuhaben an einer Gemeinschaft, die Schätze der Vergangenheit bewahrt und Ahnungen der Zukunft.",
+   "frage": "Wo bist du verwurzelt?"
+  },
+  {
+   "d": "pascal",
+   "titel": "Die Wette",
+   "text": "Ob Gott existiert, lässt sich nicht beweisen. Pascal rechnet: Wer auf Gott setzt und verliert, verliert wenig, wer gewinnt, gewinnt alles. Entscheidend ist sein Zusatz, dass man gar nicht nicht wetten kann. Wir sind eingeschifft.",
+   "frage": "Worauf hast du gesetzt, ohne es je beschlossen zu haben?"
+  },
+  {
+   "d": "pascal",
+   "titel": "Das denkende Schilfrohr",
+   "zitat": "Der Mensch ist nur ein Schilfrohr, das schwächste der Natur, aber er ist ein denkendes Schilfrohr.",
+   "quelle": "Pensées",
+   "text": "Ein Tropfen Wasser genügt, um ihn zu töten. Doch der Mensch weiß, dass er stirbt, und das Weltall weiß nichts. Unsere ganze Würde liegt für Pascal im Denken.",
+   "frage": "Wann hast du dich zuletzt zugleich winzig und groß gefühlt?"
+  },
+  {
+   "d": "pascal",
+   "titel": "Die Gründe des Herzens",
+   "zitat": "Das Herz hat seine Gründe, die der Verstand nicht kennt.",
+   "quelle": "Pensées",
+   "text": "Pascal war Mathematiker und meinte das nicht sentimental. Die ersten Prinzipien, auch die der Geometrie, werden nicht bewiesen, sondern unmittelbar eingesehen. Beweisen ist nicht die einzige Art zu wissen.",
+   "frage": "Was weißt du, ohne es begründen zu können?"
+  },
+  {
+   "d": "pascal",
+   "titel": "Zerstreuung",
+   "text": "Ein König ohne Zerstreuung ist ein unglücklicher Mensch. Jagd, Spiel und Geschäfte dienen für Pascal einem Zweck: nicht an sich selbst denken zu müssen, an die eigene Sterblichkeit und Leere.",
+   "frage": "Wovor lenkst du dich am zuverlässigsten ab?"
+  },
+  {
+   "d": "dostojewski",
+   "titel": "Ist alles erlaubt?",
+   "text": "Iwan Karamasow vertritt den Gedanken: Gibt es keinen Gott und keine Unsterblichkeit, dann ist alles erlaubt. Der Roman prüft diesen Satz an den Menschen, die ihn ernst nehmen, und einer von ihnen mordet.",
+   "frage": "Woher käme für dich ein Verbot, das niemand durchsetzt?"
+  },
+  {
+   "d": "dostojewski",
+   "titel": "Zwei mal zwei ist fünf",
+   "text": "Der Mann im Kellerloch wehrt sich gegen eine Welt, in der alles berechnet ist. Lieber handelt er gegen den eigenen Vorteil, nur um zu beweisen, dass er ein Mensch ist und keine Klaviertaste.",
+   "frage": "Wann hast du zuletzt bewusst gegen deinen Vorteil gehandelt?"
+  },
+  {
+   "d": "dostojewski",
+   "titel": "Der Großinquisitor",
+   "text": "Christus kehrt zurück, und der Großinquisitor lässt ihn verhaften. Sein Vorwurf: Du hast den Menschen Freiheit gegeben, sie wollen aber Brot, Wunder und Autorität. Christus antwortet nur mit einem Kuss.",
+   "frage": "Welche Freiheit würdest du gegen Sicherheit eintauschen?"
+  },
+  {
+   "d": "laotse",
+   "titel": "Wu wei",
+   "text": "Wu wei heißt nicht Nichtstun, sondern Handeln, ohne zu erzwingen, so wie Wasser nachgibt und doch den Stein aushöhlt. Der Weise tut, was die Lage verlangt, und drängt sich nicht auf.",
+   "frage": "Wo erzwingst du gerade etwas, das von selbst kommen müsste?"
+  },
+  {
+   "d": "laotse",
+   "titel": "Sich selbst kennen",
+   "zitat": "Wer andere kennt, ist klug. Wer sich selbst kennt, ist weise.",
+   "quelle": "Daodejing, Kap. 33",
+   "text": "Der Abschnitt setzt fort: Wer andere besiegt, hat Kraft, wer sich selbst besiegt, ist stark. Und wer weiß, dass er genug hat, ist reich.",
+   "frage": "Was weißt du über andere besser als über dich?"
+  },
+  {
+   "d": "laotse",
+   "titel": "Das Unsagbare",
+   "zitat": "Das Dao, das sich aussprechen lässt, ist nicht das ewige Dao.",
+   "quelle": "Daodejing, Kap. 1",
+   "text": "Das Buch beginnt mit dem Eingeständnis, dass sein Gegenstand sich nicht in Worte fassen lässt, und spricht dann doch achtzig Kapitel lang darüber, in Bildern und Paradoxen.",
+   "frage": "Welche Erfahrung verlierst du, sobald du sie erklärst?"
+  },
+  {
+   "d": "epiktet",
+   "titel": "In unserer Macht",
+   "text": "In unserer Macht stehen Urteil, Wollen und Ablehnen. Nicht in unserer Macht stehen Körper, Besitz, Ansehen. Wer das zweite für sein Eigentum hält, wird nach Epiktet klagen und sich aufregen. Wer nur das erste will, den kann niemand zwingen.",
+   "frage": "Worüber hast du dich heute geärgert, das nicht in deiner Macht stand?"
+  },
+  {
+   "d": "marcaurel",
+   "titel": "Die Morgenübung",
+   "text": "Marc Aurel sagt sich am Morgen vor: Ich werde heute Undankbaren, Rücksichtslosen und Neidischen begegnen. Sie sind so aus Unwissenheit, und keiner von ihnen kann mir schaden, denn wir sind zur Zusammenarbeit geboren.",
+   "frage": "Wem begegnest du morgen, auf den du dich so vorbereiten könntest?"
+  },
+  {
+   "d": "marcaurel",
+   "titel": "Der Blick von oben",
+   "text": "Betrachte das Treiben der Menschen wie von einem hohen Ort aus: Herden, Heere, Hochzeiten, Märkte, Geburten und Tode. Die Übung soll nichts entwerten, sondern das eigene Aufgeregtsein auf sein Maß bringen.",
+   "frage": "Welche deiner Sorgen schrumpft, wenn du sie von weit oben ansiehst?"
+  },
+  {
+   "d": "seneca",
+   "titel": "Die Kürze des Lebens",
+   "zitat": "Es ist nicht wenig Zeit, die wir haben, sondern es ist viel Zeit, die wir nicht nutzen.",
+   "quelle": "Von der Kürze des Lebens (sinngemäß)",
+   "text": "Seneca wundert sich, dass Menschen ihr Geld geizig hüten und ihre Zeit an jeden verschenken, der danach fragt. Dabei ist sie das Einzige, womit Geiz ehrenhaft wäre.",
+   "frage": "Wem oder was gibst du Zeit, die du nicht geben willst?"
+  },
+  {
+   "d": "seneca",
+   "titel": "Das Übel vorwegnehmen",
+   "text": "Die Stoiker üben, sich Verluste im Voraus vorzustellen: Verbannung, Krankheit, den Tod der Liebsten. Was erwartet wurde, trifft weniger hart, und was man noch hat, wird wieder sichtbar.",
+   "frage": "Was würdest du mehr schätzen, wenn du dir seinen Verlust vorstellst?"
+  },
+  {
+   "d": "epikur",
+   "titel": "Der Tod geht uns nichts an",
+   "zitat": "Solange wir da sind, ist der Tod nicht da, und wenn der Tod da ist, sind wir nicht mehr.",
+   "quelle": "Brief an Menoikeus",
+   "text": "Alles Gute und Schlimme beruht auf Empfindung, der Tod ist deren Ende. Also kann er für uns kein Übel sein. Epikur will damit nicht trösten, sondern eine Furcht auflösen, die das Leben vergiftet.",
+   "frage": "Überzeugt dich das Argument? Wenn nein, warum nicht?"
+  },
+  {
+   "d": "epikur",
+   "titel": "Wenig brauchen",
+   "text": "Epikur unterscheidet natürliche und notwendige Begierden von solchen, die leer sind. Brot, Wasser, Freunde und ein ruhiger Geist genügen. Wem das Wenige nicht reicht, dem reicht nichts.",
+   "frage": "Welche deiner Wünsche würde Epikur leer nennen?"
+  },
+  {
+   "d": "sokrates",
+   "titel": "Nichtwissen",
+   "text": "Das Orakel nennt Sokrates den Weisesten. Er prüft Politiker, Dichter und Handwerker und findet: Sie glauben zu wissen, was sie nicht wissen. Sein Vorsprung ist nur, dass er sich darüber nicht täuscht.",
+   "frage": "Was glaubst du zu wissen, das du nie geprüft hast?"
+  },
+  {
+   "d": "sokrates",
+   "titel": "Das geprüfte Leben",
+   "zitat": "Ein Leben ohne Selbsterforschung ist für den Menschen nicht lebenswert.",
+   "quelle": "Platon, Apologie 38a",
+   "text": "Sokrates sagt das vor Gericht, als er wählen könnte zu schweigen und weiterzuleben. Er wählt das Fragen und damit den Tod.",
+   "frage": "Welche Frage an dein eigenes Leben schiebst du vor dir her?"
+  },
+  {
+   "d": "platon",
+   "titel": "Die Höhle",
+   "text": "Gefangene sehen ihr Leben lang nur Schatten an einer Wand. Einer wird befreit, steigt ans Licht, ist geblendet und versteht. Als er zurückkehrt, lachen ihn die anderen aus. Bildung ist für Platon eine Umwendung der ganzen Seele.",
+   "frage": "Welche Schatten hast du lange für die Sache selbst gehalten?"
+  },
+  {
+   "d": "platon",
+   "titel": "Die Leiter der Liebe",
+   "text": "Im „Gastmahl“ beschreibt Diotima einen Aufstieg: von einem schönen Körper zu allen schönen Körpern, zur Schönheit der Seelen, des Wissens und schließlich zum Schönen selbst. Eros ist das Verlangen nach dem, was fehlt.",
+   "frage": "Wohin hat dich eine Verliebtheit geführt, die über die Person hinausging?"
+  },
+  {
+   "d": "aristoteles",
+   "titel": "Die Mitte",
+   "text": "Tugend ist für Aristoteles die Mitte zwischen zwei Fehlern: Mut zwischen Feigheit und Tollkühnheit, Großzügigkeit zwischen Geiz und Verschwendung. Wo sie liegt, zeigt keine Regel, sondern Übung und Urteilskraft.",
+   "frage": "Zu welchem Extrem neigst du, und was wäre die Mitte?"
+  },
+  {
+   "d": "aristoteles",
+   "titel": "Drei Arten Freundschaft",
+   "text": "Manche Freunde sind uns nützlich, mit anderen ist es angenehm. Die vollkommene Freundschaft gilt dem anderen um seiner selbst willen. Sie ist selten und braucht Zeit, denn man muss, wie es heißt, viel Salz zusammen gegessen haben.",
+   "frage": "Welche deiner Freundschaften gilt dem Menschen selbst?"
+  },
+  {
+   "d": "heraklit",
+   "titel": "Der Fluss",
+   "zitat": "Wer in dieselben Flüsse steigt, dem strömt anderes und wieder anderes Wasser zu.",
+   "quelle": "Fragment B 12",
+   "text": "Der Fluss bleibt derselbe, gerade weil sein Wasser wechselt. Heraklit meint damit weniger, dass nichts bleibt, als dass Beständigkeit aus Wandel besteht.",
+   "frage": "Was an dir ist gleich geblieben, obwohl alles sich geändert hat?"
+  },
+  {
+   "d": "augustinus",
+   "titel": "Was ist Zeit?",
+   "zitat": "Was also ist die Zeit? Wenn niemand mich danach fragt, weiß ich es; will ich es einem Fragenden erklären, weiß ich es nicht.",
+   "quelle": "Bekenntnisse XI",
+   "text": "Die Vergangenheit ist nicht mehr, die Zukunft noch nicht, die Gegenwart ohne Dauer. Augustinus schließt daraus, dass Zeit in der Seele liegt: als Erinnerung, Anschauung und Erwartung.",
+   "frage": "Wo verbringst du mehr Zeit, in der Erinnerung oder in der Erwartung?"
+  },
+  {
+   "d": "augustinus",
+   "titel": "Das unruhige Herz",
+   "zitat": "Unruhig ist unser Herz, bis es ruht in dir.",
+   "quelle": "Bekenntnisse I",
+   "text": "Augustinus beschreibt sein Leben als Suche, die an Ehrgeiz, Lust und Wissen nicht satt wurde. Man kann den Satz auch ohne seinen Gott lesen: als Beschreibung eines Verlangens, das kein Gegenstand stillt.",
+   "frage": "Wonach suchst du, ohne es benennen zu können?"
+  },
+  {
+   "d": "montaigne",
+   "titel": "Was weiß ich?",
+   "text": "Montaigne ließ sich die Frage „Que sais-je?“ auf eine Medaille prägen. Seine Essais sind Versuche: Er beobachtet sich selbst, widerspricht sich und lässt es stehen. Ich male nicht das Sein, schreibt er, ich male den Übergang.",
+   "frage": "Worin hast du dir im letzten Jahr widersprochen?"
+  },
+  {
+   "d": "descartes",
+   "titel": "Ich denke, also bin ich",
+   "text": "Descartes zweifelt an den Sinnen, an der Mathematik, an der ganzen Außenwelt. Eines bleibt: Wer zweifelt, denkt, und wer denkt, ist. Auf diesen einen sicheren Punkt baut er alles Weitere.",
+   "frage": "Was hältst du für so sicher, dass du es nie bezweifelt hast?"
+  },
+  {
+   "d": "spinoza",
+   "titel": "Begreifen",
+   "zitat": "Die menschlichen Handlungen nicht belachen, nicht beweinen, auch nicht verabscheuen, sondern begreifen.",
+   "quelle": "Politischer Traktat I, 4",
+   "text": "Spinoza betrachtet Affekte wie Linien und Flächen: als Dinge mit Ursachen. Wer versteht, warum ein Mensch so handelt, hört auf, ihn zu hassen, und gewinnt selbst an Freiheit.",
+   "frage": "Wessen Verhalten verurteilst du, ohne es verstanden zu haben?"
+  },
+  {
+   "d": "spinoza",
+   "titel": "Unter dem Blick der Ewigkeit",
+   "text": "Sub specie aeternitatis heißt, die Dinge nicht von meinem Standpunkt und meinem Moment aus zu sehen, sondern als notwendige Teile eines Ganzen. Für Spinoza liegt darin die höchste Ruhe des Geistes.",
+   "frage": "Wie sähe dein heutiger Tag aus dieser Entfernung aus?"
+  },
+  {
+   "d": "hume",
+   "titel": "Das Bündel",
+   "text": "Wenn Hume in sich hineinblickt, findet er immer nur eine einzelne Wahrnehmung, Wärme, Liebe, Schmerz, aber nie ein Ich, das sie hat. Das Selbst ist für ihn ein Bündel von Eindrücken, zusammengehalten von der Erinnerung.",
+   "frage": "Was findest du, wenn du nach deinem Ich suchst?"
+  },
+  {
+   "d": "kant",
+   "titel": "Der kategorische Imperativ",
+   "text": "Handle nur nach derjenigen Maxime, von der du wollen kannst, dass sie ein allgemeines Gesetz werde. Kant fragt nicht nach den Folgen, sondern ob meine Regel für alle gelten könnte, ohne sich selbst aufzuheben.",
+   "frage": "Welche deiner Ausnahmen würdest du nicht jedem zugestehen?"
+  },
+  {
+   "d": "kant",
+   "titel": "Habe Mut",
+   "zitat": "Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!",
+   "quelle": "Beantwortung der Frage: Was ist Aufklärung?",
+   "text": "Unmündig ist nach Kant, wer nicht aus Mangel an Verstand, sondern aus Bequemlichkeit andere für sich denken lässt: das Buch, den Seelsorger, den Arzt.",
+   "frage": "In welcher Frage lässt du noch denken?"
+  },
+  {
+   "d": "kant",
+   "titel": "Zwei Dinge",
+   "zitat": "Der bestirnte Himmel über mir und das moralische Gesetz in mir.",
+   "quelle": "Kritik der praktischen Vernunft, Beschluss",
+   "text": "Zwei Dinge erfüllen Kant mit immer neuer Bewunderung. Der Himmel zeigt ihm, wie klein er als Naturwesen ist, das Gesetz in ihm, dass er als freies Wesen über die Natur hinausreicht.",
+   "frage": "Was erfüllt dich mit Ehrfurcht?"
+  },
+  {
+   "d": "hegel",
+   "titel": "Herr und Knecht",
+   "text": "Zwei Bewusstseine kämpfen um Anerkennung, eines unterwirft sich. Doch der Herr hängt nun von der Anerkennung eines Unfreien ab, während der Knecht in der Arbeit die Welt formt und sich darin erkennt. Am Ende ist er der Selbstständigere.",
+   "frage": "Von wessen Anerkennung hängst du ab?"
+  },
+  {
+   "d": "hegel",
+   "titel": "Die Eule der Minerva",
+   "zitat": "Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.",
+   "quelle": "Grundlinien der Philosophie des Rechts, Vorrede",
+   "text": "Philosophie kommt für Hegel immer zu spät, um die Welt zu belehren. Sie begreift eine Gestalt des Lebens erst, wenn diese alt geworden ist.",
+   "frage": "Welchen Abschnitt deines Lebens verstehst du erst jetzt?"
+  },
+  {
+   "d": "schopenhauer",
+   "titel": "Die Stachelschweine",
+   "text": "An einem kalten Tag rücken Stachelschweine zusammen, um sich zu wärmen, und stechen sich. Sie rücken ab und frieren. Schließlich finden sie eine mittlere Entfernung. Schopenhauer nennt sie Höflichkeit.",
+   "frage": "Wie viel Nähe hältst du aus, und wie viel Distanz?"
+  },
+  {
+   "d": "schopenhauer",
+   "titel": "Mitleid",
+   "text": "Für Schopenhauer ist Mitleid die einzige echte Grundlage der Moral. Im Mitleid fällt für einen Moment die Grenze zwischen mir und dem anderen, weil in allen derselbe Wille leidet.",
+   "frage": "Wessen Leid hast du zuletzt als dein eigenes empfunden?"
+  },
+  {
+   "d": "schopenhauer",
+   "titel": "Die Atempause",
+   "text": "Vor einem Kunstwerk hört das Wollen kurz auf. Wir betrachten, ohne etwas zu begehren, und sind für diesen Moment vom Rad des Willens befreit. Die Musik steht für Schopenhauer dabei über allen Künsten.",
+   "frage": "Bei welchem Film hast du dich zuletzt selbst vergessen?"
+  },
+  {
+   "d": "marx",
+   "titel": "Verändern",
+   "zitat": "Die Philosophen haben die Welt nur verschieden interpretiert; es kommt darauf an, sie zu verändern.",
+   "quelle": "Thesen über Feuerbach, 11",
+   "text": "Der Satz steht auch auf Marx' Grabstein. Er richtet sich gegen ein Denken, das sich mit Verstehen begnügt und die Verhältnisse lässt, wie sie sind.",
+   "frage": "Was hast du verstanden und trotzdem nicht geändert?"
+  },
+  {
+   "d": "freud",
+   "titel": "Wo Es war",
+   "zitat": "Wo Es war, soll Ich werden.",
+   "quelle": "Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse",
+   "text": "Freud vergleicht die Arbeit der Analyse mit der Trockenlegung der Zuidersee: Dem Unbewussten wird Stück für Stück Land abgewonnen. Ganz gelingt es nie.",
+   "frage": "Was treibt dich, ohne dass du es gewählt hättest?"
+  },
+  {
+   "d": "freud",
+   "titel": "Das Unbehagen in der Kultur",
+   "text": "Kultur verlangt Triebverzicht. Sie schützt uns voreinander und macht uns dafür unglücklich, weil die Aggression, die nicht nach außen darf, sich als Schuldgefühl gegen das eigene Ich richtet.",
+   "frage": "Welchen Verzicht nimmst du der Gesellschaft übel?"
+  },
+  {
+   "d": "jung",
+   "titel": "Der Schatten",
+   "text": "Was ich an mir nicht sehen will, verschwindet nicht. Es begegnet mir in anderen, an denen es mich maßlos ärgert. Jung nennt die Auseinandersetzung mit dem Schatten den ersten Schritt, ein ganzer Mensch zu werden.",
+   "frage": "Was regt dich an anderen auf, das auch in dir steckt?"
+  },
+  {
+   "d": "wittgenstein",
+   "titel": "Grenzen der Sprache",
+   "zitat": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.",
+   "quelle": "Tractatus logico-philosophicus, 5.6",
+   "text": "Was sich sagen lässt, lässt sich klar sagen. Ethik, Ästhetik und der Sinn des Lebens gehören für den frühen Wittgenstein nicht dazu. Sie zeigen sich, und gerade sie sind das Wichtige.",
+   "frage": "Was ist dir wichtig, wofür dir die Worte fehlen?"
+  },
+  {
+   "d": "wittgenstein",
+   "titel": "Bedeutung ist Gebrauch",
+   "zitat": "Die Bedeutung eines Wortes ist sein Gebrauch in der Sprache.",
+   "quelle": "Philosophische Untersuchungen, § 43",
+   "text": "Der späte Wittgenstein gibt die Idee auf, Wörter seien Etiketten für Dinge. Sprechen ist Teil einer Tätigkeit, eines Sprachspiels, und viele philosophische Rätsel entstehen, wenn die Sprache feiert.",
+   "frage": "Welches Wort benutzt du anders als die Menschen um dich?"
+  },
+  {
+   "d": "buber",
+   "titel": "Ich und Du",
+   "zitat": "Der Mensch wird am Du zum Ich.",
+   "quelle": "Ich und Du",
+   "text": "Zum Es verhalte ich mich, wenn ich etwas betrachte, einordne, benutze. Dem Du begegne ich mit meinem ganzen Wesen. Jedes Du wird wieder zum Es, schreibt Buber, das sei die erhabene Schwermut unseres Loses.",
+   "frage": "Wen behandelst du als Es, der ein Du sein könnte?"
+  },
+  {
+   "d": "levinas",
+   "titel": "Das Antlitz",
+   "text": "Das Gesicht des anderen ist für Levinas mehr als etwas Sichtbares. Es ist nackt und schutzlos und sagt vor jedem Wort: Du wirst nicht töten. Verantwortung beginnt, bevor ich mich für sie entschieden habe.",
+   "frage": "Wessen Gesicht hat dich zuletzt in die Pflicht genommen?"
+  },
+  {
+   "d": "arendt",
+   "titel": "Anfangen können",
+   "text": "Die Philosophie hat den Menschen meist als Sterblichen bestimmt. Arendt setzt die Gebürtlichkeit dagegen: Mit jedem Menschen kommt ein neuer Anfang in die Welt, und Handeln heißt, etwas beginnen zu können.",
+   "frage": "Was hast du zuletzt wirklich neu angefangen?"
+  },
+  {
+   "d": "arendt",
+   "titel": "Denken ohne Geländer",
+   "text": "So nannte Arendt ihr eigenes Vorgehen. Nach dem Bruch der Tradition im 20. Jahrhundert gibt es keine Handläufe mehr, an denen sich das Urteil festhalten könnte. Man muss selbst denken und kann dabei fallen.",
+   "frage": "An welchem Geländer hältst du dich beim Urteilen fest?"
+  },
+  {
+   "d": "arendt",
+   "titel": "Die Banalität des Bösen",
+   "text": "Arendt sah in Eichmann keinen Dämon, sondern einen Mann, der sich weigerte nachzudenken, was er tat. Das Böse braucht keine Tiefe. Es kann sich ausbreiten wie ein Pilz auf der Oberfläche.",
+   "frage": "Wo machst du mit, ohne darüber nachzudenken?"
+  },
+  {
+   "d": "beauvoir",
+   "titel": "Man wird es",
+   "zitat": "Man kommt nicht als Frau zur Welt, man wird es.",
+   "quelle": "Das andere Geschlecht",
+   "text": "Beauvoir wendet Sartres Gedanken, dass die Existenz der Essenz vorausgeht, auf die Geschlechter an. Was als Natur gilt, ist das Ergebnis von Erziehung, Erwartung und Lage.",
+   "frage": "Was an dir hältst du für Natur, das dir beigebracht wurde?"
+  },
+  {
+   "d": "benjamin",
+   "titel": "Der Engel der Geschichte",
+   "text": "Benjamin beschreibt einen Engel, der mit dem Rücken zur Zukunft fliegt. Wo wir eine Kette von Ereignissen sehen, sieht er eine einzige Katastrophe, die Trümmer auf Trümmer häuft. Ein Sturm treibt ihn fort, und diesen Sturm nennen wir Fortschritt.",
+   "frage": "Was übersieht, wer nur nach vorn schaut?"
+  },
+  {
+   "d": "foucault",
+   "titel": "Der innere Aufseher",
+   "text": "Im Panoptikum kann ein Wächter alle Zellen einsehen, ohne selbst gesehen zu werden. Die Insassen wissen nie, ob er hinschaut, und überwachen sich deshalb selbst. Für Foucault ist das die Formel moderner Macht.",
+   "frage": "Für welchen unsichtbaren Zuschauer benimmst du dich?"
+  },
+  {
+   "d": "jaspers",
+   "titel": "Grenzsituationen",
+   "text": "Dass ich sterben muss, leide, schuldig werde und dem Zufall ausgeliefert bin, lässt sich nicht ändern oder umgehen. Jaspers nennt das Grenzsituationen. An ihnen scheitern wir oder werden wir selbst.",
+   "frage": "Welche Grenzsituation hat dich verändert?"
+  },
+  {
+   "d": "frankl",
+   "titel": "Die letzte Freiheit",
+   "text": "Frankl beobachtete im Lager Menschen, die ihr letztes Brot verschenkten. Sie beweisen für ihn, dass dem Menschen alles genommen werden kann außer der Freiheit, sich zu den gegebenen Verhältnissen so oder so einzustellen.",
+   "frage": "Wozu hast du dich zuletzt bewusst eingestellt, statt nur zu reagieren?"
+  },
+  {
+   "d": "han",
+   "titel": "Müdigkeit",
+   "text": "Die Disziplinargesellschaft sagte „Du sollst“, die Leistungsgesellschaft sagt „Du kannst“. Das klingt nach Freiheit und erzeugt Erschöpfung, weil Antreiber und Angetriebener dieselbe Person sind.",
+   "frage": "Wann hast du zuletzt etwas getan, das zu nichts nütze war?"
+  },
+  {
+   "d": "girard",
+   "titel": "Geliehenes Begehren",
+   "text": "Wir begehren nach Girard nicht aus uns selbst. Wir wollen, was ein anderer will, den wir bewundern. So werden Vorbilder zu Rivalen, und aus Nachahmung wächst Gewalt.",
+   "frage": "Welcher deiner Wünsche stammt von jemand anderem?"
+  },
+  {
+   "d": "jonas",
+   "titel": "Ein neuer Imperativ",
+   "text": "Kants Ethik galt dem Nächsten und der Gegenwart. Seit die Technik in die ferne Zukunft wirkt, verlangt Jonas mehr: so zu handeln, dass auch künftig Menschen ein menschenwürdiges Leben führen können. Im Zweifel hat die schlechte Prognose Vorrang.",
+   "frage": "Was tust du heute, das erst andere bezahlen werden?"
+  },
+  {
+   "d": "tarkowski",
+   "titel": "Versiegelte Zeit",
+   "text": "Tarkowski nennt das Filmen ein Bildhauern aus Zeit. Wie der Bildhauer vom Marmor alles wegschlägt, was nicht zur Figur gehört, nimmt der Regisseur aus einem Block gelebter Zeit das Überflüssige weg. Der Rhythmus einer Einstellung ist der Druck der Zeit in ihr.",
+   "frage": "Bei welcher Einstellung hast du die Zeit selbst gespürt?"
+  },
+  {
+   "d": "tarkowski",
+   "titel": "Wozu Kunst?",
+   "text": "Kunst soll für Tarkowski weder unterhalten noch belehren. Sie soll den Menschen auf den Tod vorbereiten, seine Seele pflügen und auflockern, damit sie fähig wird, sich dem Guten zuzuwenden.",
+   "frage": "Welcher Film hat an dir gearbeitet, statt dich zu unterhalten?"
+  },
+  {
+   "d": "parfit",
+   "titel": "Worauf es ankommt",
+   "text": "Parfit kommt zu dem Schluss, dass es kein tiefes, unteilbares Ich gibt, nur verbundene Erfahrungen und Erinnerungen. Er fand das befreiend: Die Wände seines Glastunnels verschwanden, und der Tod erschien ihm weniger schlimm.",
+   "frage": "Wäre dein Leben leichter oder schwerer ohne ein festes Ich?"
+  },
+  {
+   "d": "nozick",
+   "titel": "Die Erlebnismaschine",
+   "text": "Eine Maschine könnte dir jedes gewünschte Erlebnis vorspielen, ein Leben lang, und du wüsstest nichts davon. Würdest du einsteigen? Nozick meint, nein: Wir wollen Dinge tun und jemand sein, nicht nur etwas fühlen.",
+   "frage": "Würdest du einsteigen?"
+  },
+  {
+   "d": "debord",
+   "titel": "Das Spektakel",
+   "text": "Das Spektakel ist für Debord keine Sammlung von Bildern, sondern ein Verhältnis zwischen Menschen, das durch Bilder vermittelt ist. Was erscheint, gilt als gut, und was gut ist, erscheint.",
+   "frage": "Was hast du zuletzt erlebt, ohne es zu zeigen?"
+  },
+  {
+   "d": "adorno",
+   "titel": "Kein richtiges Leben",
+   "zitat": "Es gibt kein richtiges Leben im falschen.",
+   "quelle": "Minima Moralia, 18",
+   "text": "Der Satz beschließt eine Notiz über das Wohnen. Adorno meint: In einer falsch eingerichteten Gesellschaft kann sich niemand privat ins Reine bringen. Das entbindet nicht davon, es zu versuchen.",
+   "frage": "Wo richtest du dich ein, obwohl du es besser weißt?"
+  }
+ ]
 }

@@ -3,7 +3,7 @@
   const WUNSCH_SCHLUESSEL = "filmdenker.wunschliste";
   const $ = (s) => document.querySelector(s);
   const zustand = {
-    filme: [], nachId: {}, denker: {}, links: {}, wunsch: [],
+    filme: [], nachId: {}, denker: {}, links: {}, wunsch: [], stoff: {}, denken: {},
     vorrat: [], versatz: 0, notizen: [], entwurf: null, notizSuche: "",
     treffer: [], gezeigt: 0, filter: "alle", suche: "", sortierung: "zuletzt", jahrzehnt: "",
   };
@@ -87,6 +87,45 @@
     $("#liste").insertAdjacentHTML("beforeend", teil.map(filmZeile).join(""));
   }
 
+  // Stellung beziehen und Fragen Schritt für Schritt: gemerkt wird je Thema die Wahl (s) und wie viele Fragen offen liegen (n).
+  const DENK_SCHLUESSEL = "filmdenker.denken";
+  function denkenLaden() {
+    try { zustand.denken = JSON.parse(localStorage.getItem(DENK_SCHLUESSEL)) || {}; } catch { zustand.denken = {}; }
+  }
+  function denkenSetzen(key, aenderung) {
+    zustand.denken[key] = { ...zustand.denken[key], ...aenderung };
+    try { localStorage.setItem(DENK_SCHLUESSEL, JSON.stringify(zustand.denken)); } catch { /* gilt dann nur bis zum Schließen */ }
+    document.querySelectorAll("[data-denken]").forEach((el) => { if (el.dataset.denken === key) el.outerHTML = denkenHtml(key); });
+  }
+  function denkenHtml(key) {
+    const v = zustand.stoff[key];
+    const { s: wahl, n = 1 } = zustand.denken[key] || {};
+    const wahlKnopf = (w, t) => `<button class="knopf wahl${wahl === w ? " an" : ""}" data-stellung="${w}" aria-pressed="${wahl === w}">${t}</button>`;
+    const stimme = (titel, inhalt) => `<div class="stimme"><span>${titel}</span>${text(inhalt)}</div>`;
+    const stellung = v.these
+      ? `<h4>Deine Stellung</h4>
+        <p class="these">${text(v.these)}</p>
+        <div class="wahlen">${wahlKnopf("ja", "Stimme zu")}${wahlKnopf("nein", "Stimme nicht zu")}${wahlKnopf("offen", "Unsicher")}</div>
+        ${!wahl ? '<p class="leise hinweis">Leg dich erst fest. Danach kommt die Gegenstimme zu deiner Wahl.</p>' : ""}
+        ${wahl === "ja" || wahl === "offen" ? stimme("Was dagegen spricht", v.einwand) : ""}
+        ${wahl === "nein" || wahl === "offen" ? stimme("Was dafür spricht", v.dafuer) : ""}`
+      : `<h4>Einwand</h4><div class="fliess"><p>${text(v.einwand)}</p></div>`;
+    const offen = Math.min(n, v.fragen.length);
+    const fragen = v.these && !wahl ? "" : `<h4>Fragen zum Weiterdenken</h4>
+        <ol class="punkte fragen">${v.fragen.slice(0, offen).map((x) => `<li>${text(x)}</li>`).join("")}</ol>
+        ${offen < v.fragen.length ? `<button class="knopf weiter" data-weiter="${offen + 1}">Nächste Frage (${offen + 1} von ${v.fragen.length})</button>` : ""}`;
+    return `<div class="denken" data-denken="${text(key)}">${stellung}${fragen}</div>`;
+  }
+  function vertiefungHtml(key, v, beispielTitel, beispiel) {
+    zustand.stoff[key] = v;
+    return `<h4>Die Grundidee</h4><div class="fliess"><p>${text(v.idee)}</p></div>
+      ${v.zitat && !v.titel ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}
+      <h4>${beispielTitel}</h4>${beispiel}
+      ${denkenHtml(key)}`;
+  }
+  const szenenHtml = (v) => `<ul class="punkte">${v.szenen.map((x) => `<li>${text(x)}</li>`).join("")}</ul>`;
+  const filmStoff = (f) => `film:${zustand.links[f.id] ? f.id : f.alias}`;
+
   function denkerAbschnitt(f) {
     const v = linkVon(f);
     if (!v) {
@@ -103,12 +142,7 @@
         <span class="denker-name">${text(d.name)}</span>
         <span class="leise">${text(v.begriff)}</span>
       </button>
-      ${v.idee ? `
-        <h4>Die Grundidee</h4><div class="fliess"><p>${text(v.idee)}</p></div>
-        ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}
-        <h4>Im Film</h4><ul class="punkte">${v.szenen.map((x) => `<li>${text(x)}</li>`).join("")}</ul>
-        <h4>Einwand</h4><div class="fliess"><p>${text(v.einwand)}</p></div>
-        <h4>Fragen zum Weiterdenken</h4><ol class="punkte fragen">${v.fragen.map((x) => `<li>${text(x)}</li>`).join("")}</ol>`
+      ${v.idee ? vertiefungHtml(filmStoff(f), v, "Im Film", szenenHtml(v))
       : `<div class="fliess">${absaetze(v.text)}</div>
         ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}`}
       ${v.lesen ? `<p class="lesen"><span>Zum Weiterlesen</span>${text(v.lesen)}</p>` : ""}`;
@@ -229,8 +263,9 @@
       inhalt = `<p class="art">Aus deinen Filmen</p>
         <h2>${text(v.begriff)}</h2>
         <p class="leise">${text(d.name)} · ${text(f.titel)} (${f.jahr ?? ""})</p>
-        <div class="fliess">${absaetze(v.text.split("\n\n")[0])}</div>
-        ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}
+        ${v.idee ? vertiefungHtml(filmStoff(f), v, "Im Film", szenenHtml(v))
+        : `<div class="fliess">${absaetze(v.text.split("\n\n")[0])}</div>
+        ${v.zitat ? `<blockquote>${text(v.zitat)}<footer>${text(v.quelle)}</footer></blockquote>` : ""}`}
         <div class="knoepfe">
           <button class="knopf" data-id="${f.id}">Zum Film</button>
           <button class="knopf" data-denker="${v.d}">Über ${text(d.name)}</button>
@@ -241,8 +276,9 @@
         <h2>${text(e.titel)}</h2>
         <p class="leise">${text(d.name)} · ${text(d.daten)}</p>
         ${e.zitat ? `<blockquote class="gross">${text(e.zitat)}<footer>${text(e.quelle)}</footer></blockquote>` : ""}
-        <div class="fliess">${absaetze(e.text)}</div>
-        <div class="frage"><span>Für dein Notizbuch</span>${text(e.frage)}</div>
+        ${e.idee ? vertiefungHtml(`impuls:${e.d}|${e.titel}`, e, "Ein Beispiel", `<div class="fliess"><p>${text(e.beispiel)}</p></div>`)
+        : `<div class="fliess">${absaetze(e.text)}</div>
+        <div class="frage"><span>Für dein Notizbuch</span>${text(e.frage)}</div>`}
         <div class="knoepfe"><button class="knopf" data-denker="${e.d}">Über ${text(d.name)}</button></div>`;
     }
     const notizen = e.film ? notizenAbschnitt("film", e.film) : notizenAbschnitt("impuls", `${e.d}|${e.titel}`);
@@ -527,6 +563,10 @@
         const zurueck = !imBlatt ? null : n.bezug.art === "film" ? () => filmOeffnen(n.bezug.id) : n.bezug.art === "denker" ? () => denkerOeffnen(n.bezug.id) : null;
         return notizBearbeiten(n, zurueck);
       }
+      const stellung = e.target.closest("[data-stellung]");
+      if (stellung) return denkenSetzen(stellung.closest("[data-denken]").dataset.denken, { s: stellung.dataset.stellung });
+      const weiter = e.target.closest("[data-weiter]");
+      if (weiter) return denkenSetzen(weiter.closest("[data-denken]").dataset.denken, { n: +weiter.dataset.weiter });
       const tag = e.target.closest("[data-tag]");
       if (tag) { zustand.versatz = Math.min(0, zustand.versatz + +tag.dataset.tag); return heuteZeichnen(); }
       const wunsch = e.target.closest("[data-wunsch]");
@@ -552,6 +592,7 @@
   async function start() {
     verdrahten();
     wunschLaden();
+    denkenLaden();
     try {
       const [daten, denker, impulse, vertiefung] = await Promise.all(
         ["data/filme.json", "data/denker.json", "data/impulse.json", "data/vertiefung.json"].map(async (u) => (await fetch(u)).json())
