@@ -66,7 +66,17 @@
    "d": "kierkegaard",
    "titel": "Der Sprung",
    "text": "Zwischen Wissen und Glauben gibt es für Kierkegaard keine Brücke aus Argumenten. Wer glaubt, springt, ohne Garantie und allein. Das gilt bei ihm nicht nur für Religion, sondern für jede Entscheidung, die ein Leben bindet.",
-   "frage": "Welche deiner Entscheidungen ließ sich nicht zu Ende begründen?"
+   "frage": "Welche deiner Entscheidungen ließ sich nicht zu Ende begründen?",
+   "idee": "Kierkegaard fragt, wie ein Mensch zum Glauben kommt, und antwortet: nicht durch Beweise. Man kann Gründe sammeln, so viele man will, sie reichen nie bis ans Ziel. Zwischen dem, was sich wissen lässt, und dem Entschluss, sein Leben darauf zu setzen, bleibt eine Lücke. Über sie führt keine Brücke, man muss springen. Kierkegaard hat dabei Abraham vor Augen, der bereit ist, seinen Sohn zu opfern, ohne es jemandem erklären zu können. Der Gedanke reicht über die Religion hinaus. Auch wer heiratet, ein Kind bekommt oder alles auf einen Beruf setzt, entscheidet ohne Garantie. Wer wartet, bis alle Gründe beisammen sind, entscheidet nie. Und niemand kann einem den Sprung abnehmen.",
+   "beispiel": "In „The Sacrifice“ betet ein Mann in der Nacht eines drohenden Atomkriegs und gelobt, alles herzugeben, wenn die Welt verschont wird. Am Morgen ist der Krieg fort. Er hält Wort und zündet sein Haus an. Niemand versteht ihn, und beweisen lässt sich nichts. In „Stalker“ scheitern zwei kluge Männer an derselben Schwelle: Sie treten nicht ein.",
+   "these": "Die wichtigsten Entscheidungen im Leben lassen sich nicht zu Ende begründen.",
+   "einwand": "Das ist ein Freibrief. Wer springt, statt zu prüfen, landet auch in Sekten, schlechten Ehen und Schulden. Gerade bei großen Entscheidungen sollte man mehr nachdenken und nicht weniger. Und Abraham mit dem Messer über seinem Kind ist kein Vorbild, sondern ein Schrecken. Wie unterscheidest du einen Sprung von einer Dummheit?",
+   "dafuer": "Versuch, die Liebe zu einem Menschen vollständig zu begründen. Jede Liste von Vorzügen passt auch auf andere. Gründe bringen dich bis an den Rand, den letzten Schritt tust du ohne sie. Kierkegaard verachtet das Nachdenken nicht. Er sagt nur, wo es endet. Welche deiner Bindungen hast du je zu Ende begründet?",
+   "fragen": [
+    "Welche deiner Entscheidungen ließ sich nicht zu Ende begründen?",
+    "Würdest du sie heute wieder so treffen, ohne mehr zu wissen als damals?",
+    "Vor welchem Sprung stehst du gerade und sammelst noch Gründe?"
+   ]
   },
   {
    "d": "kierkegaard",
@@ -74,7 +84,17 @@
    "zitat": "Angst ist der Schwindel der Freiheit.",
    "quelle": "Der Begriff Angst",
    "text": "Furcht hat einen Gegenstand, Angst nicht. Sie entsteht, wenn ich merke, dass ich kann, so wie am Abgrund nicht nur der Sturz erschreckt, sondern die Möglichkeit zu springen.",
-   "frage": "Wovor hast du Angst, weil es möglich wäre, und nicht, weil es droht?"
+   "frage": "Wovor hast du Angst, weil es möglich wäre, und nicht, weil es droht?",
+   "idee": "Kierkegaard trennt zwei Dinge, die wir im Alltag vermischen. Furcht richtet sich auf etwas Bestimmtes: einen Hund, eine Prüfung, eine Diagnose. Angst hat keinen Gegenstand. Sie kommt auf, wenn ein Mensch merkt, dass etwas möglich ist und dass es an ihm liegt. Sein Bild ist der Blick in einen Abgrund. Schwindlig wird einem dort nicht nur wegen der Tiefe. Schwindlig macht das Wissen, dass man springen könnte. Angst ist für ihn deshalb das Gefühl der Freiheit selbst. Ein Tier kennt sie nicht, weil es nichts wählen muss. Kierkegaard hält sie für eine Lehrmeisterin: Wer gelernt hat, sich auf die rechte Weise zu ängstigen, habe das Höchste gelernt.",
+   "beispiel": "In „Donnie Darko“ erfährt ein Junge, dass die Welt in 28 Tagen endet, und weiß nicht, was von ihm verlangt ist. Seine Lehrerin will Gefühle auf einer Linie zwischen Angst und Liebe einsortieren. Er weigert sich. Seine Angst hat kein Ding, vor dem man ihn schützen könnte. Sie gilt dem, was er tun könnte.",
+   "these": "Angst ist kein Fehler, den man loswerden sollte. Sie gehört zur Freiheit.",
+   "einwand": "Für Menschen mit einer Angststörung ist das zynisch. Ihre Angst zeigt keine Freiheit an, sie nimmt sie ihnen: Sie können nicht mehr einkaufen, fliegen oder schlafen. Da helfen Therapie und manchmal Medikamente, keine Philosophie. Und viele Ängste haben handfeste Ursachen, die man beseitigen kann. Warum sollte man ein Leiden adeln?",
+   "dafuer": "Kierkegaard meint nicht die Panik im Supermarkt. Er meint die Unruhe vor einem Schritt, der dich verändert: kündigen, sich trennen, etwas zugeben. Diese Angst verschwindet nur, wenn du die Möglichkeit aufgibst. Wer nie Angst hat, hat sich meist so eingerichtet, dass nichts mehr auf dem Spiel steht. Wann hattest du zuletzt diese Art Angst?",
+   "fragen": [
+    "Wovor hast du Angst, weil es möglich wäre, und nicht, weil es droht?",
+    "Was würdest du verlieren, wenn diese Möglichkeit verschwände?",
+    "Was müsstest du tun, damit aus der Angst eine Entscheidung wird?"
+   ]
   },
   {
    "d": "kierkegaard",
@@ -420,25 +440,65 @@
    "zitat": "Aufmerksamkeit ist die seltenste und reinste Form der Großzügigkeit.",
    "quelle": "Brief an Joë Bousquet, 1942",
    "text": "Aufmerksam sein heißt für Weil, das eigene Denken auszusetzen und leer zu werden für das, was da ist. Einem Unglücklichen wirklich zuzuhören ist deshalb fast ein Wunder.",
-   "frage": "Wem hast du zuletzt zugehört, ohne schon deine Antwort vorzubereiten?"
+   "frage": "Wem hast du zuletzt zugehört, ohne schon deine Antwort vorzubereiten?",
+   "idee": "Simone Weil hält Aufmerksamkeit für etwas viel Selteneres als Anstrengung. Wer sich konzentriert, spannt meist die Stirn an und will etwas erreichen. Aufmerksamkeit ist bei ihr das Gegenteil: Man setzt das eigene Wollen und Meinen aus und wartet, bis die Sache sich zeigt. Sie hat das zuerst am Lernen beschrieben. Auch eine Geometrieaufgabe, die man nicht löst, schult diese Fähigkeit. Wirklich wichtig wird sie zwischen Menschen. Einem Unglücklichen zuzuhören, ohne ihn zu beraten, einzuordnen oder mit eigenen Geschichten zu antworten, nennt Weil fast ein Wunder. Die Frage, die man ihm stellen muss, lautet nur: Was quält dich? Aufmerksamkeit ist für sie eine Form von Liebe und dem Gebet verwandt.",
+   "beispiel": "In „Good Will Hunting“ sitzt der Therapeut Sean eine ganze Stunde schweigend mit Will im Zimmer, weil Will nicht reden will. Er drängt nicht und geht nicht. In „Autumn Sonata“ spielt eine Tochter ihrer Mutter vor und sieht sie dabei an. Die Mutter hört die Fehler im Spiel und sieht die Tochter nicht.",
+   "these": "Jemandem wirklich zuzuhören ist das Größte, was man einem Menschen geben kann.",
+   "einwand": "Wer hungert, braucht Brot. Wer verprügelt wird, braucht jemanden, der dazwischengeht. Zuhören ist das Geschenk derer, die nichts riskieren wollen. Es kann sogar bequem sein: Man nickt und ändert nichts. Weil selbst ging in die Fabrik und in den Krieg, weil ihr Zuhören nicht reichte. Ist Aufmerksamkeit mehr als ein Anfang?",
+   "dafuer": "Hilfe ohne Aufmerksamkeit trifft oft daneben. Man gibt, was man selbst für richtig hält, und der andere bleibt allein. Die meisten Menschen wissen, wie selten es ist, dass jemand ihnen ohne Absicht zuhört, und vergessen es nie. Geld kann man überweisen, Aufmerksamkeit kostet einen selbst. Wer hat dir zuletzt so zugehört?",
+   "fragen": [
+    "Wem hast du zuletzt zugehört, ohne schon deine Antwort vorzubereiten?",
+    "Was hat dich beim letzten Mal davon abgehalten: Ungeduld, ein Ratschlag, das Telefon?",
+    "Wer in deiner Nähe wartet darauf, dass jemand fragt, was ihn quält?"
+   ]
   },
   {
    "d": "weil",
    "titel": "Schwerkraft und Gnade",
    "text": "In der Seele herrscht eine Art Schwerkraft: Wer verletzt wird, will verletzen, wer leer ist, will sich füllen. Gnade nennt Weil alles, was dieser Mechanik nicht folgt, etwa nicht zurückzuschlagen und die Leere auszuhalten.",
-   "frage": "Wo hast du zuletzt der Schwerkraft nicht nachgegeben?"
+   "frage": "Wo hast du zuletzt der Schwerkraft nicht nachgegeben?",
+   "idee": "Simone Weil beschreibt die Seele mit einem Bild aus der Physik. So wie Körper nach unten fallen, folgt auch das Innere einer Schwerkraft. Wer gedemütigt wird, will demütigen. Wer leidet, will, dass ein anderer leidet. Wer eine Leere spürt, stopft sie mit dem Nächstbesten: Essen, Trost, Rache, Einbildung. Das geschieht fast mechanisch, niemand muss dafür böse sein. Gnade nennt Weil jede Bewegung, die dieser Mechanik nicht gehorcht. Nicht zurückschlagen. Eine Kränkung nicht weitergeben. Eine Leere aushalten, ohne sie sofort zu füllen. Aus eigener Kraft, meint sie, geht das kaum. Es kommt wie von außen. Man kann nur aufhören, sich dagegen zu sperren.",
+   "beispiel": "In „American History X“ wandert der Hass wie ein Gewicht vom Vater zum Sohn und vom Bruder zum Bruder. Einer steigt aus, und die Bewegung läuft trotzdem weiter. In „Oldboy“ wird ein Mann fünfzehn Jahre eingesperrt und lebt danach nur für die Vergeltung. Auch sein Peiniger ist einer, der eine Verletzung zurückgibt.",
+   "these": "Wer verletzt wird, gibt die Verletzung fast automatisch weiter.",
+   "einwand": "Das entschuldigt zu viel. Viele Menschen mit schlimmer Kindheit werden besonders behutsame Eltern, gerade weil sie wissen, wie es war. Menschen sind keine fallenden Steine, sie entscheiden. Wer von Mechanik redet, nimmt dem Täter die Verantwortung. Und braucht es wirklich Gnade von außen, wo Anstand und Übung reichen?",
+   "dafuer": "Beobachte dich nach einem schlechten Tag. Der Ärger aus dem Büro landet beim Kellner oder zu Hause. Das Wort „automatisch“ trifft es, weil man es meist erst hinterher merkt. Dass manche die Kette unterbrechen, widerlegt das Gesetz nicht. Es zeigt, wie viel dazu gehört. An wem hast du zuletzt etwas ausgelassen, das ein anderer verursacht hat?",
+   "fragen": [
+    "Wo hast du zuletzt der Schwerkraft nicht nachgegeben?",
+    "Was hat es dich gekostet, die Kränkung bei dir zu behalten?",
+    "Welche Leere füllst du regelmäßig, statt sie auszuhalten?"
+   ]
   },
   {
    "d": "weil",
    "titel": "Verwurzelung",
    "text": "Die Verwurzelung ist für Weil vielleicht das wichtigste und am meisten verkannte Bedürfnis der Seele: teilzuhaben an einer Gemeinschaft, die Schätze der Vergangenheit bewahrt und Ahnungen der Zukunft.",
-   "frage": "Wo bist du verwurzelt?"
+   "frage": "Wo bist du verwurzelt?",
+   "idee": "Kurz vor ihrem Tod 1943 schrieb Simone Weil im Londoner Exil ein Buch darüber, was ein Land seinen Menschen schuldet. Sie zählt Bedürfnisse der Seele auf, wie man Bedürfnisse des Körpers aufzählt, und stellt eines an die Spitze: die Verwurzelung. Ein Mensch braucht es, auf natürliche Weise teilzuhaben an einer Gemeinschaft, die etwas aus der Vergangenheit bewahrt und etwas von der Zukunft erwartet. Das kann ein Ort sein, ein Beruf, eine Sprache, ein Glaube. Entwurzelung ist für sie die gefährlichste Krankheit einer Gesellschaft. Sie entsteht durch Eroberung, durch Geld, das alles vergleichbar macht, und durch Arbeit, bei der man nur ein Teil ist. Und sie steckt an: Wer entwurzelt ist, entwurzelt andere.",
+   "beispiel": "In „La Haine“ leben drei junge Männer in einer Vorstadt, die für sie nichts vorgesehen hat. Sie haben keinen Ort in der Stadt, keine Arbeit, keine Geschichte, auf die sie stolz sein dürften. In Tarkowskis „Mirror“ ist es umgekehrt: Ein Mann kehrt im Geist immer wieder in das Holzhaus seiner Kindheit zurück, als hinge alles daran.",
+   "these": "Ein Mensch braucht einen Ort und eine Herkunft, zu denen er gehört.",
+   "einwand": "Aus der Sehnsucht nach Wurzeln wird schnell die Abwehr aller, die woanders herkommen. „Blut und Boden“ war auch eine Verwurzelungslehre. Viele Menschen blühen erst auf, wenn sie ihr Dorf verlassen. Städte, Reisen und Mischung haben mehr Freiheit gebracht als jede Heimat. Vielleicht braucht der Mensch eher Beine als Wurzeln.",
+   "dafuer": "Weil spricht nicht von Blut. Sie meint Teilhabe: etwas, das vor dir da war und nach dir weitergeht und in dem du einen Platz hast. Auch wer fortgeht, sucht das wieder, in einer Stadt, einem Beruf, einem Kreis von Freunden. Menschen ganz ohne das werden selten frei, eher haltlos. Wo wirst du vermisst, wenn du fehlst?",
+   "fragen": [
+    "Wo bist du verwurzelt?",
+    "Ist es ein Ort, eine Sprache, eine Tätigkeit oder ein Kreis von Menschen?",
+    "Was davon gibst du weiter, und an wen?"
+   ]
   },
   {
    "d": "pascal",
    "titel": "Die Wette",
    "text": "Ob Gott existiert, lässt sich nicht beweisen. Pascal rechnet: Wer auf Gott setzt und verliert, verliert wenig, wer gewinnt, gewinnt alles. Entscheidend ist sein Zusatz, dass man gar nicht nicht wetten kann. Wir sind eingeschifft.",
-   "frage": "Worauf hast du gesetzt, ohne es je beschlossen zu haben?"
+   "frage": "Worauf hast du gesetzt, ohne es je beschlossen zu haben?",
+   "idee": "Blaise Pascal war Mathematiker und einer der Erfinder der Wahrscheinlichkeitsrechnung. In seinen „Gedanken“ wendet er sie auf die größte Frage an. Ob es Gott gibt, kann die Vernunft nicht entscheiden. Also rechnet er wie bei einem Spiel. Setze ich auf Gott und es gibt ihn, gewinne ich unendlich viel. Gibt es ihn nicht, habe ich wenig verloren, ein paar Vergnügen. Setze ich gegen ihn, kann ich wenig gewinnen und alles verlieren. Der klügere Einsatz liegt auf der Hand. Wichtig ist ein Zusatz, den man oft überliest: Man kann nicht nicht wetten. Wer sich enthält, lebt so, als gäbe es Gott nicht, und hat damit gesetzt. Wir sind, sagt Pascal, schon eingeschifft.",
+   "beispiel": "In „Winter Light“ hält ein Pfarrer den Gottesdienst, obwohl er nichts mehr spürt und die Kirche fast leer ist. Man kann das als Pascals Rat lesen: Tu, als ob du glaubtest, das Übrige findet sich. In „The Seventh Seal“ verlangt der Ritter dagegen Wissen. Eine Wette genügt ihm nicht.",
+   "these": "Wo man nichts wissen kann, ist es vernünftig, auf das zu setzen, was am meisten verspricht.",
+   "einwand": "Auf welchen Gott denn? Es gibt Tausende, und manche bestrafen den falschen Glauben härter als den Unglauben. Außerdem kann man Glauben nicht beschließen wie einen Lottoschein. Und ein Gott, der berechnende Wetter belohnt, wäre ein seltsamer Gott. Ehrlicher Zweifel könnte ihm lieber sein als kalkulierte Frömmigkeit.",
+   "dafuer": "Lass Gott weg, und der Kern bleibt. Bei jeder großen Entscheidung fehlt dir das Wissen: ob eine Ehe hält, ob ein Beruf dich trägt. Du setzt trotzdem, und nicht zu setzen ist auch ein Einsatz. Pascal zwingt nur dazu, das einzusehen und den Einsatz bewusst zu wählen. Worauf setzt du gerade, ohne es so zu nennen?",
+   "fragen": [
+    "Worauf hast du gesetzt, ohne es je beschlossen zu haben?",
+    "Was wäre gewonnen und was verloren, wenn du dich irrst?",
+    "Würdest du den Einsatz ändern, wenn du ihn heute bewusst wählen müsstest?"
+   ]
   },
   {
    "d": "pascal",
@@ -446,7 +506,17 @@
    "zitat": "Der Mensch ist nur ein Schilfrohr, das schwächste der Natur, aber er ist ein denkendes Schilfrohr.",
    "quelle": "Pensées",
    "text": "Ein Tropfen Wasser genügt, um ihn zu töten. Doch der Mensch weiß, dass er stirbt, und das Weltall weiß nichts. Unsere ganze Würde liegt für Pascal im Denken.",
-   "frage": "Wann hast du dich zuletzt zugleich winzig und groß gefühlt?"
+   "frage": "Wann hast du dich zuletzt zugleich winzig und groß gefühlt?",
+   "idee": "Pascal lebte in dem Jahrhundert, in dem das Fernrohr den Himmel aufriss. Die Erde war plötzlich ein Körnchen in einem Raum ohne Rand. Er schreibt, das ewige Schweigen dieser unendlichen Räume erschrecke ihn. Aus diesem Schrecken kommt sein Bild vom Schilfrohr. Der Mensch ist das Schwächste in der Natur. Es braucht kein Weltall, um ihn zu vernichten, ein Dunst, ein Tropfen Wasser genügt. Aber selbst wenn das All ihn zermalmte, wäre er edler als das, was ihn tötet. Denn er weiß, dass er stirbt, und das All weiß von seiner Übermacht nichts. Pascal zieht daraus einen Auftrag: Bemühen wir uns, gut zu denken. Darin liegt alle Würde, und sie hängt nicht an Raum und Dauer.",
+   "beispiel": "In „2001: A Space Odyssey“ treibt ein einzelner Astronaut in einem Raum, der sich für ihn nicht interessiert. In „Interstellar“ sitzt ein Vater Lichtjahre entfernt vor Videobotschaften seiner Kinder und weint. Beide Filme zeigen den Menschen als Pünktchen, und beide hängen ihre ganze Spannung an das, was dieses Pünktchen weiß und will.",
+   "these": "Die Würde des Menschen liegt im Denken.",
+   "einwand": "Dann hätte ein Säugling keine Würde, ein Mensch mit schwerer Demenz auch nicht. Und Tiere, die leiden, aber nicht philosophieren, zählten nichts. Vielleicht liegt Würde eher im Fühlen oder einfach darin, ein Lebewesen zu sein. Das Denken hat außerdem Gaskammern und Bomben geplant. Besonders edel war das nicht.",
+   "dafuer": "Pascal vergleicht den Menschen mit Sternen und Wasser, nicht mit Kindern oder Kranken. Sein Punkt: Größe misst sich nicht in Metern und Jahren. Ein Wesen, das sich fragen kann, was es soll und was es ist, steht anders in der Welt als ein Stein. Was tust du mit dieser Fähigkeit, die dich vom Stein unterscheidet?",
+   "fragen": [
+    "Wann hast du dich zuletzt zugleich winzig und groß gefühlt?",
+    "Erschreckt dich die Größe des Alls, oder beruhigt sie dich?",
+    "Was heißt für dich „gut denken“, und wann hast du es zuletzt getan?"
+   ]
   },
   {
    "d": "pascal",
@@ -454,37 +524,97 @@
    "zitat": "Das Herz hat seine Gründe, die der Verstand nicht kennt.",
    "quelle": "Pensées",
    "text": "Pascal war Mathematiker und meinte das nicht sentimental. Die ersten Prinzipien, auch die der Geometrie, werden nicht bewiesen, sondern unmittelbar eingesehen. Beweisen ist nicht die einzige Art zu wissen.",
-   "frage": "Was weißt du, ohne es begründen zu können?"
+   "frage": "Was weißt du, ohne es begründen zu können?",
+   "idee": "Der Satz vom Herzen wird meist als Lob des Gefühls gegen den Verstand zitiert. Pascal meint etwas Genaueres. Er war Geometer und wusste, dass jeder Beweis irgendwo anfangen muss. Dass es Raum, Zeit, Zahlen und Bewegung gibt, kann niemand beweisen. Wir sehen es unmittelbar ein und bauen alles Weitere darauf. Diese Einsicht nennt er Herz. Sie ist keine Stimmung, sondern eine eigene Art zu wissen, sicher und ohne Ableitung. Der Verstand soll sich deshalb nicht einbilden, er müsse alles begründen, bevor es gilt. Für Pascal gehört auch der Glaube hierher: Gott wird gespürt, nicht erschlossen. Wer nur gelten lässt, was sich beweisen lässt, sägt nach ihm am eigenen Ast.",
+   "beispiel": "In „Stalker“ kann der Führer nicht begründen, warum man in der Zone Umwege gehen muss. Er weiß es. Der Professor und der Schriftsteller haben Argumente und kommen keinen Schritt weiter. In „Interstellar“ behauptet eine Wissenschaftlerin, Liebe sei etwas, das wir wahrnehmen, auch wenn wir es nicht verstehen. Ihre Kollegen halten das für unsachlich.",
+   "these": "Es gibt sicheres Wissen, das sich nicht beweisen lässt.",
+   "einwand": "Mit „Das weiß ich eben“ wurde jeder Unsinn verteidigt, von Hexen bis zur Überlegenheit einer Rasse. Das Gefühl der Gewissheit sagt nichts über die Wahrheit. Die Wissenschaft kam erst voran, als sie anfing, auch das Selbstverständliche zu prüfen. Wer dem Herzen ein eigenes Wissen zugesteht, hat keinen Schutz mehr vor dem eigenen Irrtum.",
+   "dafuer": "Beweise, dass die Außenwelt existiert. Oder dass Grausamkeit schlecht ist. Du kannst es nicht und zweifelst trotzdem nicht ernsthaft daran. Jeder Beweis ruht auf etwas Unbewiesenem. Pascal behauptet nicht, jedes Gefühl sei Wissen. Er sagt, dass es einen Boden gibt, auf dem das Beweisen steht. Was gilt für dich so?",
+   "fragen": [
+    "Was weißt du, ohne es begründen zu können?",
+    "Woran unterscheidest du diese Gewissheit von einem bloßen Wunsch?",
+    "Hat dich dein Herz in diesem Sinn schon einmal getäuscht?"
+   ]
   },
   {
    "d": "pascal",
    "titel": "Zerstreuung",
    "text": "Ein König ohne Zerstreuung ist ein unglücklicher Mensch. Jagd, Spiel und Geschäfte dienen für Pascal einem Zweck: nicht an sich selbst denken zu müssen, an die eigene Sterblichkeit und Leere.",
-   "frage": "Wovor lenkst du dich am zuverlässigsten ab?"
+   "frage": "Wovor lenkst du dich am zuverlässigsten ab?",
+   "idee": "Pascal behauptet, alles Unglück der Menschen komme daher, dass sie nicht ruhig in einem Zimmer bleiben können. Er sieht sich um und findet überall Betrieb: Jagd, Spiel, Krieg, Ämter, Geschäfte. Fragt man die Leute, sagen sie, sie wollten den Hasen, den Gewinn, den Posten. Das glaubt er ihnen nicht. Schenkt man dem Jäger den Hasen, ist er enttäuscht. Es geht um die Jagd. Der Mensch braucht Lärm und Bewegung, weil er sonst an sich denken müsste, an seine Schwäche, seine Sterblichkeit, seine Leere. Pascal nennt das Zerstreuung. Selbst ein König, dem nichts fehlt, wird elend, wenn man ihn mit sich allein lässt. Deshalb ist er von Leuten umgeben, die ihn unterhalten.",
+   "beispiel": "In „The Man Who Sleeps“ macht ein Student die Probe. Er bleibt im Zimmer, sieht Risse an der Decke, hört den Wasserhahn tropfen. Am Anfang fühlt er sich frei, am Ende zittert er. In „Requiem for a Dream“ läuft bei der einsamen Sara von morgens bis abends der Fernseher. Als das nicht reicht, kommen die Pillen.",
+   "these": "Wir beschäftigen uns vor allem, um nicht über uns selbst nachdenken zu müssen.",
+   "einwand": "Menschen arbeiten, spielen und reisen, weil es ihnen Freude macht und weil sie etwas zustande bringen wollen. Dahinter eine Flucht zu wittern, ist die Sicht eines kränklichen Asketen. Tätigsein ist kein Betäubungsmittel, es ist das Leben. Und wer stundenlang über sich grübelt, wird davon selten klüger, eher trübsinnig.",
+   "dafuer": "Achte auf die erste freie Minute: an der Haltestelle, im Aufzug, vor dem Einschlafen. Die Hand geht zum Telefon, bevor ein Gedanke da ist. Pascal kannte kein Telefon und hat es doch beschrieben. Er sagt nicht, dass Tätigkeit schlecht ist. Er fragt, ob du sie auch lassen könntest. Wie lange hältst du Stille aus?",
+   "fragen": [
+    "Wovor lenkst du dich am zuverlässigsten ab?",
+    "Welcher Gedanke kommt, wenn die Ablenkung ausfällt?",
+    "Was würde geschehen, wenn du ihn einmal zu Ende denkst?"
+   ]
   },
   {
    "d": "dostojewski",
    "titel": "Ist alles erlaubt?",
    "text": "Iwan Karamasow vertritt den Gedanken: Gibt es keinen Gott und keine Unsterblichkeit, dann ist alles erlaubt. Der Roman prüft diesen Satz an den Menschen, die ihn ernst nehmen, und einer von ihnen mordet.",
-   "frage": "Woher käme für dich ein Verbot, das niemand durchsetzt?"
+   "frage": "Woher käme für dich ein Verbot, das niemand durchsetzt?",
+   "idee": "In den „Brüdern Karamasow“ vertritt der mittlere Bruder Iwan einen Gedanken, der oft auf die Formel gebracht wird: Wenn es keinen Gott und keine Unsterblichkeit gibt, ist alles erlaubt. Ohne ein höchstes Gericht, meint er, hat die Tugend keinen Grund mehr, und der Eigennutz bis zum Verbrechen wird vernünftig. Iwan ist ein feiner, gebildeter Mann und zieht daraus für sich keine Folgen. Aber sein Halbbruder Smerdjakow, der Diener im Haus, hört zu. Er nimmt den Satz wörtlich und erschlägt den Vater. Dostojewski führt so eine Probe durch. Ein Gedanke ist nicht harmlos, nur weil der, der ihn denkt, selbst nicht handelt. Iwan zerbricht an der Einsicht, dass er der Anstifter war.",
+   "beispiel": "In „The Vanishing“ will ein freundlicher Familienvater herausfinden, ob er zum Schlimmsten fähig ist. Nichts hält ihn ab, und nichts bestraft ihn. In „Apocalypse Now“ hat Oberst Kurtz im Dschungel jedes Gesetz hinter sich gelassen. Seine letzten Worte klingen nicht wie die eines Mannes, dem alles erlaubt war.",
+   "these": "Ohne Gott gibt es keinen letzten Grund, warum etwas verboten sein sollte.",
+   "einwand": "Atheisten morden nicht häufiger als Gläubige, und mit Gott im Mund wurde reichlich gemordet. Moral braucht keinen Himmel. Sie kommt aus Mitgefühl, Erziehung und der Einsicht, dass wir aufeinander angewiesen sind. Wer nur aus Furcht vor Strafe anständig ist, ist es gar nicht. Ein Verbot gilt, weil das Opfer leidet, und das genügt.",
+   "dafuer": "Frag weiter: Warum zählt das Leid des Opfers, wenn es mir nützt und niemand es erfährt? Mitgefühl ist ein Gefühl, manche haben es nicht. Der Roman fragt, was man einem Smerdjakow entgegnen kann, der sagt: Ich fühle nichts, und ihr könnt mir nichts. Die Antwort fällt schwerer, als man denkt. Was würdest du ihm sagen?",
+   "fragen": [
+    "Woher käme für dich ein Verbot, das niemand durchsetzt?",
+    "Gibt es etwas, das du auch dann nicht tätest, wenn es dir nützte und nie herauskäme?",
+    "Warum nicht? Versuch, den Grund auszusprechen."
+   ]
   },
   {
    "d": "dostojewski",
    "titel": "Zwei mal zwei ist fünf",
    "text": "Der Mann im Kellerloch wehrt sich gegen eine Welt, in der alles berechnet ist. Lieber handelt er gegen den eigenen Vorteil, nur um zu beweisen, dass er ein Mensch ist und keine Klaviertaste.",
-   "frage": "Wann hast du zuletzt bewusst gegen deinen Vorteil gehandelt?"
+   "frage": "Wann hast du zuletzt bewusst gegen deinen Vorteil gehandelt?",
+   "idee": "Zu Dostojewskis Zeit glaubten viele an eine vernünftige Zukunft. Man müsse den Menschen nur zeigen, was ihr wahrer Vorteil ist, dann würden sie von selbst gut handeln. Die Gesellschaft ließe sich ausrechnen wie eine Tabelle. Der Mann im Kellerloch höhnt darüber. Zwei mal zwei ist vier, sagt er, das ist eine Mauer, und er mag sie nicht. Der Mensch werde lieber gegen seinen Vorteil handeln, sich schaden, sogar verrückt werden, nur um zu beweisen, dass er kein Stift in einer Orgelwalze und keine Klaviertaste ist. Sein eigener freier Wille, und sei er noch so dumm, ist ihm mehr wert als jedes Glück nach Plan. Dostojewski zeigt dabei keinen Helden. Der Mann ist gehässig, einsam und quält sich selbst.",
+   "beispiel": "In „Taxi Driver“ tut Travis mehrmals das, was ihm am meisten schadet. Er führt die Frau, die er anbetet, in ein Pornokino. In „A Clockwork Orange“ wird ein Schläger so behandelt, dass er nur noch brav sein kann. Der Film fragt, ob ein berechenbar guter Mensch noch ein Mensch ist.",
+   "these": "Menschen wollen lieber frei sein als glücklich, auch wenn sie sich damit schaden.",
+   "einwand": "Die allermeisten wählen Sicherheit, sobald sie können: feste Stelle, Versicherung, Gewohnheit. Der Kellerlochmensch ist ein Sonderfall, und Dostojewski zeichnet ihn krank. Trotz als Beweis der Freiheit ist kindisch. Wer sich schadet, um nicht berechenbar zu sein, ist es erst recht. Man weiß genau, was er tun wird: das Gegenteil.",
+   "dafuer": "Menschen rauchen, obwohl sie es besser wissen. Sie verlassen gute Stellen, zerstören Beziehungen, die ihnen guttun, und stimmen gegen ihren Geldbeutel. Mit Rechenfehlern ist das nicht erklärt. Oft steckt der Wunsch dahinter, dass niemand über einen verfügt, auch nicht die eigene Vernunft. Wann hast du etwas getan, nur weil man es dir ausreden wollte?",
+   "fragen": [
+    "Wann hast du zuletzt bewusst gegen deinen Vorteil gehandelt?",
+    "Was wolltest du damit beweisen, und wem?",
+    "War es Freiheit oder Trotz, und woran erkennst du den Unterschied?"
+   ]
   },
   {
    "d": "dostojewski",
    "titel": "Der Großinquisitor",
    "text": "Christus kehrt zurück, und der Großinquisitor lässt ihn verhaften. Sein Vorwurf: Du hast den Menschen Freiheit gegeben, sie wollen aber Brot, Wunder und Autorität. Christus antwortet nur mit einem Kuss.",
-   "frage": "Welche Freiheit würdest du gegen Sicherheit eintauschen?"
+   "frage": "Welche Freiheit würdest du gegen Sicherheit eintauschen?",
+   "idee": "Iwan Karamasow erzählt seinem Bruder eine erfundene Legende. Im Sevilla der Inquisition erscheint Christus wieder, heilt und wird erkannt. Der greise Großinquisitor lässt ihn verhaften und besucht ihn nachts in der Zelle. Er wirft ihm vor, die Menschen überfordert zu haben. In der Wüste habe der Versucher ihm drei Dinge angeboten: Brot, Wunder und Macht. Christus habe abgelehnt, weil er freien Glauben wollte. Aber die Menschen, sagt der Alte, ertragen Freiheit nicht. Sie wollen satt sein, staunen und gehorchen. Die Kirche habe das Werk verbessert und ihnen die Last abgenommen. Sie seien jetzt glücklich wie Kinder. Christus sagt die ganze Zeit kein Wort. Am Ende küsst er den Alten auf den Mund, und der lässt ihn gehen.",
+   "beispiel": "In „The Truman Show“ erklärt der Regisseur Christof seinem Geschöpf, draußen sei es nicht wahrer, nur gefährlicher. Drinnen habe er nichts zu fürchten. In „The Matrix“ will Cypher zurück in die Täuschung und verlangt, dass man ihm die Erinnerung nimmt. Er will ein Steak und keine Wahrheit.",
+   "these": "Die meisten Menschen wollen Sicherheit und Führung, keine Freiheit.",
+   "einwand": "So reden alle, die über andere herrschen wollen. Menschen sind für ihre Freiheit auf Barrikaden gestiegen und in Lager gegangen. Wer satt und sicher ist, will als Nächstes mitreden. Der Großinquisitor verachtet die, die er zu lieben vorgibt. Und Dostojewski lässt Christus mit einem Kuss antworten, weil das Argument des Alten keine Widerlegung verdient.",
+   "dafuer": "Sieh dir an, wem Menschen in unsicheren Zeiten folgen. Sieh dir an, wie gern wir Entscheidungen abgeben: an Experten, Geräte, Empfehlungen. Der Inquisitor hat schwer zu widerlegende Beobachtungen auf seiner Seite. Deshalb hat Dostojewski ihn so stark gemacht. Welche Entscheidung lässt du dir abnehmen und bist froh darüber?",
+   "fragen": [
+    "Welche Freiheit würdest du gegen Sicherheit eintauschen?",
+    "Welche hast du schon eingetauscht, ohne es so zu nennen?",
+    "Was bedeutet der Kuss: Vergebung, Mitleid oder Widerspruch?"
+   ]
   },
   {
    "d": "laotse",
    "titel": "Wu wei",
    "text": "Wu wei heißt nicht Nichtstun, sondern Handeln, ohne zu erzwingen, so wie Wasser nachgibt und doch den Stein aushöhlt. Der Weise tut, was die Lage verlangt, und drängt sich nicht auf.",
-   "frage": "Wo erzwingst du gerade etwas, das von selbst kommen müsste?"
+   "frage": "Wo erzwingst du gerade etwas, das von selbst kommen müsste?",
+   "idee": "Wu wei ist ein Grundbegriff des Daodejing, des Buches, das Laotse zugeschrieben wird. Wörtlich heißt es Nicht-Tun. Gemeint ist damit kein Faulenzen. Es geht um ein Handeln, das nichts erzwingt. Der Weise tut, was die Lage verlangt, und nicht mehr. Er greift nicht ein, wo sich etwas von selbst entwickelt, und drängt sich nicht vor. Das Lieblingsbild ist das Wasser. Es ist das Weichste, gibt jedem Hindernis nach, sucht die niedrigste Stelle und höhlt doch den Fels. Ein anderes Bild ist der Koch, der sein Messer nie schleifen muss, weil er zwischen den Gelenken schneidet statt durch den Knochen. Das Buch richtet sich auch an Herrscher: Der beste regiert so, dass das Volk meint, es habe alles selbst getan.",
+   "beispiel": "In „Stalker“ wirft der Führer Schraubenmuttern voraus und folgt ihnen in Umwegen. Wer in der Zone geradeaus geht, kommt um. In „Sound of Metal“ gibt ein Lehrer einem Mann, der alles reparieren will, eine einzige Aufgabe: jeden Morgen in einem Zimmer sitzen und nichts tun.",
+   "these": "Wer nichts erzwingt, erreicht mehr als der, der kämpft.",
+   "einwand": "Das ist die Weisheit derer, denen es gut geht. Kein Recht wurde je durch Abwarten gewonnen. Sklaverei, Wahlrecht, Arbeitszeit: alles erkämpft, gegen Widerstand. Krankheiten heilen nicht durch Nachgeben. Und wer in einer Firma oder Familie nie etwas durchsetzt, wird überrollt. Wasser höhlt den Stein, ja, in zehntausend Jahren.",
+   "dafuer": "Denk an Dinge, die sich nicht erzwingen lassen: Schlaf, Vertrauen, ein Einfall, die Zuneigung eines Menschen. Je mehr Druck, desto weniger kommen sie. Auch ein guter Handwerker arbeitet mit dem Material statt gegen es. Wu wei verbietet kein Handeln, es verbietet das Verkrampfen. Was ist dir zuletzt gelungen, als du aufgehört hast zu drücken?",
+   "fragen": [
+    "Wo erzwingst du gerade etwas, das von selbst kommen müsste?",
+    "Was befürchtest du, wenn du den Druck wegnimmst?",
+    "Wo wäre Nachgeben bei dir wirklich nur Bequemlichkeit?"
+   ]
   },
   {
    "d": "laotse",
@@ -492,7 +622,17 @@
    "zitat": "Wer andere kennt, ist klug. Wer sich selbst kennt, ist weise.",
    "quelle": "Daodejing, Kap. 33",
    "text": "Der Abschnitt setzt fort: Wer andere besiegt, hat Kraft, wer sich selbst besiegt, ist stark. Und wer weiß, dass er genug hat, ist reich.",
-   "frage": "Was weißt du über andere besser als über dich?"
+   "frage": "Was weißt du über andere besser als über dich?",
+   "idee": "Das 33. Kapitel des Daodejing besteht aus Gegenüberstellungen. Wer andere kennt, ist klug, wer sich selbst kennt, ist weise. Wer andere besiegt, hat Kraft, wer sich selbst besiegt, ist stark. Wer weiß, dass er genug hat, ist reich. Jedes Mal stellt der Text etwas Äußeres neben etwas Inneres und gibt dem Inneren den Vorrang. Andere zu durchschauen ist nützlich und nicht schwer, man sieht sie ja von außen. Sich selbst sieht man nicht. Man steht sich im Weg, hat Gründe für alles und ein Interesse daran, gut dazustehen. Deshalb gilt Selbsterkenntnis hier als die höhere Stufe. Dasselbe forderte die Inschrift am Tempel von Delphi, tausende Kilometer weiter westlich: Erkenne dich selbst.",
+   "beispiel": "In „Good Will Hunting“ durchschaut Will jeden Menschen in Minuten und sagt ihm seine Schwächen ins Gesicht. Über sich selbst weiß er nichts, was er nicht in Büchern gelesen hätte. In „Persona“ redet eine Krankenschwester wochenlang über sich und merkt am Ende, dass sie sich nicht kennt.",
+   "these": "Sich selbst zu kennen ist schwerer und wichtiger, als andere zu durchschauen.",
+   "einwand": "Selbsterkenntnis ist oft nur Nabelschau. Leute, die ständig in sich hineinhorchen, sind selten weiser, meist nur beschäftigter mit sich. Was einer ist, zeigt sich an dem, was er tut, und das sehen andere besser als er selbst. Menschenkenntnis dagegen braucht jeder täglich. Vielleicht ist die Reihenfolge im Daodejing falsch herum.",
+   "dafuer": "Fast jeder kann die Fehler seiner Kollegen aufzählen und stockt bei den eigenen. Und wer die eigenen Antriebe nicht kennt, wird von ihnen gelenkt: Er hält Neid für Gerechtigkeitssinn und Angst für Vorsicht. Menschenkenntnis ohne Selbstkenntnis ist ein Werkzeug in der Hand eines Unbekannten. Was würden andere über dich sagen, das dich überraschen würde?",
+   "fragen": [
+    "Was weißt du über andere besser als über dich?",
+    "Welche Rückmeldung hast du mehrfach gehört und nie geglaubt?",
+    "Was an dir möchtest du lieber nicht genauer wissen?"
+   ]
   },
   {
    "d": "laotse",
@@ -500,25 +640,65 @@
    "zitat": "Das Dao, das sich aussprechen lässt, ist nicht das ewige Dao.",
    "quelle": "Daodejing, Kap. 1",
    "text": "Das Buch beginnt mit dem Eingeständnis, dass sein Gegenstand sich nicht in Worte fassen lässt, und spricht dann doch achtzig Kapitel lang darüber, in Bildern und Paradoxen.",
-   "frage": "Welche Erfahrung verlierst du, sobald du sie erklärst?"
+   "frage": "Welche Erfahrung verlierst du, sobald du sie erklärst?",
+   "idee": "Das Daodejing beginnt mit einem Satz, der das ganze Buch in Frage stellt: Das Dao, das sich aussprechen lässt, ist nicht das ewige Dao. Der Name, den man nennen kann, ist nicht der ewige Name. Dao heißt Weg. Gemeint ist der Grund und Gang aller Dinge, das, woraus alles kommt und wonach alles verläuft. Davon lässt sich nicht reden wie von einem Gegenstand, denn jedes Wort grenzt ab, und das Dao ist das, was vor allen Grenzen liegt. Trotzdem folgen einundachtzig kurze Kapitel. Sie reden in Bildern: Wasser, Tal, unbehauener Holzklotz, die Leere in der Nabe eines Rades, die das Rad erst brauchbar macht. Der Text zeigt auf etwas und warnt zugleich davor, den Finger für die Sache zu halten.",
+   "beispiel": "In Bergmans „The Silence“ sitzen zwei Schwestern in einem Land, dessen Sprache sie nicht verstehen. Worte helfen ihnen auch untereinander nicht. Verbunden sind für einen Augenblick alle durch Musik von Bach aus dem Radio. Tarkowskis „Mirror“ erklärt keines seiner Bilder. Wer nach dem Film sagen soll, was er gesehen hat, merkt, wie viel dabei verloren geht.",
+   "these": "Das Wichtigste lässt sich nicht in Worte fassen.",
+   "einwand": "Das ist eine bequeme Ausrede für unklares Denken. Was sich nicht sagen lässt, kann man auch nicht prüfen, und dann darf jeder alles behaupten. Dichter, Liebende und Trauernde finden seit Jahrtausenden sehr genaue Worte. Wer sagt, etwas sei unsagbar, hat oft nur nicht lange genug gesucht. Und das Daodejing selbst redet ziemlich viel.",
+   "dafuer": "Beschreib den Geschmack von Kaffee jemandem, der nie welchen getrunken hat. Oder was an einem Gesicht dich rührt. Du kannst darum herumreden, treffen wirst du es nicht. Worte zeigen hin und setzen voraus, dass der andere es kennt. Das Daodejing redet in Bildern, weil es das weiß. Was hast du erlebt, das beim Erzählen kleiner wurde?",
+   "fragen": [
+    "Welche Erfahrung verlierst du, sobald du sie erklärst?",
+    "Hast du je ein Bild, ein Lied oder eine Geste gefunden, die sie besser trifft?",
+    "Was folgt daraus dafür, wie du mit anderen über das Wichtige sprichst?"
+   ]
   },
   {
    "d": "epiktet",
    "titel": "In unserer Macht",
    "text": "In unserer Macht stehen Urteil, Wollen und Ablehnen. Nicht in unserer Macht stehen Körper, Besitz, Ansehen. Wer das zweite für sein Eigentum hält, wird nach Epiktet klagen und sich aufregen. Wer nur das erste will, den kann niemand zwingen.",
-   "frage": "Worüber hast du dich heute geärgert, das nicht in deiner Macht stand?"
+   "frage": "Worüber hast du dich heute geärgert, das nicht in deiner Macht stand?",
+   "idee": "Epiktet war Sklave in Rom, wurde freigelassen und lehrte Philosophie. Sein Handbüchlein beginnt mit einer einzigen Unterscheidung. Manche Dinge stehen in unserer Macht: unsere Urteile, unser Wollen, unser Begehren und Ablehnen. Andere stehen nicht in unserer Macht: der Körper, der Besitz, das Ansehen, was andere tun. Unglück entsteht, wenn man beides verwechselt. Wer sein Glück an etwas hängt, das er nicht in der Hand hat, wird zittern, klagen und andere beschuldigen. Wer nur das will, was bei ihm liegt, den kann niemand hindern und niemand zwingen. Epiktet fügt hinzu: Nicht die Dinge beunruhigen die Menschen, sondern ihre Meinungen über die Dinge. An der Meinung kann man arbeiten.",
+   "beispiel": "In „Sound of Metal“ verliert ein Schlagzeuger sein Gehör. Der Verlust steht nicht in seiner Macht, sein Umgang damit schon. Genau das versucht ihm der Leiter einer Gemeinschaft Gehörloser beizubringen. Ruben verkauft lieber alles für eine Operation. In „The Pianist“ behält ein Mann, dem alles genommen wird, eines: Er spielt in Gedanken weiter.",
+   "these": "Nicht die Dinge machen uns unglücklich, sondern unsere Meinung über sie.",
+   "einwand": "Sag das jemandem mit Zahnschmerzen, einer Mutter, deren Kind gestorben ist, oder einem Gefolterten. Manches ist schlimm, ganz gleich, was man darüber denkt. Die Lehre schiebt dem Leidenden die Schuld zu: Du siehst es nur falsch. Und sie lähmt. Wer alles Äußere für gleichgültig erklärt, kämpft nicht mehr gegen Unrecht.",
+   "dafuer": "Zwei Menschen verlieren dieselbe Stelle. Der eine ist erleichtert, der andere bricht zusammen. Das Ereignis ist gleich, das Urteil verschieden. Epiktet leugnet den Schmerz nicht. Er trennt ihn von dem, was wir dazutun: „Das hätte nicht passieren dürfen“, „Jetzt ist alles aus“. Dieser Zusatz ist oft der größere Teil. Welchen fügst du gewöhnlich hinzu?",
+   "fragen": [
+    "Worüber hast du dich heute geärgert, das nicht in deiner Macht stand?",
+    "Was genau war das Ereignis, und was war dein Urteil darüber?",
+    "Was an der Lage lag doch bei dir?"
+   ]
   },
   {
    "d": "marcaurel",
    "titel": "Die Morgenübung",
    "text": "Marc Aurel sagt sich am Morgen vor: Ich werde heute Undankbaren, Rücksichtslosen und Neidischen begegnen. Sie sind so aus Unwissenheit, und keiner von ihnen kann mir schaden, denn wir sind zur Zusammenarbeit geboren.",
-   "frage": "Wem begegnest du morgen, auf den du dich so vorbereiten könntest?"
+   "frage": "Wem begegnest du morgen, auf den du dich so vorbereiten könntest?",
+   "idee": "Marc Aurel regierte das Römische Reich und führte jahrelang Krieg an der Donau. Seine „Selbstbetrachtungen“ schrieb er nur für sich, als Übungen. Eine davon steht am Anfang des zweiten Buches und gehört in den Morgen. Sag dir beim Aufstehen: Ich werde heute einem Vorwitzigen, einem Undankbaren, einem Groben, einem Hinterlistigen und einem Neider begegnen. Dann folgt die Erklärung. Sie sind so geworden, weil sie nicht wissen, was gut und schlecht ist. Ich weiß es. Deshalb kann mir keiner von ihnen wirklich schaden, und ich kann ihnen nicht zürnen. Wir sind zur Zusammenarbeit geschaffen wie die Füße, die Hände, die obere und untere Zahnreihe. Gegeneinander zu arbeiten ist gegen die Natur.",
+   "beispiel": "In „Barry Lyndon“ trifft ein junger Mann nacheinander Betrüger, Räuber, Werber und Schmeichler und ist jedes Mal überrascht. Er hat sich auf niemanden vorbereitet und wird schließlich selbst einer von ihnen. Die kühle Erzählerstimme des Films hat dagegen etwas von Marc Aurel: Sie rechnet mit allem und regt sich über nichts auf.",
+   "these": "Wer mit der Unfreundlichkeit der anderen rechnet, lebt gelassener und gerechter.",
+   "einwand": "Wer jeden Morgen das Schlechteste erwartet, wird misstrauisch und findet es auch. Menschen verhalten sich oft so, wie man sie ansieht. Besser wäre es, mit dem Guten zu rechnen und sich gelegentlich enttäuschen zu lassen. Außerdem klingt die Übung überheblich: Die anderen sind unwissend, nur ich kenne das Gute.",
+   "dafuer": "Der meiste Ärger entsteht aus Überraschung: Wie kann der nur! Wer vorher weiß, dass im Verkehr gedrängelt und im Büro geklagt wird, nimmt es nicht mehr persönlich. Die Übung endet auch nicht im Misstrauen. Sie endet bei den beiden Zahnreihen: Die Leute gehören zu mir. Über wen ärgerst du dich jede Woche neu, obwohl du ihn kennst?",
+   "fragen": [
+    "Wem begegnest du morgen, auf den du dich so vorbereiten könntest?",
+    "Was an seinem Verhalten kommt aus Unwissenheit oder Not?",
+    "Für wen bist du selbst der Grobe oder der Undankbare?"
+   ]
   },
   {
    "d": "marcaurel",
    "titel": "Der Blick von oben",
    "text": "Betrachte das Treiben der Menschen wie von einem hohen Ort aus: Herden, Heere, Hochzeiten, Märkte, Geburten und Tode. Die Übung soll nichts entwerten, sondern das eigene Aufgeregtsein auf sein Maß bringen.",
-   "frage": "Welche deiner Sorgen schrumpft, wenn du sie von weit oben ansiehst?"
+   "frage": "Welche deiner Sorgen schrumpft, wenn du sie von weit oben ansiehst?",
+   "idee": "Eine zweite Übung, die Marc Aurel sich immer wieder aufgibt, ist der Blick von oben. Stell dir vor, du würdest emporgehoben und sähest auf die Menschen hinunter: Herden, Heere, Bauern auf dem Feld, Hochzeiten und Scheidungen, Geburten und Sterbefälle, Lärm der Gerichte, Feste, Märkte. Dazu die Zeit: wie viele vor dir gelebt haben, wie viele nach dir kommen, wie schnell die Namen der Berühmten vergessen sind. Die Erde ist ein Punkt, und der Ort, an dem du wohnst, ein Winkel davon. Die Übung soll nichts verächtlich machen. Sie soll das Maß zurechtrücken. Was mich heute Nacht wach hält, ist von dort aus eines von Millionen ähnlicher Dinge. Übrig bleibt die Frage, was ich in meinem Winkel recht tue.",
+   "beispiel": "„Wings of Desire“ beginnt genau so: Engel sehen von einer Kirchturmspitze auf Berlin und hören das Gemurmel aller Gedanken, Sorgen um Miete, Liebe, Eltern. Von dort sind alle gleich nah. Kubrick schließt „Barry Lyndon“ mit dem Satz, dass alle Figuren, gute und schlechte, schöne und hässliche, jetzt gleich sind.",
+   "these": "Aus genügend Abstand werden die meisten unserer Sorgen klein.",
+   "einwand": "Aus genügend Abstand wird alles klein, auch das Leid eines Kindes und ein Völkermord. Wer so schaut, kann sich jede Gleichgültigkeit schönreden. Die Sorge um einen kranken Menschen ist nicht deshalb unwichtig, weil die Erde ein Punkt ist. Wir leben nicht oben, wir leben hier. Nähe ist kein Irrtum der Perspektive.",
+   "dafuer": "Marc Aurel benutzt den Blick wie ein Werkzeug und bleibt nicht oben. Er regiert weiter, führt Krieg, sorgt für seine Kinder. Der Abstand nimmt der Kränkung, dem Ehrgeiz und der Angst vor dem Urteil anderer die Übergröße. Was dir wirklich wichtig ist, übersteht ihn meist. Es wird sogar deutlicher. Welche Sorge von letzter Woche ist heute schon egal?",
+   "fragen": [
+    "Welche deiner Sorgen schrumpft, wenn du sie von weit oben ansiehst?",
+    "Welche schrumpft nicht, und was sagt dir das?",
+    "Was würdest du heute anders tun, wenn die geschrumpften wegfielen?"
+   ]
   },
   {
    "d": "seneca",
@@ -526,7 +706,17 @@
    "zitat": "Es ist nicht wenig Zeit, die wir haben, sondern es ist viel Zeit, die wir nicht nutzen.",
    "quelle": "Von der Kürze des Lebens (sinngemäß)",
    "text": "Seneca wundert sich, dass Menschen ihr Geld geizig hüten und ihre Zeit an jeden verschenken, der danach fragt. Dabei ist sie das Einzige, womit Geiz ehrenhaft wäre.",
-   "frage": "Wem oder was gibst du Zeit, die du nicht geben willst?"
+   "frage": "Wem oder was gibst du Zeit, die du nicht geben willst?",
+   "idee": "Seneca, Staatsmann und einer der reichsten Römer seiner Zeit, schrieb eine kleine Schrift über die Kürze des Lebens. Sie beginnt mit einer Klage, die jeder kennt: Das Leben sei zu kurz. Seneca widerspricht. Wir bekommen genug Zeit, wir verschwenden sie nur. Er beobachtet einen Widerspruch. Ihr Geld und ihren Grundbesitz verteidigen Menschen bis aufs Messer. Ihre Zeit geben sie jedem, der sie haben will: Bittstellern, Gastgebern, Geschäften, dem Ehrgeiz, dem Ärger. Dabei ist sie das Einzige, was sich nicht ersetzen lässt. Viele, sagt er, sind lange da gewesen und haben wenig gelebt. Sie schieben das Eigentliche auf den Ruhestand und merken nicht, dass sie das Leben mit dem bezahlen, was übrig bleibt.",
+   "beispiel": "In „Wild Strawberries“ fährt ein alter Professor zu seiner Ehrung und sieht unterwegs sein Leben: Arbeit, Titel, Kälte gegen die Nächsten. In „Yi Yi“ soll eine Frau ihrer Mutter im Koma täglich etwas erzählen und merkt, dass sie jeden Tag dasselbe sagt, weil in ihrem Tag so wenig vorkommt. Sie weint und geht in ein Kloster.",
+   "these": "Das Leben ist nicht zu kurz. Wir verschwenden es.",
+   "einwand": "Seneca hatte Sklaven, die für ihn kochten und schrieben. Wer zwei Stellen hat und Kinder versorgt, verschwendet nichts und hat trotzdem keine Stunde für sich. Und was heißt verschwenden? Ein Nachmittag vor dem Fernseher oder ein langes Gespräch über nichts kann genau das Leben sein. Nicht jede Minute muss Ertrag bringen.",
+   "dafuer": "Rechne eine Woche nach: Wie viele Stunden gingen an Dinge, die du weder musstest noch wolltest? Seneca verlangt keinen Ertrag. Er verlangt, dass die Zeit dir gehört. Auch der Fernsehnachmittag zählt, wenn du ihn gewählt hast. Verschwendet ist, was man hergibt, ohne es zu merken. An wen oder was ist das bei dir gegangen?",
+   "fragen": [
+    "Wem oder was gibst du Zeit, die du nicht geben willst?",
+    "Was schiebst du auf einen späteren Lebensabschnitt?",
+    "Was davon ließe sich diese Woche beginnen, und sei es eine Stunde?"
+   ]
   },
   {
    "d": "seneca",
